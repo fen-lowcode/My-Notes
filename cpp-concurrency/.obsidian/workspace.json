@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,8 @@
   },
   "active": "043d27fe30188d3f",
   "lastOpenFiles": [
-    "Welcome.md",
-    "What is concurrency?.md"
+    "Multicore-processor.md",
+    "What is concurrency?.md",
+    "Welcome.md"
   ]
 }
