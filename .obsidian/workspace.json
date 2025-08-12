@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "3e3f4d5591e0491d",
+    "type": "split",
+    "children": [
+      {
+        "id": "34646b0b58bc5c10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b4b73f0f72a716f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/Malware/Types of Modern Malware.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of Modern Malware"
+            }
+          },
+          {
+            "id": "ab09642c3dbfee18",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05ee042283d55823",
+    "type": "split",
+    "children": [
+      {
+        "id": "e51bec3a0ef56bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08db2a453ca6b114",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "516bfd4483bee300",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1abb0c236a2df60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "right": {
+    "id": "f46fcab4f99dd269",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7596d44c8046a56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b072e5b7fe4af66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hacking/Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking"
+            }
+          },
+          {
+            "id": "79405ea3c1e62b0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hacking/Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking"
+            }
+          },
+          {
+            "id": "d49c4b639f607e63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78f66b3f61907903",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hacking/Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab09642c3dbfee18",
+  "lastOpenFiles": [
+    "README.md",
+    "Cyber Security/Overview and Guidance.md",
+    "Untitled.md",
+    "Programming",
+    "Diary/Self Improvement/Self/Things that i know so far.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.9.png",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.8.png",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.7.png",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.6.png",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.5.png",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.4.png",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.2.jpeg",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.17.png",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.16.png",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.15.png",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/The Operating System Manages the Hardware.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Storage Devices Hierarchy.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Shell.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Running a simple Hello World Program.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Register File.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Processor.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Motherboard.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Main Memory.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/How Software runs.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Hardware Organization of a Typical System.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Concurrency and Parallelism.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Cache Memory.md",
+    "computer-system/my-notes/Tour of Computer Systems/Compiler/images",
+    "computer-system/my-notes/Tour of Computer Systems/Compiler/Why it's important to understand the compilation system.md",
+    "computer-system/my-notes/Tour of Computer Systems/Compiler/What is GCC and G++.md",
+    "computer-system/my-notes/Tour of Computer Systems/Compiler/How linker works.md",
+    "computer-system/my-notes/Tour of Computer Systems/Compiler/How GCC works under the hood.md",
+    "computer-system/my-notes/Tour of Computer Systems/Compiler/Hello World Program.md",
+    "computer-system/my-notes/Self Improvement/Topics/Way of learning.md",
+    "computer-system/my-notes/Self Improvement/Topics/Think Outside the box.md",
+    "computer-system/my-notes/Self Improvement/Topics/The Will.md",
+    "computer-system/my-notes/Self Improvement/Topics/The Goal.md",
+    "computer-system/my-notes/Self Improvement/Topics/The Brain.md",
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software",
+    "computer-system/my-notes/Tour of Computer Systems/Compiler",
+    "computer-system/my-notes/Self Improvement/Topics",
+    "computer-system/my-notes/Self Improvement/Self",
+    "computer-system/my-notes/Tour of Computer Systems",
+    "computer-system/my-notes/Self Improvement",
+    "computer-system/my-notes/Philosophy"
+  ]
+}
