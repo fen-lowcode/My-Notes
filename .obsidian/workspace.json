@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems/Binary/Visualizing Data Types at the Byte Level.md",
+                "file": "Cyber Security/Hacking/Malware/Two Stage Malware.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visualizing Data Types at the Byte Level"
+              "title": "Two Stage Malware"
             }
           }
         ],
@@ -199,6 +199,8 @@
   },
   "active": "67c54ddbf031ac43",
   "lastOpenFiles": [
+    "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
+    "Computer Systems/Binary/Visualizing Data Types at the Byte Level.md",
     "Computer Systems/Binary/Byte Ordering and Representation in Memory Overview.md",
     "Computer Systems/Binary/32 bit and 64 bit - what in the world is a bit?.md",
     "Computer Systems/Tour of Computer Systems/Compiler/What is GCC and G++.md",
@@ -210,7 +212,6 @@
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Main Memory.md",
     "Cyber Security/Hacking/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
     "Cyber Security/Hacking/Malware/Types of Modern Malware.md",
-    "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
     "Cyber Security/Hacking/Malware/Two Stage Malware.md",
     "Cyber Security/Hacking/Shellcodes/Evasion Tactics for Shellcode Execution.md",
     "Cyber Security/Hacking/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
@@ -240,7 +241,6 @@
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/The Operating System Manages the Hardware.md",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Storage Devices Hierarchy.md",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Shell.md",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Running a simple Hello World Program.md",
     "computer-system/my-notes/Tour of Computer Systems/Compiler/images",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software",
     "computer-system/my-notes/Tour of Computer Systems/Compiler",
