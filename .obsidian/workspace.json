@@ -25,14 +25,32 @@
             "id": "ab09642c3dbfee18",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons"
+            }
+          },
+          {
+            "id": "67c54ddbf031ac43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Systems/Binary/Visualizing Data Types at the Byte Level.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visualizing Data Types at the Byte Level"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,11 +197,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab09642c3dbfee18",
+  "active": "67c54ddbf031ac43",
   "lastOpenFiles": [
+    "Computer Systems/Binary/Byte Ordering and Representation in Memory Overview.md",
+    "Computer Systems/Binary/32 bit and 64 bit - what in the world is a bit?.md",
+    "Computer Systems/Tour of Computer Systems/Compiler/What is GCC and G++.md",
+    "Computer Systems/Tour of Computer Systems/Compiler/How GCC works under the hood.md",
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/How Software runs.md",
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Hardware Organization of a Typical System.md",
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Register File.md",
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Motherboard.md",
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Main Memory.md",
+    "Cyber Security/Hacking/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
+    "Cyber Security/Hacking/Malware/Types of Modern Malware.md",
+    "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
+    "Cyber Security/Hacking/Malware/Two Stage Malware.md",
+    "Cyber Security/Hacking/Shellcodes/Evasion Tactics for Shellcode Execution.md",
+    "Cyber Security/Hacking/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
+    "Cyber Security/Hacking/Shellcodes/Powershell and Shellcode over Full Malware.md",
+    "Cyber Security/Hacking/Shellcodes/Self-Decrypting Shell code.md",
+    "Cyber Security/Hacking/Malware/images",
+    "Cyber Security/Hacking/Malware/images/Two-Stage-malware-diagram.png",
+    "images/Two.png",
+    "\"/images/Two.md",
+    "\"/images",
+    "\"",
+    "images/Two.md",
+    "images",
     "README.md",
     "Cyber Security/Overview and Guidance.md",
-    "Untitled.md",
     "Programming",
     "Diary/Self Improvement/Self/Things that i know so far.md",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.9.png",
@@ -194,38 +236,14 @@
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.4.png",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.2.jpeg",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.17.png",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.16.png",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.15.png",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/The Operating System Manages the Hardware.md",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Storage Devices Hierarchy.md",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Shell.md",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Running a simple Hello World Program.md",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Register File.md",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Processor.md",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Motherboard.md",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Main Memory.md",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/How Software runs.md",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Hardware Organization of a Typical System.md",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Concurrency and Parallelism.md",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/Cache Memory.md",
     "computer-system/my-notes/Tour of Computer Systems/Compiler/images",
-    "computer-system/my-notes/Tour of Computer Systems/Compiler/Why it's important to understand the compilation system.md",
-    "computer-system/my-notes/Tour of Computer Systems/Compiler/What is GCC and G++.md",
-    "computer-system/my-notes/Tour of Computer Systems/Compiler/How linker works.md",
-    "computer-system/my-notes/Tour of Computer Systems/Compiler/How GCC works under the hood.md",
-    "computer-system/my-notes/Tour of Computer Systems/Compiler/Hello World Program.md",
-    "computer-system/my-notes/Self Improvement/Topics/Way of learning.md",
-    "computer-system/my-notes/Self Improvement/Topics/Think Outside the box.md",
-    "computer-system/my-notes/Self Improvement/Topics/The Will.md",
-    "computer-system/my-notes/Self Improvement/Topics/The Goal.md",
-    "computer-system/my-notes/Self Improvement/Topics/The Brain.md",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software",
     "computer-system/my-notes/Tour of Computer Systems/Compiler",
-    "computer-system/my-notes/Self Improvement/Topics",
-    "computer-system/my-notes/Self Improvement/Self",
-    "computer-system/my-notes/Tour of Computer Systems",
-    "computer-system/my-notes/Self Improvement",
-    "computer-system/my-notes/Philosophy"
+    "computer-system/my-notes/Self Improvement/Topics"
   ]
 }
