@@ -1,4 +1,4 @@
-#CyberSecurity
+#personal #hacking
 # Path to Learning Cybersecurity Without Spending Money
 
 ## Introduction
@@ -18,26 +18,21 @@ A strong mindset is foundational. Cybersecurity learning is a long-term commitme
 ### Core Concepts to Learn:
 
 - Computer systems and architecture
-    
 - Operating systems (especially Linux)
-    
 - Networking fundamentals
-    
 - Command-line tools
-    
 - Programming logic and scripting
-    
 
 ### Recommended Free Resources:
 
 - **The Cyber Mentor YouTube Channel** – Practical ethical hacking and foundational concepts
-    
+
 - **Hack The Box Academy (Free Modules)** – Interactive cybersecurity training
-    
+
 - **GeeksForGeeks** – Beginner-friendly computer networking tutorials
-    
+
 - **MIT OCW – Introduction to Computer Science** – Python and general computing
-    
+
 
 ---
 
@@ -48,15 +43,14 @@ Cybersecurity work often involves heavy use of Linux systems. Understanding Linu
 ### Resources:
 
 - **OverTheWire – Bandit**: Gamified Linux terminal challenges
-    
+
 - **Linux Journey**: Clear and concise Linux lessons
-    
+
 - Practice Environments:
-    
-    - **Kali Linux** in VirtualBox
-        
-    - **Linux Lite**, **WSL**, or **Termux** depending on your system
-        
+
+	- **Kali Linux** in VirtualBox
+	- **Linux Lite**, **WSL**, or **Termux** depending on your system
+
 
 ---
 
@@ -67,11 +61,11 @@ Understanding how networks function is crucial for penetration testing and defen
 ### Resources:
 
 - **Professor Messer’s Network+ YouTube Playlist**
-    
+
 - **Practical Networking Website**
-    
+
 - **Cisco Packet Tracer (Free after registration)**
-    
+
 
 ---
 
@@ -82,11 +76,11 @@ Scripts are used for automation, enumeration, scanning, and exploitation. Python
 ### Resources:
 
 - **Automate the Boring Stuff with Python** – Beginner scripting projects
-    
+
 - **Codecademy Python (Free Modules)**
-    
+
 - **Ryan’s Bash Scripting Tutorial**
-    
+
 
 ---
 
@@ -97,13 +91,13 @@ Once the basics are in place, begin learning real hacking techniques including r
 ### Resources:
 
 - **TryHackMe (Free Beginner Path)** – Step-by-step hands-on labs
-    
+
 - **Hack The Box (Free Challenges)** – Realistic penetration testing labs
-    
+
 - **The Cyber Mentor – Practical Ethical Hacking Course (Free on YouTube)**
-    
+
 - **Red Team Tactics GitHub Repository** – Organized self-study roadmap
-    
+
 
 ---
 
@@ -114,11 +108,11 @@ Connecting with like-minded learners and professionals can accelerate growth, pr
 ### Platforms:
 
 - Discord communities (e.g., TryHackMe, Hack The Box)
-    
+
 - Reddit (r/HowToHack, r/cybersecurity, r/AskNetsec)
-    
+
 - Twitter/X (Follow ethical hackers and InfoSec professionals)
-    
+
 
 ---
 
@@ -129,13 +123,13 @@ Document your learning and skills to create a public track record of your capabi
 ### Ideas:
 
 - Write technical blog posts or tutorials
-    
+
 - Upload code and scripts to GitHub
-    
+
 - Complete and showcase labs from TryHackMe and Hack The Box
-    
+
 - Create a personal website summarizing your cybersecurity journey
-    
+
 
 ---
 
@@ -144,11 +138,11 @@ Document your learning and skills to create a public track record of your capabi
 Once a solid skill base has been developed, certifications may help open job opportunities. Begin with free practice materials and focus on affordable certifications like:
 
 - CompTIA Security+
-    
+
 - eJPT (eLearnSecurity Junior Penetration Tester)
-    
+
 - OSCP (Offensive Security Certified Professional – advanced)
-    
+
 
 ---
 
@@ -159,12 +153,11 @@ Cybersecurity is a field that evolves constantly. Regular practice is essential 
 ### Practice Platforms:
 
 - **OverTheWire**
-    
+
 - **Hack This Site**
-    
+
 - **picoCTF**
-    
+
 - **CTFTime.org** – Participate in competitive hacking events
-    
 
 ---

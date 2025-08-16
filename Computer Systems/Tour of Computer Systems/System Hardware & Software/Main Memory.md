@@ -1,3 +1,4 @@
+#computer-system #hardware
 ## **What is Main Memory?**
 
 Main memory, also known as primary memory, is a volatile memory that provides fast storage and retrieval of data. It temporarily stores data that is being executed by the CPU (Central Processing Unit). This data includes both the instructions (codes) needed for processing and the results of these processed instructions.

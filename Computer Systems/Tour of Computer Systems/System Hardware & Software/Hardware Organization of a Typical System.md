@@ -1,3 +1,4 @@
+#computer-system #hardware
 ![](Figure1.4.png)
 
 ---

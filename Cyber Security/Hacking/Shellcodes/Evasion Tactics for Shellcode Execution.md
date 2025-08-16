@@ -1,3 +1,4 @@
+#Shellcoding #hacking 
 ##### **1. Polymorphic Encoding**
 
 - **Description**: The shellcode is transformed using an encoder that changes its appearance while preserving its functionality. A decoder stub is prepended to decode it at runtime.

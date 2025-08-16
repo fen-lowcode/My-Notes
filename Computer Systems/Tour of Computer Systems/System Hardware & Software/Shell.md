@@ -1,4 +1,4 @@
-
+#computer-system
 ## What Is a Shell?
 
 ==A **shell** is a user-space software application that provides a **command-line interface (CLI)** for interacting with an operating system. It allows users to execute programs, manage files and directories, control processes, and write scripts to automate tasks.==

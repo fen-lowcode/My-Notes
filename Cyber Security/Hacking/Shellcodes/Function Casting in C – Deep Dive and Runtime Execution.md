@@ -1,4 +1,5 @@
-
+ #Shellcoding #hacking #malware
+ 
 ---
 
 ### Function Casting in C — Full Guide

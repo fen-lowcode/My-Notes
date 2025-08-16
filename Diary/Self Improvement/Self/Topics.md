@@ -1,4 +1,4 @@
-#AllTopics
+#personal 
 
 >[!NOTE]
 People say that i have the [[Talent]], a talent of curiosity. for self this are the
