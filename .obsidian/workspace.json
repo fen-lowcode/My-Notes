@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "right": {
     "id": "f46fcab4f99dd269",
@@ -193,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08db2a453ca6b114",
+  "active": "066ba833e43608ed",
   "lastOpenFiles": [
     "README.md",
     "README.md",
