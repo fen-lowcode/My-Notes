@@ -25,10 +25,14 @@
             "id": "066ba833e43608ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Hacking/Shellcodes/Evasion Tactics for Shellcode Execution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evasion Tactics for Shellcode Execution"
             }
           },
           {
@@ -95,12 +99,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 377.5110321044922
   },
   "right": {
     "id": "f46fcab4f99dd269",
@@ -192,35 +195,34 @@
   },
   "active": "066ba833e43608ed",
   "lastOpenFiles": [
+    "Cyber Security/Hacking/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
+    "Cyber Security/Hacking/Malware/images/Two-Stage-malware-diagram.png",
+    "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Processor.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Register File.md",
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Motherboard.md",
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Concurrency and Parallelism.md",
     "Register.md",
     "Diary/Self Improvement/Topics/Way of learning.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Hardware Organization of a Typical System.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/How Software runs.md",
-    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Concurrency and Parallelism.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Cache Memory.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/The Operating System Manages the Hardware.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Storage Devices Hierarchy.md",
-    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Processor.md",
-    "Computer Systems/Tour of Computer Systems/System Hardware & Software/Motherboard.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Main Memory.md",
     "Cyber Security/Hacking/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
     "Cyber Security/Hacking/Shellcodes/Powershell and Shellcode over Full Malware.md",
     "Cyber Security/Hacking/Shellcodes/Self-Decrypting Shell code.md",
-    "Cyber Security/Hacking/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
     "Cyber Security/Hacking/Shellcodes/Evasion Tactics for Shellcode Execution.md",
     "Cyber Security/Hacking/Malware/Types of Modern Malware.md",
     "Cyber Security/Hacking/Malware/Two Stage Malware.md",
-    "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Shell.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Running a simple Hello World Program.md",
     "Programming/Multi-threading/What is concurrency?.md",
     "Cyber Security/Overview and Guidance.md",
     "way of thinking.md",
-    "Multi core-processors.md",
     "Skill Tracker",
     "Cyber Security/Hacking/Malware/images",
-    "Cyber Security/Hacking/Malware/images/Two-Stage-malware-diagram.png",
     "images/Two.png",
     "\"/images",
     "\"",

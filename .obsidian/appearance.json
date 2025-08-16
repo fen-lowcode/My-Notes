@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "Sanctum",
+  "theme": "moonstone",
+  "accentColor": "#42f5e0",
+  "baseFontSizeAction": true,
+  "baseFontSize": 13,
+  "nativeMenus": false
+}
