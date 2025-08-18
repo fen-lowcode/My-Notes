@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5110321044922
+    "width": 377.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f46fcab4f99dd269",
@@ -207,8 +208,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08db2a453ca6b114",
+  "active": "3bc0efbf64183eae",
   "lastOpenFiles": [
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/images/boolean-algebra-bitwise-example.png",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/images/boolean-algebra-example.png",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Cache Memory.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Boolean Algebra.md",
@@ -250,7 +252,6 @@
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.5.png",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.4.png",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.2.jpeg",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.17.png",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images",
     "computer-system/my-notes/Tour of Computer Systems/Compiler/images",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software",
