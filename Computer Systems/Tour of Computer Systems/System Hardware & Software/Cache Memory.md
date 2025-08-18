@@ -1,4 +1,4 @@
-#computer-systems
+#computer-system
 ### Cache Matter
 
 **The machine instruction in the hello program are originally stored on disk.** ==When the program is loaded they are copied to [[Main Memory]]. As the [[Processor]]  runs the program, instructions are copied from main memory into the processor.==
