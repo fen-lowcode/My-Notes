@@ -2,10 +2,11 @@
 
 #### Introduction to Boolean Algebra
 
-Since binary values are at the core of how computers encode, store, and 
-manipulate information, a rich body of mathematical knowledge has evolved around the study of the values 0 and 1. T
+Since binary values are at the core of how computers encode, store, and  manipulate information, a rich body of mathematical knowledge has evolved around the study of the values 0 and 1. T
 
-his started with the work of George Boole (1815–1864) around 1850 and thus is known as Boolean algebra. Boole observed that by encoding logic values true and false as binary values 1 and 0, 
+`Reference:` [[C Bitwise operations]]
+
+This started with the work of George Boole (1815–1864) around 1850 and thus is known as Boolean algebra. Boole observed that by encoding logic values true and false as binary values 1 and 0, 
 
 he could formulate an algebra that captures the basic principles of logical reasoning.
 The simplest Boolean algebra is defined over the two-element set {0, 1}.
@@ -87,3 +88,4 @@ For example, one property of integer arithmetic is that every value x has an add
 We can see this holds for single bits, since 0 ^ 0 = 1 ^ 1 = 0, and it extends to bit vectors as well. This property holds even when we rearrange terms and combine them in a different order, and so (a ^ b) ^ a = b.
 
 ---
+
