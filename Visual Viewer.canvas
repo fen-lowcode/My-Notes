@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"68265803c20db8a1","x":-100,"y":-1144,"width":400,"height":400,"type":"file","file":"Diary/Self Improvement/Self/The Self.md"},
+		{"id":"2dd92529c2914073","x":-100,"y":80,"width":400,"height":400,"type":"file","file":"Diary/Self Improvement/Topics/The Goal.md"},
+		{"id":"a47de6314eb8d63f","x":-100,"y":-540,"width":400,"height":400,"type":"file","file":"Diary/Self Improvement/Self/Self's Goal.md"},
+		{"id":"0aa27290c4de7d89","x":-100,"y":880,"width":400,"height":400,"type":"file","file":"Diary/Self Improvement/Topics/Think Outside the box.md"},
+		{"id":"84e7f62a6c59bdb5","x":-600,"y":1400,"width":400,"height":400,"type":"file","file":"Diary/Self Improvement/Topics/Focus.md"},
+		{"id":"34db3782979c83db","x":440,"y":1480,"width":400,"height":400,"type":"file","file":"Diary/Self Improvement/Topics/Attention.md"}
+	],
+	"edges":[
+		{"id":"66e03f56f5f96937","fromNode":"68265803c20db8a1","fromSide":"bottom","toNode":"a47de6314eb8d63f","toSide":"top"},
+		{"id":"c78e47180fe9d899","fromNode":"a47de6314eb8d63f","fromSide":"bottom","toNode":"2dd92529c2914073","toSide":"top"},
+		{"id":"6853ec45919cddc6","fromNode":"2dd92529c2914073","fromSide":"bottom","toNode":"0aa27290c4de7d89","toSide":"top"}
+	]
+}
