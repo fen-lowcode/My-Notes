@@ -41,6 +41,30 @@ browser sends an HTTP request to the server www.oreilly.com
 
 The server tries to find the desired object (in this case, “/index.html”) and, if successful, sends the object to the client in an HTTP response, along with the type of the object, the length of the object, and other information.
 
+---
 
+#### Resources
 
+Web servers host web resources. A web resource is the source of web content. The simplest kind of web resource is a static file on the web server’s file-system. 
 
+These files can contain anything: they might be text files, HTML files, Microsoft Word files, Adobe Acrobat files, JPEG image files, AVI movie files, or any other format you can think of.
+
+However, resources don’t have to be static files. Resources can also be software programs that generate content on demand. These dynamic content resources can generate content based on your identity, on what information you’ve requested, or on the time of day. 
+
+They can show you a live image from a camera, or let you trade stocks, search real estate databases, or buy gifts from online stores (see `Figure 1-2`).
+
+![](http-resources-diagram.png)
+
+In summary, a resource is any kind of content source. A file containing your company’s sales forecast spreadsheet is a resource. 
+
+A web gateway to scan your local public library’s shelves is a resource. An Internet search engine is a resource.
+
+---
+
+#### Media Types
+
+Because the Internet hosts many thousands of different data types, HTTP carefully tags each object being transported through the Web with a data format label called a MIME type. 
+
+MIME (Multipurpose Internet Mail Extensions) was originally designed to solve problems encountered in moving messages between different electronic mail systems. 
+
+MIME worked so well for email that HTTP adopted it to describe and label 1its own multimedia content.

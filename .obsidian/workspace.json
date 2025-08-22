@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5110321044922
+    "width": 377.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f46fcab4f99dd269",
@@ -169,8 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08db2a453ca6b114",
+  "active": "3fd583eaacb970e4",
   "lastOpenFiles": [
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/What is concurrency?.md",
+    "Computer Systems/Untitled",
+    "Computer Networking/HTTP Protocol.md",
+    "Computer Systems/Tour of Computer Systems/System Hardware & Software/images/http-resources-diagram.png",
     "Visual Viewer.canvas",
     "Overview.base",
     "README.md",
@@ -185,7 +190,6 @@
     "Untitled 1.canvas",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Motherboard.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Cache Memory.md",
-    "Computer Networking/HTTP Protocol.md",
     "Diary/Self Improvement/Topics/Documentation.md",
     "Diary/Self Improvement/Topics/Way of learning.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Hardware Organization of a Typical System.md",
@@ -196,11 +200,11 @@
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/images/http-client-server-model.png",
     "Computer Networking",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Boolean Algebra.md",
-    "Programming/C Bitwise operations.md",
+    "Computer Systems/Binary/C Bitwise operations.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/images/boolean-algebra-bitwise-example.png",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/images/boolean-algebra-example.png",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Register.md",
-    "Computer Systems/Tour of Computer Systems/Compiler/Hello World Program.md",
+    "Programming/Compiler/Hello World Program.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Storage Devices Hierarchy.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/The Operating System Manages the Hardware.md",
     "Computer Systems/Tour of Computer Systems/System Hardware & Software/Concurrency and Parallelism.md",
@@ -216,8 +220,6 @@
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.8.png",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.7.png",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.6.png",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.5.png",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images",
-    "computer-system/my-notes/Tour of Computer Systems/Compiler/images"
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images"
   ]
 }
