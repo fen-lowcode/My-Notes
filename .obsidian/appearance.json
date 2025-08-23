@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Dune",
+  "cssTheme": "Everforest Enchanted",
   "theme": "moonstone",
   "accentColor": "#ecda98",
   "baseFontSizeAction": true,
-  "baseFontSize": 15,
+  "baseFontSize": 14,
   "nativeMenus": false,
   "textFontFamily": "",
   "monospaceFontFamily": "",
