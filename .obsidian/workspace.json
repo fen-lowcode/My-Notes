@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Concurrency and Parallelism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Concurrency and Parallelism"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5110321044922
+    "width": 377.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f46fcab4f99dd269",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Concurrency and Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Concurrency and Parallelism"
             }
           },
           {
@@ -171,43 +172,44 @@
   },
   "active": "3fd583eaacb970e4",
   "lastOpenFiles": [
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Concurrency and Parallelism.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/multi-core-proccessor.png",
+    "hyperthreading..md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/What is concurrency?.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Hardware Organization of a Typical System.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Processor.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Register File.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Cache Memory.md",
     "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/32 bit and 64 bit - what in the world is a bit?.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/The Operating System Manages the Hardware.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Running a simple Hello World Program.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Shell.md",
+    "Computer Science/Computer Systems/Binary/Visualizing Data Types at the Byte Level.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Motherboard.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Main Memory.md",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Register.md",
+    "Cyber Security/Hacking/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
+    "Cyber Security/Hacking/Shellcodes/Powershell and Shellcode over Full Malware.md",
+    "Cyber Security/Hacking/Shellcodes/Evasion Tactics for Shellcode Execution.md",
+    "Cyber Security/Hacking/Malware/Two Stage Malware.md",
+    "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
+    "Cyber Security/Hacking/Malware/Types of Modern Malware.md",
+    "Cyber Security/Overview and Guidance.md",
+    "README.md",
     "Visual Viewer.canvas",
     "Overview.base",
     "Computer Science/Computer Systems",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/What is concurrency?.md",
     "Computer Science/Computer Networking/HTTP Protocol.md",
     "Mathematics",
     "Computer Science/Computer Systems/Binary/C Bitwise operations.md",
-    "Computer Science/Computer Systems/Binary/Byte Ordering and Representation in Memory Overview.md",
-    "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
     "Computer Systems/Untitled",
     "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/http-resources-diagram.png",
-    "README.md",
-    "Diary/Self Improvement/Self/Topics.md",
-    "Diary/Self Improvement/Topics/Think Outside the box.md",
-    "Diary/Self Improvement/Topics/Attention.md",
-    "Diary/Self Improvement/Self/Self's Goal.md",
-    "Diary/Self Improvement/Topics/The Goal.md",
-    "2025-08-21.md",
-    "Diary/Self Improvement/Topics/Organization.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Motherboard.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Cache Memory.md",
-    "Diary/Self Improvement/Topics/Documentation.md",
-    "Diary/Self Improvement/Topics/Way of learning.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Hardware Organization of a Typical System.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/How Software runs.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Running a simple Hello World Program.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Shell.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Register File.md",
     "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/http-client-server-model.png",
     "Computer Science/Computer Networking",
-    "Mathematics/Boolean Algebra.md",
     "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/boolean-algebra-bitwise-example.png",
     "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/boolean-algebra-example.png",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Register.md",
     "Cyber Security/Hacking/Malware/images/Two-Stage-malware-diagram.png",
     "Skill Tracker",
     "Cyber Security/Hacking/Malware/images",
@@ -217,7 +219,6 @@
     "images",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.9.png",
     "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.8.png",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.7.png",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.6.png"
+    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.7.png"
   ]
 }
