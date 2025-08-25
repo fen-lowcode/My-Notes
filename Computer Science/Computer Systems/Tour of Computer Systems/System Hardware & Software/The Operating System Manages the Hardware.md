@@ -1,4 +1,4 @@
-#computer-system 
+#computer-system #programming 
 
 Back to our [[Hello World Program]] example. ==When the shell loaded and ran the hello program, and when the hello program printed its message, neither the program accessed the keyboard, display, or main memory directly.==
 
@@ -188,7 +188,7 @@ Returning to our hello example, ==we could use the familiar telnet application==
 
 **Suppose we use a telnet client running on our local machine to connect to a telnet server on a remote machine.**
 
-### Over the Telnet Example
+ > **Over the Telnet Example**
 
 ![](Figure1.15.png)
 
@@ -219,12 +219,12 @@ The rest of this notes will fill in some details about the hardware and the soft
 
 ---
 
-### Concurrency and Parallelism
+#### Concurrency and Parallelism
 
-Throughout the history of digital computers, two demands have been constant forces in driving improvements: 
+==Throughout the history of digital computers, two demands have been constant forces in driving improvements:== 
 
-* we want them to do more
-* we want them to run faster. 
+* ==we want them to do more==
+* ==we want them to run faster.== 
 
 Both of these factors improve when the processor does more things at once. We use the term concurrency to refer to the general concept of a system with multiple, simultaneous activities, 
 
@@ -232,97 +232,76 @@ And the term parallelism to refer to the use of concurrency to make a system run
 
 Parallelism can be exploited at multiple levels of abstraction in a computer system. We highlight three levels here, working from the highest to the lowest level in the system hierarchy.
 
----
-
-
-
-> **Thread-Level Concurrency**
-
-Building on the process abstraction, we are able to devise systems where multiple programs execute at the same time, leading to concurrency. With threads, we can even have multiple control flows executing within a single process.
-
-Support for concurrent execution has been found in computer systems since the advent of time-sharing in the early 1960(s). Traditionally, this concurrent execution was only simulated, by having a single computer rapidly switch among its executing processes, much as a juggler keeps multiple balls flying through the air.
-
-This form of concurrency allows multiple users to interact with a system at the same time, such as when many people want to get pages from a single Web server.
-
-It also allows a single user to engage in multiple tasks concurrently, such as having a Web browser in one window, a word processor in another, and streaming music playing at the same time. Until recently, most actual computing was done by a single processor, even if that processor had to switch among multiple tasks.  This configuration is known as a **uni-processor system.**
-
-When we construct a system consisting of multiple processors all under the control of a single operating system kernel, we have a **multiprocessor system.** 
-
-Such systems have been available for large-scale computing since the 1980(s), but they have more recently become commonplace with the advent of **multi-core processors** and **hyper-threading**. 
-
-**Figure 1.16 shows a taxonomy of these different processor types**
-
-![](Figure1.16.png)
-
-![](Figure1.17.png)
-==Typical multi-core processor, where the chip has four CPU cores, each with its own L1 and L2 caches, and with each L1 cache split into two parts—one to hold recently fetched instructions and one to hold data. The cores share higher levels of cache as well as the interface to main memory.== 
-
-Industry experts predict that they will be able to have dozens, and ultimately hundreds, of cores on a single chip. 
-
-**Hyper threading, sometimes called simultaneous multi-threading,** is a technique that allows a single CPU to execute multiple flows of control. 
-
-It involves having multiple copies of some of the CPU hardware, such as program counters and register files, while having only single copies of other parts of the hardware, such as the units that perform floating-point arithmetic. 
-
-Whereas a conventional processor requires around 20,000 clock cycles to shift between different threads,
-a hyper-threaded processor decides which of its threads to execute on a cycle-by-cycle basis. It enables the CPU to take better advantage of its processing resources.
-
-For example, if one thread must wait for some data to be loaded into a cache, the CPU can proceed with the execution of a different thread.\
-
-As an example, the Intel Core i7 processor can have each core executing two threads, and so a four-core
-system can actually execute eight threads in parallel.
-
----
-**The use of multiprocessing can improve system performance in two ways:**
-
-* ==First, it reduces the need to simulate concurrency when performing multiple tasks. As mentioned, even a personal computer being used by a single person is expected to perform many activities concurrently.==
-
-* ==Second, it can run a single application program faster, but only if that program is expressed in terms of multiple threads that can effectively execute in parallel.==
-
-Thus, although the principles of concurrency have been formulated and studied for over 50 years, the advent of multi-core and hyper threaded systems has greatly increased the desire to find ways to write
-application programs that can exploit the thread-level parallelism available with the hardware.
-
-```
-Chapter 12 will look much more deeply into concurrency and its use to provide a sharing of processing resources and to enable more parallelism in program execution
-```
+**For more information**: [[Concurrency and Parallelism]]
 
 ---
 
-> **Instruction-Level Parallelism**
+#### **The Importance of Abstractions in Computer Systems**
 
+The use of abstractions is one of the most important concepts in computer science. For example, one aspect of good programming practice is to formulate a simple application program interface (API) for a set of functions that allow programmers to use the code without having to delve into its inner workings.
 
-At a much lower level of abstraction, modern processors can execute multiple instructions at one time, a property known as instruction-level parallelism.
+![](virtual-memory-abstraction.png)
 
-For example, early microprocessors, such as the 1978-vintage Intel 8086, required multiple (typically 3–10) clock cycles to execute a single instruction. 
+==Different Programming languages provide different forms and levels of support for abstraction, such as Java class declarations and C function prototypes.== 
 
-More recent processors can sustain execution rates of 2–4 instructions per clock cycle. Any given
-instruction requires much longer from start to finish,  perhaps 20 cycles or more, but the processor uses a number of clever tricks to process as many as 100 instructions at a time.
+We have already been introduced to several of the abstractions seen in computer systems, as indicated in `Figure 1.18.` ==On the processor side, the instruction set architecture provides an abstraction of the actual processor hardware. With this abstraction, a machine-code program behaves as if it were executed on a processor that performs just one instruction at a time.== 
 
-In Chapter 4, we will explore the use of pipe lining, where the actions required to execute an instruction are partitioned into different steps and the processor hardware is organized as a series of stages, each performing one of these steps. 
+==The underlying hardware is far more elaborate, executing multiple instructions in parallel, but always in a way that is consistent with the simple, sequential model.== 
 
-The stages can operate in parallel, working on different parts of different instructions. We will see that a fairly simple hardware design can sustain an execution rate close to 1 instruction per clock cycle.
+**By keeping the same execution model, different processor implementations can execute the same machine code while offering a range of cost and performance.** 
 
-Processors that can sustain execution rates faster than 1 instruction per cycle are known as superscalar processors. Most modern processors support superscalar operation. 
+==On the operating system side, we have introduced three abstractions: files as an abstraction of I/O devices, virtual memory as an abstraction of program memory, and processes as an abstraction of a running program.== 
 
-In Chapter 5, we will describe a high-level model of such processors. We will see that application programmers can use this model to understand the performance of their programs. They can then write programs such that the generated code achieves higher degrees of instruction-level parallelism and therefore runs faster.
+To these abstractions we add a new one: **the virtual machine, providing an abstraction of the entire computer, including the operating system, the processor, and the programs.** 
 
----
-
-> **Single-Instruction, Multiple-Data (SIMD) Parallelism**
-
-At the lowest level, many modern processors have special hardware that allows a single instruction to cause multiple operations to be performed in parallel, a mode known as single-instruction, multiple-data (SIMD) parallelism. 
-
-For example, recent generations of Intel and AMD processors have instructions that can add 8 pairs of single-precision floating-point numbers (C data type float) in parallel.
-
-These SIMD instructions are provided mostly to speed up applications that
-process image, sound, and video data.
-
-Although some compilers attempt to automatically extract SIMD parallelism from C programs, a more reliable method is to write programs using special vector data types supported in compilers such as gcc.
-
-We describe this style of programming in Web Aside opt:simd, as a supplement to
-the more general presentation on program optimization found in Chapter 5
+The idea of a virtual machine was introduced by IBM in the 1960s, but it has become more prominent recently as a way to manage computers that must be able to run programs designed for multiple operating systems (such as Microsoft Windows, Mac OS X, and Linux) or different versions of the same operating system.
 
 ---
 
-> **The Importance of Abstractions in Computer Systems**
 
+> [!Summary of the important of abstraction]
 
+- **Abstraction** hides complexity. You use a feature without worrying about how it works inside.
+- **Programming example:** An API lets you call functions without reading all the code behind them.
+- **Languages help:**
+
+    - Java → classes        
+    - C → function prototypes
+
+> **Abstractions in Computer Systems**
+
+**Processor side:**
+
+- Instruction Set Architecture (ISA) makes hardware look simple.
+- A program acts like it runs one instruction at a time.
+- Reality: hardware executes many instructions in parallel but still keeps results consistent.
+- Benefit: the same program runs on different processors with different performance levels.
+
+**Operating system side:**
+
+- **Files** = abstraction of input/output devices.
+- **Virtual memory** = abstraction of program memory.
+- **Processes** = abstraction of a running program.
+- **Virtual machine** = abstraction of the whole computer (OS, CPU, programs).
+
+---
+
+### Summary
+
+**==A computer system consists of hardware and systems software that cooperate to run application programs.==** 
+
+==Information inside the computer is represented as groups of bits that are interpreted in different ways, depending on the context.== 
+
+==Programs are **translated by other programs into different forms, beginning as ASCII text and then translated by compilers and linkers into binary executable files.==**
+
+**==Processors read and interpret binary instructions that are stored in main memory**. Since computers spend most of their time copying data between memory, I/O devices, and the CPU registers, **the storage devices in a system are arranged in a hierarchy, with the CPU registers at the top, followed by multiple levels of hardware cache memories, DRAM main memory, and disk storage.==**  
+
+**==Storage devices that are higher in the hierarchy are faster and more costly per bit than those lower in the hierarchy.==** ==Storage devices that are higher in the hierarchy serve as caches for devices that are lower in the hierarchy. 
+
+***Programmers can optimize the performance of their C programs by understanding and exploiting the memory hierarchy.==*** 
+
+*`Refer to:` [[Storage Devices Hierarchy]] [[Cache Memory]]*
+
+**The operating system kernel serves as an intermediary between the application and the hardware**. I==t provides three fundamental abstractions: (1) Files are abstractions for I/O devices. (2) Virtual memory is an abstraction for both main memory and disks. (3) Processes are abstractions for the processor, main memory, and I/O devices.== 
+
+**Finally, networks provide ways for computer systems to communicate with one another.** ==From the viewpoint of a particular system, the network is just another I/O device.==

@@ -36,7 +36,7 @@ Computers containing multiple processors have been used for servers and high-per
 Computers with multiple processors or multiple cores in a single processor (can be also both) are capable of true concurrency that can run multiple task in parallel. this is called **Hardware concurrency**
 
 
-
-
+>[!Deep Dive]
+>Here for more details about [[Concurrency and Parallelism]]
 
 
