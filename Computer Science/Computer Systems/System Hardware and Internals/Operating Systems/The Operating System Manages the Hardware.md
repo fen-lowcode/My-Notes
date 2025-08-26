@@ -236,7 +236,7 @@ Parallelism can be exploited at multiple levels of abstraction in a computer sys
 
 ---
 
-#### **The Importance of Abstractions in Computer Systems**
+#### The Importance of Abstractions in Computer Systems
 
 The use of abstractions is one of the most important concepts in computer science. For example, one aspect of good programming practice is to formulate a simple application program interface (API) for a set of functions that allow programmers to use the code without having to delve into its inner workings.
 

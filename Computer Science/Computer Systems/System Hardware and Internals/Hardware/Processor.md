@@ -7,7 +7,7 @@
 
 ---
 
-**The processor reads the instruction from [[Main Memory]] pointed at by the [[program counter]] (PC), interprets the bits in the instruction, performs some simple operation dictated by the instruction, and then updates the PC to point to the next instruction**, which may or may not be contiguous in memory to the instruction that was just executed.
+**The processor reads the instruction from [[Main Memory]] pointed at by the [[Program counter]] (PC), interprets the bits in the instruction, performs some simple operation dictated by the instruction, and then updates the PC to point to the next instruction**, which may or may not be contiguous in memory to the instruction that was just executed.
 
 There are only few of these simple operations, and they revolve around the ***[[Main Memory]]***, ***[[Register File]]***, and the ***[[Arithmetic/Logic Unit]]*** **( ALU )**.
 

@@ -124,7 +124,8 @@ Here, `AX` and `BX` are registers directly manipulated by instructions.
 
 ==**Context Switching**==
 
-==When the OS switches from one process to another:==
+==When the OS switches from one process to another:== 
+
 
 1. The OS **saves the current state** of the running process.
 
@@ -138,7 +139,7 @@ Here, `AX` and `BX` are registers directly manipulated by instructions.
 3. The CPU continues execution as if the new process had been running all along.
 
 
-This mechanism is called a **context switch**.
+This mechanism is called a **context switch**. [[Concurrency and Parallelism | Click Here for more]]
 
 
 ==**Registers in Multi-Core CPUs**==

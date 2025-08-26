@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fd583eaacb970e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f8fe51fa90dcdf98",
+            "id": "ed17eca732cfdfcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Systems/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
+                "file": "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Code & Assembly (Cheat Sheet)"
+              "title": "Machine Level Representation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,11 +53,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#computer-systems",
+                "query": "counter",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5110321044922
+    "width": 342.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f46fcab4f99dd269",
@@ -180,56 +170,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08db2a453ca6b114",
+  "active": "ed17eca732cfdfcc",
   "lastOpenFiles": [
-    "Computer Science/Computer Systems/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
-    "Untitled.md",
-    "Computer Science/Computer Systems/Machine Code & Assembly",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/The Operating System Manages the Hardware.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Cache Memory.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Storage Devices Hierarchy.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Hardware Organization of a Typical System.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Concurrency and Parallelism.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Motherboard.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Main Memory.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/How Software runs.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/virtual-memory-abstraction.png",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/virtual-machine-abstraction.png",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Clock Cycle.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/What is concurrency?.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/multi-core-proccessor.png",
-    "hyperthreading..md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Processor.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Register File.md",
-    "Computer Science/Computer Systems/Machine Code & Assembly/Binary/32 bit and 64 bit - what in the world is a bit?.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Running a simple Hello World Program.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Shell.md",
-    "Computer Science/Computer Systems/Machine Code & Assembly/Binary/Visualizing Data Types at the Byte Level.md",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/Register.md",
-    "Cyber Security/Hacking/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
-    "Cyber Security/Hacking/Shellcodes/Powershell and Shellcode over Full Malware.md",
-    "Cyber Security/Hacking/Shellcodes/Evasion Tactics for Shellcode Execution.md",
-    "Cyber Security/Hacking/Malware/Two Stage Malware.md",
-    "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
-    "Cyber Security/Hacking/Malware/Types of Modern Malware.md",
+    "vector registers.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
+    "condition code registers.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Program counter.md",
+    "Computer Science/Theory",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware and Internals/Operating Systems/Concurrency and Parallelism.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Visualizing Data Types at the Byte Level.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/C Bitwise operations.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Byte Ordering and Representation in Memory Overview.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/32 bit and 64 bit - what in the world is a bit?.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming/Running a simple Hello World Program.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming/How Software runs.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/What is concurrency?.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/The Operating System Manages the Hardware.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/Shell.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/Concurrency and Parallelism.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary",
+    "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Storage Devices Hierarchy.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Processor.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Motherboard.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Main Memory.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Cache Memory.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Register.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Register File.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Hardware Organization of a Typical System.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Clock Cycle.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming",
+    "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly",
+    "Computer Science/Computer Systems/System Hardware and Internals/Hardware",
+    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture",
+    "Computer Science/Computer Systems/System Hardware and Internals",
+    "Computer Science/Computer Systems/Assets/virtual-memory-abstraction.png",
+    "Computer Science/Computer Systems/Assets/multi-core-proccessor.png",
+    "Computer Science/Computer Systems/Assets/http-resources-diagram.png",
+    "Computer Science/Computer Systems/Assets/http-client-server-model.png",
+    "Computer Science/Computer Systems/Assets/different-processor-configuration.png",
+    "Computer Science/Computer Systems/Assets/boolean-algebra-example.png",
+    "Computer Science/Computer Systems/Assets/boolean-algebra-bitwise-example.png",
+    "Computer Science/Computer Systems/Assets/Figure1.9.png",
+    "Computer Science/Computer Systems/Assets/Figure1.8.png",
+    "Computer Science/Computer Systems/Assets/Figure1.7.png",
+    "Computer Science/Computer Systems/Assets",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware and Internals/System Programming",
+    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
     "Visual Viewer.canvas",
-    "Overview.base",
-    "Computer Science/Computer Systems",
-    "Mathematics",
-    "Computer Systems/Untitled",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/http-resources-diagram.png",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/http-client-server-model.png",
-    "Computer Science/Computer Networking",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/boolean-algebra-bitwise-example.png",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware & Software/images/boolean-algebra-example.png",
-    "Cyber Security/Hacking/Malware/images/Two-Stage-malware-diagram.png",
-    "Skill Tracker",
-    "Cyber Security/Hacking/Malware/images",
-    "images/Two.png",
-    "\"/images",
-    "\"",
-    "computer-system/my-notes/Tour of Computer Systems/System Hardware & Software/images/Figure1.9.png"
+    "Untitled 1.canvas"
   ]
 }

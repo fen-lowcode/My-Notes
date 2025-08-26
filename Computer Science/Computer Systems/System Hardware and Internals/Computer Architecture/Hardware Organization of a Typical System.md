@@ -42,7 +42,7 @@ Physically, ==main memory consists of a collection of dynamic random access memo
 
 ==The **central processing unit** (***CPU*** ), or simply processor, is the engine that interprets (or executes) instructions stored in main memory==
 
-At its core is a word-size storage device (or ***[[Register]]*** ) called the ***[[program counter]]*** (PC). At any point in time, the PC points at (contains the address of) some ***[[machine-language instruction]]*** in main memory.
+At its core is a word-size storage device (or ***[[Register]]*** ) called the ***[[Program counter]]*** (PC). At any point in time, the PC points at (contains the address of) some ***[[machine-language instruction]]*** in main memory.
 
 From the time that power is applied to the system until the time that the power is shut off, a **processor repeatedly executes the instruction pointed at by the program counter and updates the program counter to point to the next instruction.**
 

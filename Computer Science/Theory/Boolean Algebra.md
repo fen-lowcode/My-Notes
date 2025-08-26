@@ -1,6 +1,6 @@
 #math #computer-system 
 
-#### Introduction to Boolean Algebra
+#### **Introduction to Boolean Algebra**
 
 Since binary values are at the core of how computers encode, store, and  manipulate information, a rich body of mathematical knowledge has evolved around the study of the values 0 and 1. T
 
@@ -65,7 +65,7 @@ $a & b, a | b, a ^ b,$ and $~b$ yield
 
 ---
 
-#### Logical Operations in C
+#### **Logical Operations in C**
 
 C also provides a set of logical operators ||, &&, and !, which correspond to the
 or, and, and not operations of logic. These can easily be confused with the bit-
@@ -75,7 +75,7 @@ They return either 1 or 0, indicating a result of either true or false, respecti
 
 ---
 
-#### More on Boolean Algebra and Boolean Rings
+#### **More on Boolean Algebra and Boolean Rings**
 
 The Boolean operations |, &, and ~ operating on bit vectors of length w form a Boolean algebra, for any integer w > 0. The simplest is the case where w = 1 and there are just two elements, but for the more general case there are 2w bit vectors of length w. 
 
