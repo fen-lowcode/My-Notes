@@ -29,8 +29,7 @@ In practice, **higher levels of optimization (e.g., specified with the option -O
 
 * Second, the compiler generates assembly code versions of the two source files having names p1.s and p2.s. 
 
-* Next, the assembler converts the assembly code into binary object-code files p1.o and p2.o. 
-	Object code is one form of machine code—it contains binary representations of all of the instructions, but the addresses of global values are not yet filled in. 
+* Next, the assembler converts the assembly code into binary object-code files p1.o and p2.o. Object code is one form of machine code—it contains binary representations of all of the instructions, but the addresses of global values are not yet filled in. 
 
 * Finally, the linker merges these two object-code files along with code implementing library functions (e.g., printf) and generates the final executable code file p (as specified by the command-line directive -o p). Executable code is the second form of machine code we will consider—it is the exact form of code that is executed by the processor.
 
@@ -83,8 +82,6 @@ machine code. Being able to understand assembly code and how it relates to the o
 
 ==Even for scalar data types, assembly code makes no distinctions between signed or unsigned integers, between different types of pointers, or even between pointers and integers.==
 
----
-
 ==The program memory contains the executable machine code for the program, some information required by the operating system, a run-time stack for managing procedure calls and returns, and blocks of memory allocated by the user (e.g., by using the malloc library function).== 
 
 ==As mentioned earlier, the program memory is addressed using virtual addresses. At any given time, only limited subranges of virtual addresses are considered valid.== 
@@ -102,3 +99,4 @@ For example, it might add two numbers stored in registers, transfer data between
 ---
 
 
+``

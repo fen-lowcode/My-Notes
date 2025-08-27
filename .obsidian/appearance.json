@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "accentColor": "#ecdca2",
   "baseFontSizeAction": true,
-  "baseFontSize": 14,
+  "baseFontSize": 13,
   "nativeMenus": false,
   "textFontFamily": "",
   "monospaceFontFamily": "",
