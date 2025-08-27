@@ -3,5 +3,6 @@
   "promptDelete": false,
   "showInlineTitle": true,
   "readableLineLength": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "defaultViewMode": "preview"
 }
