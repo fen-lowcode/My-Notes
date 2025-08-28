@@ -4,7 +4,6 @@
 - **Compiler (e.g., GCC)**:
     - Source → Assembly → Machine code (via assembler & linker).
 
-
 ### High-Level vs Assembly
 - ==High-level languages: type safety, portability, efficiency.==
 - ==Assembly: machine-specific, manual control.==
