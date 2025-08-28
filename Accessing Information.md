@@ -1,0 +1,51 @@
+
+==x86-64 central processing unit (CPU) contains a set of 16 general-purpose registers storing 64-bit values. These registers are used to store integer data as well as pointers.==
+
+>[!Important]
+>**[[Register| Click here to know what a register is]]**
+
+The diagram below shows the 16 registers. Their names all begin with %r, but otherwise follow multiple different naming conventions, owing to the historical evolution of the instruction set.
+
+
+==The original 8086 had eight 16-bit registers, shown in diagram as registers `%ax` through `%bp`.==
+
+Each had a specific purpose, and hence they were given names that reflected how they were to be used. ==With the extension to IA32, these registers were expanded to 32-bit registers, labeled `%eax` through `%ebp`.==
+
+==In the extension to x86-64, the original eight registers were expanded to 64 bits, labeled `%rax` through `%rbp`.==
+
+In addition, eight new registers were added, and these were given labels according to a new naming convention: `%r8` through `%r15`. 
+
+As the nested boxes in the diagram indicate, instructions can operate on data of different sizes stored in the low-order bytes of the 16 registers. 
+
+==Byte-level operations can access the least significant byte, 16-bit operations can access the least significant 2 bytes, 32-bit operations can access the least significant 4 bytes, and 64-bit operations can access entire registers.==
+
+| Register (64-bit) | 32-bit | 16-bit | 8-bit | Purpose        |
+|-------------------|--------|--------|-------|----------------|
+| %rax              | %eax   | %ax    | %al   | Return value   |
+| %rbx              | %ebx   | %bx    | %bl   | Callee saved   |
+| %rcx              | %ecx   | %cx    | %cl   | 4th argument   |
+| %rdx              | %edx   | %dx    | %dl   | 3rd argument   |
+| %rsi              | %esi   | %si    | %sil  | 2nd argument   |
+| %rdi              | %edi   | %di    | %dil  | 1st argument   |
+| %rbp              | %ebp   | %bp    | %bpl  | Callee saved   |
+| %rsp              | %esp   | %sp    | %spl  | Stack pointer  |
+| %r8               | %r8d   | %r8w   | %r8b  | 5th argument   |
+| %r9               | %r9d   | %r9w   | %r9b  | 6th argument   |
+| %r10              | %r10d  | %r10w  | %r10b | Caller saved   |
+| %r11              | %r11d  | %r11w  | %r11b | Caller saved   |
+| %r12              | %r12d  | %r12w  | %r12b | Callee saved   |
+| %r13              | %r13d  | %r13w  | %r13b | Callee saved   |
+| %r14              | %r14d  | %r14w  | %r14b | Callee saved   |
+| %r15              | %r15d  | %r15w  | %r15b | Callee saved   |
+
+
+
+>[!important]
+Different registers serve different roles in typical programs. 
+
+***Most unique among them is the stack pointer, `%rsp`, used to indicate the end position in the run-time stack.***
+
+Some instructions specifically read and write this register. 
+
+**The other 15 registers have more flexibility in their uses. A small number of instructions make specific use of certain registers. More importantly, a set of standard programming conventions governs how the registers are to be used for managing the stack, passing function arguments, returning values from functions, and storing local and temporary data.** 
+

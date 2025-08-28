@@ -11,10 +11,14 @@
             "id": "ed17eca732cfdfcc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Level Representation"
             }
           },
           {
@@ -180,11 +184,16 @@
   },
   "active": "ed17eca732cfdfcc",
   "lastOpenFiles": [
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
+    "Accessing Information.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Data Formats.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Register.md",
+    "Status Register / Flags Register (SR/FR).md",
+    "Status Register / Flags Register (SR",
+    "Status Register ",
     "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Program counter.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Clock Cycle.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
-    "Data Formats.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
     "DataBase.base",
     "Untitled.canvas",
     "Untitled 2.base",
@@ -215,14 +224,9 @@
     "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Processor.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Motherboard.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Main Memory.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Cache Memory.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Register.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Register File.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming",
     "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly",
-    "Computer Science/Computer Systems/System Hardware and Internals/Hardware",
-    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture",
     "Computer Science/Computer Systems/Assets/virtual-memory-abstraction.png",
     "Computer Science/Computer Systems/Assets/different-processor-configuration.png",
     "Computer Science/Computer Systems/Assets/Figure1.9.png",
