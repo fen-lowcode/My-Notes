@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Cupertino",
-  "theme": "obsidian",
+  "cssTheme": "Everforest Spruce",
+  "theme": "moonstone",
   "accentColor": "#f2ffb3",
   "baseFontSizeAction": true,
-  "baseFontSize": 14,
+  "baseFontSize": 12,
   "nativeMenus": false,
   "textFontFamily": "",
   "monospaceFontFamily": "",

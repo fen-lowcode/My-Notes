@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
-                "mode": "source",
+                "file": "Diary/Self Improvement/Topics/Comfort Zone.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Level Representation"
+              "title": "Comfort Zone"
             }
           },
           {
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.51103591918945,
+    "width": 259.5,
     "collapsed": true
   },
   "right": {
@@ -184,8 +184,11 @@
   },
   "active": "ed17eca732cfdfcc",
   "lastOpenFiles": [
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
+    "Diary/Self Improvement/Topics/Attention.md",
+    "Diary/Self Improvement/Topics/Comfort Zone.md",
+    "Untitled.base",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
     "Accessing Information.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Data Formats.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Register.md",
@@ -222,11 +225,8 @@
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary",
     "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Storage Devices Hierarchy.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Processor.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Motherboard.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Main Memory.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming",
     "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly",
     "Computer Science/Computer Systems/Assets/virtual-memory-abstraction.png",
     "Computer Science/Computer Systems/Assets/different-processor-configuration.png",
     "Computer Science/Computer Systems/Assets/Figure1.9.png",
