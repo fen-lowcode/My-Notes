@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Everforest Spruce",
+  "cssTheme": "",
   "theme": "moonstone",
-  "accentColor": "#f2ffb3",
+  "accentColor": "#d69d00",
   "baseFontSizeAction": true,
   "baseFontSize": 12,
   "nativeMenus": false,
