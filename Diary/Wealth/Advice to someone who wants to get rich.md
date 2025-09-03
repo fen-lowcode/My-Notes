@@ -1,8 +1,7 @@
 
 #### From Mark Tibulry
-
  
-*You, The younger generation, is a Future Leader.*
+###### *You, The younger generation, is a Future Leader.*
 
 `source:`  https://www.youtube.com/watch?v=4aAKCK262PM
 
@@ -44,3 +43,4 @@
 * **Pick Your Circle Wisely**
 
 	1. ==**Better friends, means more learning.**==
+
