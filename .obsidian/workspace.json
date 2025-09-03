@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
+                "file": "Computer Science/Theory/Occam's Razor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Level Representation"
+              "title": "Occam's Razor"
+            }
+          },
+          {
+            "id": "52f0d809e1291837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Wealth/Advice to someone who wants to get rich.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advice to someone who wants to get rich"
             }
           },
           {
@@ -47,7 +61,8 @@
               "title": "Release Notes 1.9.12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +211,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed17eca732cfdfcc",
+  "active": "52f0d809e1291837",
   "lastOpenFiles": [
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Data Formats.md",
+    "Diary/Wealth/Advice to someone who wants to get rich.md",
+    "Computer Science/Theory/Occam's Razor.md",
+    "Computer Science/Theory/Important Concepts.md",
+    "Computer Science/Theory/Amdahl's law.md",
+    "Diary/Wealth",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Data Formats.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Accessing Information.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Visualizing Data Types at the Byte Level.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Byte Ordering and Representation in Memory Overview.md",
@@ -209,8 +229,8 @@
     "Untitled.base",
     "Diary/Self Improvement/Topics/Comfort Zone.md",
     "Diary/Self Improvement/Topics/Attention.md",
-    "Diary/Leadership/Untitled.md",
-    "Diary/Leadership",
+    "Diary/Self Improvement/Leadership/Untitled.md",
+    "Diary/Self Improvement/Leadership",
     "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Register.md",
     "Status Register / Flags Register (SR/FR).md",
     "Status Register / Flags Register (SR",
@@ -235,11 +255,7 @@
     "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming/Running a simple Hello World Program.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming/How Software runs.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/What is concurrency?.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/The Operating System Manages the Hardware.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/Shell.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/Concurrency and Parallelism.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary",
-    "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming",
     "Computer Science/Computer Systems/Assets/virtual-memory-abstraction.png",
     "Computer Science/Computer Systems/Assets/different-processor-configuration.png",
     "Computer Science/Computer Systems/Assets/Figure1.9.png",
