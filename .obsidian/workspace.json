@@ -14,14 +14,57 @@
               "type": "markdown",
               "state": {
                 "file": "Diary/Wealth/Advice to someone who wants to get rich.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Advice to someone who wants to get rich"
             }
+          },
+          {
+            "id": "f48c6265af42a3fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Self Improvement/Procastination/Procrastination by Carl Jung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Procrastination by Carl Jung"
+            }
+          },
+          {
+            "id": "0679b321c01df55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Self Improvement/Procastination/Procrastination by Carl Jung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Procrastination by Carl Jung"
+            }
+          },
+          {
+            "id": "62d72b9aa9942087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Self Improvement/Procastination/The Lazy Ambitious Man.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Lazy Ambitious Man"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "f46fcab4f99dd269",
@@ -170,23 +212,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbcd076ab12d9073",
+  "active": "08db2a453ca6b114",
   "lastOpenFiles": [
-    "Diary/Wealth/What it takes to be an Entrepreneur.md",
+    "Diary/Self Improvement/Procastination/Procrastination by Carl Jung.md",
+    "Diary/Self Improvement/Procastination/The Lazy Ambitious Man.md",
+    "Diary/Self Improvement/Procastination/Solution to face the shadow.md",
+    "Diary/Self Improvement/Procastination",
     "Diary/Wealth/Advice to someone who wants to get rich.md",
+    "Diary/Wealth/What it takes to be an Entrepreneur.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
+    "Cyber Security/Hacking/Shellcodes/Evasion Tactics for Shellcode Execution.md",
+    "Cyber Security/Hacking/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
+    "Self Diagnostic based on AI.md",
     "Computer Science/Theory/Occam's Razor.md",
     "Diary/Self Improvement/Topics/Attention.md",
     "Computer Science/Theory/Important Concepts.md",
     "Computer Science/Theory/Amdahl's law.md",
     "Diary/Wealth",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Data Formats.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Accessing Information.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Visualizing Data Types at the Byte Level.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Byte Ordering and Representation in Memory Overview.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/32 bit and 64 bit - what in the world is a bit?.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/C Bitwise operations.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
     "Untitled.base",
     "Diary/Self Improvement/Topics/Comfort Zone.md",
     "Diary/Self Improvement/Leadership/Untitled.md",
@@ -202,19 +251,12 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "Computer Science/Computer Systems/Assets/objdump-output.png",
-    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Hardware Organization of a Typical System.md",
     "Computer Science/Computer Systems/Assets/boolean-algebra-example.png",
     "Computer Science/Computer Systems/Assets/boolean-algebra-bitwise-example.png",
     "Computer Science/Computer Systems/Assets/multi-core-proccessor.png",
     "Computer Science/Computer Systems/Assets/http-resources-diagram.png",
     "Computer Science/Computer Systems/Assets/http-client-server-model.png",
-    "vector registers.md",
-    "condition code registers.md",
     "Computer Science/Theory",
-    "Computer Science/Computer Systems/Tour of Computer Systems/System Hardware and Internals/Operating Systems/Concurrency and Parallelism.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming/Running a simple Hello World Program.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Systems Programming/How Software runs.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary",
     "Computer Science/Computer Systems/Assets/virtual-memory-abstraction.png",
     "Computer Science/Computer Systems/Assets/different-processor-configuration.png",
     "Computer Science/Computer Systems/Assets/Figure1.9.png",
