@@ -14,7 +14,9 @@ linux > gcc -Og -o p p1.c p2.c
 
 The command gcc indicates the gcc C compiler. Since this is the default compiler on Linux, we could also invoke it as simply cc. 
 
-==The command-line option -Og instructs the compiler to apply a level of optimization that yields machine code that follows the overall structure of the original C code.== 
+==The command-line option -Og instructs the compiler to apply a level of optimization that yields machine code that follows the overall structure of the original C code.==  
+
+[[GCC Flags | click here to know more about optimization]]
 
 Invoking higher levels of optimization can generate code that is so heavily transformed that the relationship between the generated machine code and the original source code is difficult to understand. 
 
@@ -37,20 +39,19 @@ In practice, **higher levels of optimization (e.g., specified with the option -O
 
 #### **Machine Level Code**
 
+As described in [[The Operating System Manages the Hardware#The Importance of Abstractions in Computer Systems|Importance of Abstraction]], computer systems employ several different forms of abstraction, hiding details of an implementation through the use of a simpler abstract model.
 
-**As described in [[The Operating System Manages the Hardware#The Importance of Abstractions in Computer Systems|Importance of Abstraction]], computer systems employ several different forms of abstraction, hiding details of an implementation through the use of a simpler abstract model.**
+> **==Two of these are especially important for machine-level programming.==** 
 
-> ==Two of these are especially important for machine-level programming.== 
-
-* First, **the format and behavior of a machine-level program is defined by the instruction set architecture**, or [[ISA]], defining the processor state, the format of the instructions, and the effect each of these instructions will have on the state.
+* First, the format and behavior of a machine-level program is defined by the instruction set architecture, or [[ISA]], defining the processor state, the format of the instructions, and the effect each of these instructions will have on the state.
 
 ==Most ISA, including [[x86-64]], describe== the behavior of ==a program as if each instruction is executed in sequence, with one instruction completing before the next one begins.==
 
-==The processor hardware is far more elaborate,== **executing many instructions concurrently, but it employs safeguards to ensure that the overall behavior matches the sequential operation dictated by the ISA.** 
+==The processor hardware is far more elaborate,== executing many instructions concurrently, but it employs safeguards to ensure that the overall behavior matches the sequential operation dictated by the ISA.
 
 * Second, the memory addresses used by a machine-level program are virtual addresses, providing a memory model that appears to be a very large byte array. 
 
-==The **actual implementation of the memory system involves a combination of multiple hardware memories and operating system software.==**
+==The actual implementation of the memory system involves a combination of multiple hardware memories and operating system software.==
 
 ---
 
