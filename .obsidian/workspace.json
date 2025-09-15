@@ -25,13 +25,28 @@
             "id": "6207463793938783",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Machine Level Representation"
+            }
+          },
+          {
+            "id": "0785ad1c51225eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Programming/Programs/Patchimm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patchimm"
             }
           },
           {
@@ -48,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,16 +211,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6207463793938783",
+  "active": "0785ad1c51225eb0",
   "lastOpenFiles": [
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
+    "Computer Science/Programming/Programs/Patchimm.md",
+    "Computer Science/Programming/Programs",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Data Formats.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Accessing Information.md",
+    "Computer Science/Programming/Compiler/GCC Flags.md",
+    "Untitled.base",
     "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/What is concurrency?.md",
     "Computer Science/Programming/C++/Smart Pointers.md",
     "Diary/Self Improvement/Procastination/The Lazy Ambitious Man.md",
-    "Untitled.base",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
     "ISA.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
-    "Computer Science/Programming/Compiler/GCC Flags.md",
     "Diary/Self Improvement/Procastination/Procrastination by Carl Jung.md",
     "Diary/Wealth/Advice to someone who wants to get rich.md",
     "Computer Science/Programming/C++",
@@ -220,8 +239,6 @@
     "Computer Science/Theory/Important Concepts.md",
     "Computer Science/Theory/Amdahl's law.md",
     "Diary/Wealth",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Data Formats.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Accessing Information.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Visualizing Data Types at the Byte Level.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Byte Ordering and Representation in Memory Overview.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/32 bit and 64 bit - what in the world is a bit?.md",
@@ -233,7 +250,6 @@
     "DataBase.base",
     "Untitled.canvas",
     "Untitled 2.base",
-    "Untitled 1.base",
     "Computer Science/Computer Systems/Assets/objdump-output.png",
     "Computer Science/Computer Systems/Assets/boolean-algebra-example.png",
     "Computer Science/Computer Systems/Assets/boolean-algebra-bitwise-example.png",

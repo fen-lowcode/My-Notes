@@ -321,24 +321,24 @@ As the nested boxes in the diagram indicate, instructions can operate on data of
 
 ==Byte-level operations can access the least significant byte, 16-bit operations can access the least significant 2 bytes, 32-bit operations can access the least significant 4 bytes, and 64-bit operations can access entire registers.==
 
-| Register (64-bit) | 32-bit | 16-bit | 8-bit | Purpose        |
-|-------------------|--------|--------|-------|----------------|
-| %rax              | %eax   | %ax    | %al   | Return value   |
-| %rbx              | %ebx   | %bx    | %bl   | Callee saved   |
-| %rcx              | %ecx   | %cx    | %cl   | 4th argument   |
-| %rdx              | %edx   | %dx    | %dl   | 3rd argument   |
-| %rsi              | %esi   | %si    | %sil  | 2nd argument   |
-| %rdi              | %edi   | %di    | %dil  | 1st argument   |
-| %rbp              | %ebp   | %bp    | %bpl  | Callee saved   |
-| %rsp              | %esp   | %sp    | %spl  | Stack pointer  |
-| %r8               | %r8d   | %r8w   | %r8b  | 5th argument   |
-| %r9               | %r9d   | %r9w   | %r9b  | 6th argument   |
-| %r10              | %r10d  | %r10w  | %r10b | Caller saved   |
-| %r11              | %r11d  | %r11w  | %r11b | Caller saved   |
-| %r12              | %r12d  | %r12w  | %r12b | Callee saved   |
-| %r13              | %r13d  | %r13w  | %r13b | Callee saved   |
-| %r14              | %r14d  | %r14w  | %r14b | Callee saved   |
-| %r15              | %r15d  | %r15w  | %r15b | Callee saved   |
+| Register (64-bit) | 32-bit | 16-bit | 8-bit | Purpose       |
+| ----------------- | ------ | ------ | ----- | ------------- |
+| %rax              | %eax   | %ax    | %al   | Return value  |
+| %rbx              | %ebx   | %bx    | %bl   | Callee saved  |
+| %rcx              | %ecx   | %cx    | %cl   | 4th argument  |
+| %rdx              | %edx   | %dx    | %dl   | 3rd argument  |
+| %rsi              | %esi   | %si    | %sil  | 2nd argument  |
+| %rdi              | %edi   | %di    | %dil  | 1st argument  |
+| %rbp              | %ebp   | %bp    | %bpl  | Callee saved  |
+| %rsp              | %esp   | %sp    | %spl  | Stack pointer |
+| %r8               | %r8d   | %r8w   | %r8b  | 5th argument  |
+| %r9               | %r9d   | %r9w   | %r9b  | 6th argument  |
+| %r10              | %r10d  | %r10w  | %r10b | Caller saved  |
+| %r11              | %r11d  | %r11w  | %r11b | Caller saved  |
+| %r12              | %r12d  | %r12w  | %r12b | Callee saved  |
+| %r13              | %r13d  | %r13w  | %r13b | Callee saved  |
+| %r14              | %r14d  | %r14w  | %r14b | Callee saved  |
+| %r15              | %r15d  | %r15w  | %r15b | Callee saved  |
 
 
 
@@ -357,28 +357,37 @@ Some instructions specifically read and write this register.
 
 ==Most instructions have one or more operands specifying the source values to use in performing an operation and the destination location into which to place the result.==
 
-| Type                | Form                       | Operand Value Representation |
-| ------------------- | -------------------------- | ---------------------------- |
-| Immediate           | $Imm                       | Imm                          |
-| Register            | ra                         | R[ra]                        |
-| Memory              | (ra)                       | M[R[ra]]                     |
-| Memory              | Imm(rb)                    | M[Imm + R[rb]]               |
-| Memory              | (rb, ri)                   | M[R[rb] + R[ri]]             |
-| Memory              | Imm(rb, ri)                | M[Imm + R[rb] + R[ri]]       |
-| Memory              | (,ri,s)                    | M[R[ri] · s]                 |
-| Memory              | Imm(,ri,s)                 | M[Imm + R[ri] · s]           |
-| Memory              | (rb,ri,s)                  | M[R[rb] + R[ri] · s]         |
-| Memory              | Imm(rb,ri,s)               | M[Imm + R[rb] + R[ri] · s]   |
-| Absolute            | M[Imm]                     | Absolute                     |
-| Indirect            | M[R[ra]]                   | Indirect                     |
-| Base + displacement | M[Imm + R[rb]]             | Base + displacement          |
-| Indexed             | M[R[rb] + R[ri]]           | Indexed                      |
-| Indexed             | M[Imm + R[rb] + R[ri]]     | Indexed                      |
-| Scaled indexed      | M[R[ri] · s]               | Scaled indexed               |
-| Scaled indexed      | M[Imm + R[ri] · s]         | Scaled indexed               |
-| Scaled indexed      | M[R[rb] + R[ri] · s]       | Scaled indexed               |
-| Scaled indexed      | M[Imm + R[rb] + R[ri] · s] | Scaled indexed               |
+|Type|Form|Operand Value Representation|
+|---|---|---|
+|Immediate|$Imm|Imm|
+|Register|ra|R[ra]|
+|Memory|(ra)|M[R[ra]]|
+|Memory|Imm(rb)|M[Imm + R[rb]]|
+|Memory|(rb, ri)|M[R[rb] + R[ri]]|
+|Memory|Imm(rb, ri)|M[Imm + R[rb] + R[ri]]|
+|Memory|(, ri, s)|M[R[ri] · s]|
+|Memory|Imm(, ri, s)|M[Imm + R[ri] · s]|
+|Memory|(rb, ri, s)|M[R[rb] + R[ri] · s]|
+|Memory|Imm(rb, ri, s)|M[Imm + R[rb] + R[ri] · s]|
+|Absolute|M[Imm]|Absolute|
+|Indirect|M[R[ra]]|Indirect|
+|Base + displacement|M[Imm + R[rb]]|Base + displacement|
+|Indexed|M[R[rb] + R[ri]]|Indexed|
+|Indexed|M[Imm + R[rb] + R[ri]]|Indexed|
+|Scaled indexed|M[R[ri] · s]|Scaled indexed|
+|Scaled indexed|M[Imm + R[ri] · s]|Scaled indexed|
+|Scaled indexed|M[R[rb] + R[ri] · s]|Scaled indexed|
+|Scaled indexed|M[Imm + R[rb] + R[ri] · s]|Scaled indexed|
 
 `Figure 3.3` Operand forms. Operands can denote immediate (constant) values, register values, or values from memory. The scaling factor s must be either 1, 2, 4, or 8.
 
+x86-64 supports a numbers of operand forms as seen above (see figure 3.3). 
 
+==Source values can be given as constant or read from registers or memory.==
+==Results can be stored in either registers or memory. thus the different operand has three possible classification types.==
+
+* ==The first type is, *immediate*,== it is for constant values, In AT&T format this is written with an $ symbol followed by an integer in  standard C notation example: $5, $0xA. 
+
+* ==The second type is *register*,== denotes the contents of a register, one of the sixteen 8-, 4-, 2-, 1-byte or lower portions of the register operands having 64, 32, 16 or 8 bits, respectively. we use the notation r<sub>a</sub> to denote arbitrary register <sub>a</sub> and indicates it's value with the reference R[r<sub>a</sub>], viewing the set of registers as an array R indexed by register identifiers.
+
+* ==The third type of operand is a _memory reference_,== in which we access some memory location according to a computed address, often called the effective address. Since we view the memory as a large array of bytes, we use the notation M<sub>b</sub>[Addr] to denote a reference to the b-byte value stored in memory starting at address Addr. To simplify things, we will generally drop the subscript <sub>b</sub>. As `Figure 3.3` shows, there are many different addressing modes allowing different forms of memory references. The most general form is shown at the bottom of the table with syntax Imm(r<sub>b</sub>, r<sub>i</sub>, s). Such a reference has four components: an immediate offset Imm, a base register r<sub>b</sub>, an index register r<sub>i</sub>, and a scale factor s, where s must be 1, 2, 4, or 8. Both the base and index must be 64-bit registers. The effective address is computed as Imm + R[r<sub>b</sub>] + (R[r<sub>i</sub>] × s). This is equivalent to the formula address = base + (index × scale) + displacement. This general form is often seen when referencing elements of arrays. For example, if rdi holds the base address of an array of 8-byte elements and rcx is the array index, then the instruction `mov rax, [rdi + rcx*8 + 4]` computes the address as Addr = R[rdi] + (R[rcx] × 8) + 4. Here the base is the start of the array (rdi), the index is which element we want (rcx), the scale is the element size in bytes (8), and the displacement is an additional offset within the element (4, which might refer to a field inside a structure). The other forms are simply special cases of this general form where some of the components are omitted. The more complex addressing modes are useful when referencing array and structure elements.
