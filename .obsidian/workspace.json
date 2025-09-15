@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming/Programs/Patchimm.md",
+                "file": "Cyber Security/Hacking/Binary Exploitation/Binary Patching/Binary Patching Techniques Beyond NOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patchimm"
+              "title": "Binary Patching Techniques Beyond NOP"
             }
           },
           {
@@ -213,12 +213,18 @@
   },
   "active": "0785ad1c51225eb0",
   "lastOpenFiles": [
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
     "Computer Science/Programming/Programs/Patchimm.md",
-    "Computer Science/Programming/Programs",
+    "Computer Science/Programming/Compiler/How GCC works under the hood.md",
+    "Computer Science/Programming/Compiler/Hello World Program.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Code & Assembly (Cheat Sheet).md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Data Formats.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Accessing Information.md",
+    "Cyber Security/Hacking/Binary Exploitation/Binary Patching/Binary Patching Techniques Beyond NOP.md",
+    "Cyber Security/Hacking/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
+    "Cyber Security/Hacking/Binary Exploitation/Binary Patching",
+    "Cyber Security/Hacking/Binary Exploitation",
+    "Computer Science/Programming/Programs",
     "Computer Science/Programming/Compiler/GCC Flags.md",
     "Untitled.base",
     "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/What is concurrency?.md",
@@ -231,8 +237,8 @@
     "Diary/Self Improvement/Procastination/Solution to face the shadow.md",
     "Diary/Self Improvement/Procastination",
     "Diary/Wealth/What it takes to be an Entrepreneur.md",
-    "Cyber Security/Hacking/Shellcodes/Evasion Tactics for Shellcode Execution.md",
-    "Cyber Security/Hacking/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
+    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Evasion Tactics for Shellcode Execution.md",
+    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
     "Self Diagnostic based on AI.md",
     "Computer Science/Theory/Occam's Razor.md",
     "Diary/Self Improvement/Topics/Attention.md",
@@ -240,16 +246,10 @@
     "Computer Science/Theory/Amdahl's law.md",
     "Diary/Wealth",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Visualizing Data Types at the Byte Level.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/Byte Ordering and Representation in Memory Overview.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/32 bit and 64 bit - what in the world is a bit?.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/C Bitwise operations.md",
-    "Diary/Self Improvement/Topics/Comfort Zone.md",
     "Diary/Self Improvement/Leadership",
     "Status Register / Flags Register (SR",
     "Status Register ",
-    "DataBase.base",
     "Untitled.canvas",
-    "Untitled 2.base",
     "Computer Science/Computer Systems/Assets/objdump-output.png",
     "Computer Science/Computer Systems/Assets/boolean-algebra-example.png",
     "Computer Science/Computer Systems/Assets/boolean-algebra-bitwise-example.png",
