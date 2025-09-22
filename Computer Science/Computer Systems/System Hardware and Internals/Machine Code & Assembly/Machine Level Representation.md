@@ -1,4 +1,4 @@
-#computer-system  #programming 
+#computer-system  #programming  #assembly
 
 
 This section focus on the deeper layers of programs and machine code and their relation in regards to [[Machine Code & Assembly (Cheat Sheet)]]
@@ -391,3 +391,9 @@ x86-64 supports a numbers of operand forms as seen above (see figure 3.3).
 * ==The second type is *register*,== denotes the contents of a register, one of the sixteen 8-, 4-, 2-, 1-byte or lower portions of the register operands having 64, 32, 16 or 8 bits, respectively. we use the notation r<sub>a</sub> to denote arbitrary register <sub>a</sub> and indicates it's value with the reference R[r<sub>a</sub>], viewing the set of registers as an array R indexed by register identifiers.
 
 * ==The third type of operand is a _memory reference_,== in which we access some memory location according to a computed address, often called the effective address. Since we view the memory as a large array of bytes, we use the notation M<sub>b</sub>[Addr] to denote a reference to the b-byte value stored in memory starting at address Addr. To simplify things, we will generally drop the subscript <sub>b</sub>. As `Figure 3.3` shows, there are many different addressing modes allowing different forms of memory references. The most general form is shown at the bottom of the table with syntax Imm(r<sub>b</sub>, r<sub>i</sub>, s). Such a reference has four components: an immediate offset Imm, a base register r<sub>b</sub>, an index register r<sub>i</sub>, and a scale factor s, where s must be 1, 2, 4, or 8. Both the base and index must be 64-bit registers. The effective address is computed as Imm + R[r<sub>b</sub>] + (R[r<sub>i</sub>] × s). This is equivalent to the formula address = base + (index × scale) + displacement. This general form is often seen when referencing elements of arrays. For example, if rdi holds the base address of an array of 8-byte elements and rcx is the array index, then the instruction `mov rax, [rdi + rcx*8 + 4]` computes the address as Addr = R[rdi] + (R[rcx] × 8) + 4. Here the base is the start of the array (rdi), the index is which element we want (rcx), the scale is the element size in bytes (8), and the displacement is an additional offset within the element (4, which might refer to a field inside a structure). The other forms are simply special cases of this general form where some of the components are omitted. The more complex addressing modes are useful when referencing array and structure elements.
+
+---
+
+#### Data movement instruction
+
+
