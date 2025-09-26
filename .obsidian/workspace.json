@@ -13,28 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Hacking/Binary Exploitation/Binary Patching/What is Binary Pathing?.md",
+                "file": "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/32 bit and 64 bit - what in the world is a bit?.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "32 bit and 64 bit - what in the world is a bit?"
+            }
+          },
+          {
+            "id": "ed9cc428c146121d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How To Remember and Study effectively.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Binary Pathing?"
-            }
-          },
-          {
-            "id": "1731fed59b4312e3",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "How To Remember and Study effectively"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "f46fcab4f99dd269",
@@ -182,15 +185,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f3aca575d7d45cf",
+  "active": "ed9cc428c146121d",
   "lastOpenFiles": [
-    "Cyber Security/Hacking/Binary Exploitation/Binary Patching/Binary Patching Techniques Beyond NOP.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/32 bit and 64 bit - what in the world is a bit?.md",
+    "Untitled.base",
+    "Computer Science/Computer Networking/HTTP Protocol.md",
+    "How To Remember and Study effectively.md",
+    "spacingeffect.avif",
+    "Untitled",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
     "Cyber Security/Hacking/Binary Exploitation/Binary Patching/What is Binary Pathing?.md",
+    "Cyber Security/Hacking/Binary Exploitation/Binary Patching/Binary Patching Techniques Beyond NOP.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/The Operating System Manages the Hardware.md",
     "Virtual memory.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Machine Level Representation.md",
     "README.md",
-    "Untitled.base",
     "Diary/Self Improvement/Procastination/The Lazy Ambitious Man.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Accessing Information.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Data Formats.md",
@@ -212,14 +220,9 @@
     "Computer Science/Programming/C++",
     "Diary/Self Improvement/Procastination/Solution to face the shadow.md",
     "Diary/Self Improvement/Procastination",
-    "Diary/Wealth/What it takes to be an Entrepreneur.md",
-    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Evasion Tactics for Shellcode Execution.md",
-    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
-    "Self Diagnostic based on AI.md",
     "Diary/Wealth",
     "Diary/Self Improvement/Leadership",
     "Status Register / Flags Register (SR",
-    "Status Register ",
     "Untitled.canvas",
     "Computer Science/Computer Systems/Assets/objdump-output.png",
     "Computer Science/Computer Systems/Assets/boolean-algebra-example.png",
@@ -230,7 +233,6 @@
     "Computer Science/Computer Systems/Assets/virtual-memory-abstraction.png",
     "Computer Science/Computer Systems/Assets/different-processor-configuration.png",
     "Computer Science/Computer Systems/Assets/Figure1.9.png",
-    "Computer Science/Computer Systems/Assets/Figure1.8.png",
     "Visual Viewer.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

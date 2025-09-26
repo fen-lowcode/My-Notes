@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Primary",
-  "theme": "obsidian",
+  "cssTheme": "Typewriter",
+  "theme": "moonstone",
   "accentColor": "#d69d00",
   "baseFontSizeAction": true,
   "baseFontSize": 12,
