@@ -18,7 +18,7 @@ We can ==think of the operating system as a layer of software interposed between
 
 The ==operating system achieves both goals via the fundamental abstractions== **shown in Figure 1.11**
 
-==**[[Processes]], [[Virtual memory]], and [[Files]]**.== As this figure suggests, **==Files** are abstractions for **[[IO Devices]]**,== ==**Virtual Memory** is an abstraction for both the **[[Main Memory]] and disk [[IO Device]]==,** and **Processes** are abstractions for the **[[Processor]], [[Main Memory]], [[Files]].**
+==**[[Processes]], [[Virtual memory]], and [[Files]]**.== As this figure suggests, **==Files** are abstractions for **[[IO Devices]]**,== ==**Virtual Memory** is an abstraction for both the **[[Main Memory]] and disk [[IO Device]]==,** and **Processes** are abstractions for the **[[Central Processing Unit (CPU)]], [[Main Memory]], [[Files]].**
 
 ---
 

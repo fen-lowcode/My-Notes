@@ -1,3 +1,4 @@
+#theory 
 
 ==Gene Amdahl, one of the early pioneers in computing, made a simple but insightful observation== about the ==effectiveness of improving the performance of one part of a system.== 
 

@@ -1,7 +1,7 @@
 #computer-system
 ### Cache Matter
 
-**The machine instruction in the hello program are originally stored on disk.** ==When the program is loaded they are copied to [[Main Memory]]. As the [[Processor]]  runs the program, instructions are copied from main memory into the processor.==
+**The machine instruction in the hello program are originally stored on disk.** ==When the program is loaded they are copied to [[Main Memory]]. As the [[Central Processing Unit (CPU)]]  runs the program, instructions are copied from main memory into the processor.==
 
 **Similarly**, ==the data string hello, world\n, originally on disk, is copied to main memory and then copied from main memory to the display device.== 
 

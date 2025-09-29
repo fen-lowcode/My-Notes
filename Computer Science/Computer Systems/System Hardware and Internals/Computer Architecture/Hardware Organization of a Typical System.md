@@ -38,7 +38,7 @@ Physically, ==main memory consists of a collection of dynamic random access memo
 
 ---
 
-> **[[Processor]]**
+> **[[Central Processing Unit (CPU)]]**
 
 ==The **central processing unit** (***CPU*** ), or simply processor, is the engine that interprets (or executes) instructions stored in main memory==
 

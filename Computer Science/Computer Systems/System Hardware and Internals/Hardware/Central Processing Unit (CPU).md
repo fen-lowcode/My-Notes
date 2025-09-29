@@ -2,14 +2,20 @@
 
 ---
 
->[!Processor] 
+>[!Central Processing Unit] 
 >In this model, instructions execute in strict sequence and executing a single instruction involves performing a series of steps. 
 
 ---
 
-**The processor reads the instruction from [[Main Memory]] pointed at by the [[Program counter]] (PC), interprets the bits in the instruction, performs some simple operation dictated by the instruction, and then updates the PC to point to the next instruction**, which may or may not be contiguous in memory to the instruction that was just executed.
+CPU and Processor is being used interchangeably in computer jargon, a screenshot below is a Reddit post that may to distinguish if are this words actually different in concept or just the same
 
-There are only few of these simple operations, and they revolve around the ***[[Main Memory]]***, ***[[Register File]]***, and the ***[[Arithmetic/Logic Unit]]*** **( ALU )**.
+![[CPU or Processor.png]]
+
+
+
+**The Central Processing Unit reads the instruction from [[Main Memory]] pointed at by the [[Program counter]] (PC), interprets the bits in the instruction, performs some simple operation dictated by the instruction, and then updates the PC to point to the next instruction**, which may or may not be contiguous in memory to the instruction that was just executed.
+
+There are only few of these simple operations, and they revolve around the ***[[Main Memory]]***, ***[[Register File]]***, and the ***[[Arithmetic Logic Unit]]*** **( ALU )**.
 
 **The Register File is a small storage device that consists of a collection of word-size 
 [[Register]]**(s), each with its own unique name. 

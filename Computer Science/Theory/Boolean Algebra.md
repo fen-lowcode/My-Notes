@@ -1,4 +1,4 @@
-#math #computer-system 
+#math #computer-system #theory
 
 #### **Introduction to Boolean Algebra**
 

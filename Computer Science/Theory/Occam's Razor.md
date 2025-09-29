@@ -1,3 +1,5 @@
+#theory 
+
 Thinking outside the box helps us cross imaginary boundaries and thus to access possibilities and options that were not recognizable to us at first. Thereby, we will encounter many options, and the whole way to the solution of a problem can become very complicated very fast. The Occam's Razor principle is beneficial for simplifying these circumstances.
 
 Occam's Razor is one of the central principles of modern scientific theory. The principle is based on the following definition:

@@ -1,6 +1,6 @@
 #hardware #computer-system #programming
 
-A **register** is a small, fast storage location inside a [[Processor]] or **[[Microcontroller]]**  
+A **register** is a small, fast storage location inside a [[Central Processing Unit (CPU)]] or **[[Microcontroller]]**  
 It holds data temporarily for processing. Unlike RAM, registers are directly connected to the processor’s logic, making them much faster.
 
 Registers are measured in **bits** (commonly 8, 16, 32, or 64).  
