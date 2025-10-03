@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Stack-Based Buffer Overflow"
             }
+          },
+          {
+            "id": "788623aa75668f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Hacking/Vulnerabilities/Stack-Based Buffer Overflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stack-Based Buffer Overflow"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,10 +241,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a05ed06cfee98105",
+  "active": "788623aa75668f7a",
   "lastOpenFiles": [
-    "Cyber Security/Hacking/Vulnerabilities/Buffer Overflow Overview.md",
+    "Computer Science/Computer Systems/System Hardware and Internals/Machine Code & Assembly/Binary/32 bit and 64 bit - what in the world is a bit?.md",
     "Cyber Security/Hacking/Vulnerabilities/Stack-Based Buffer Overflow.md",
+    "Cyber Security/Hacking/Vulnerabilities/Buffer Overflow Overview.md",
+    "Computer Science/Programming/Compiler/Why it's important to understand the compilation system.md",
+    "Computer Science/Programming/Compiler/What is GCC and G++.md",
+    "Computer Science/Programming/Compiler/How linker works.md",
+    "Computer Science/Programming/Compiler/How GCC works under the hood.md",
+    "Computer Science/Programming/Compiler/Hello World Program.md",
+    "Computer Science/Programming/Compiler/GCC Flags.md",
+    "Computer Science/assets/Figure1.3.png",
+    "Computer Science/Computer Systems/System Hardware and Internals/Operating Systems/The Virtual Memory.md",
+    "Computer Science/assets/buffer_overflow_1.webp",
+    "Computer Science/assets/b0ee7723-3682-4c00-9283-8cbbe09879ee_2460x2478.webp",
+    "Pasted image 20250930144926.jpg",
     "Computer Science/Computer Systems/System Hardware and Internals/Hardware/Main Memory.md",
     "Unix System.md",
     "Computer Science/Theory/Von-Neumann architecture.md",
@@ -255,17 +281,8 @@
     "von_neumann3 1.webp",
     "Cyber Security/Overview and Guidance.md",
     "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Hardware Organization of a Typical System.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Clock Cycle.md",
-    "Computer Science/Computer Systems/System Hardware and Internals/Computer Architecture/Program counter.md",
-    "Computer Science/Computer Networking/HTTP Protocol.md",
-    "Diary/Wealth/Advice to someone who wants to get rich.md",
-    "Diary/Wealth/What it takes to be an Entrepreneur.md",
-    "Diary/Self Improvement/Procastination/Procrastination by Carl Jung.md",
-    "Diary/Self Improvement/Procastination/Solution to face the shadow.md",
-    "Diary/Self Improvement/Procastination/The Lazy Ambitious Man.md",
     "Diary/Self Improvement/images",
     "Untitled.base",
-    "Diary/Self Improvement/images/spacingeffect.avif",
     "Cyber Security/Hacking/Binary Exploitation/Binary Patching",
     "Cyber Security/Hacking/Binary Exploitation",
     "Computer Science/Programming/Programs",
@@ -273,9 +290,6 @@
     "Diary/Self Improvement/Procastination",
     "Diary/Wealth",
     "Untitled.canvas",
-    "Computer Science/assets/objdump-output.png",
-    "Computer Science/assets/boolean-algebra-example.png",
-    "Computer Science/assets/boolean-algebra-bitwise-example.png",
     "Visual Viewer.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

@@ -33,4 +33,16 @@ To understand how it technically works, we need to be familiar with how:
 
 ---
 
+![[The Virtual Memory]] 
+
+---
+#### The Stack
+
+**Rewrite !!**
+
+==`Stack memory` is a `Last-In-First-Out` data structure== in which the return addresses, parameters, and, depending on the compiler options, frame pointers are stored. `C/C++` local variables are stored here, and you can even copy code to the stack. The `Stack` is a defined area in `RAM`. The linker reserves this area and usually places the stack in RAM's lower area above the global and static variables. The contents are accessed via the `stack pointer`, set to the upper end of the stack during initialization. During execution, the allocated part of the stack grows down to the lower memory addresses.
+
+Modern memory protections (`DEP`/`ASLR`) would prevent the damage caused by buffer overflows. DEP (Data Execution Prevention), marked regions of memory "Read-Only". The read-only memory region is where some user-input is stored (Example: The Stack), so the idea behind DEP was to prevent users from uploading shellcode to memory and then setting the instruction pointer to the shellcode. Hackers started utilizing ROP (Return Oriented Programming) to get around this, as it allowed them to upload the shellcode to an executable space and use existing calls to execute it. With ROP, the attacker needs to know the memory addresses where things are stored, so the defense against it was to implement ASLR (Address Space Layout Randomization) which randomizes where everything is stored making ROP more difficult.
+
+Users can get around ASLR by leaking memory addresses, but this makes exploits less reliable and sometimes impossible. For example the ["Freefloat FTP Server"](https://www.exploit-db.com/exploits/46763) is trivial to exploit on Windows XP (before DEP/ASLR). However, if the application is ran on a modern Windows operating system, the buffer overflow exists but it is currently non-trivial to exploit due to DEP/ASLR (as there's no known way to leak memory addresses.)
 
