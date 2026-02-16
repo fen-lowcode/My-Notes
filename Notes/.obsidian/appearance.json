@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "accentColor": "#d69d00",
+  "baseFontSizeAction": true,
+  "baseFontSize": 13,
+  "nativeMenus": false,
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": "Times"
+}
