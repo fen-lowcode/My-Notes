@@ -1,4 +1,4 @@
-#networking #introduction-to-network
+#Computer-network #Communication-in-the-connected-world
 #### 1.3.1 Bandwidth
 
 Streaming a movie or playing a multiplayer game requires a reliably fast constant connection, to support these high "bandwidths" applications, network have to be capable of transmitting 

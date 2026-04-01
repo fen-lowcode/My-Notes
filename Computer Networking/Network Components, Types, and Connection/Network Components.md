@@ -1,4 +1,4 @@
-#Computer-network #introduction-to-network 
+ #Computer-network #Network-Component-Types-And-Connection
 
 #### 2.2.1 Video - Network Infrastructure Symbols
 

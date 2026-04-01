@@ -1,4 +1,4 @@
-#Computer-network #networking #introduction-to-network 
+#Computer-network #Communication-in-the-connected-world 
 
 
 1.0.1 Webster - Why Should I Take this Module?
@@ -14,3 +14,4 @@ Welcome to Communications in a Connected World! Hi, I'm Webster! I'll be accompa
 **Module Objective:** Explain important concepts in network communication
 
 ![[Pasted image 20260330141937.png]]
+

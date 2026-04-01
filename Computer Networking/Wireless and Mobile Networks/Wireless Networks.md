@@ -1,4 +1,4 @@
-
+#Computer-network  #wireless-and-mobile-networks
 #### 3.1.1 Video - Types of Wireless Networks
 
 ![[Cisco Networking Academy Course Launch(2) 2.mp4]]

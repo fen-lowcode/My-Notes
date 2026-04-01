@@ -1,4 +1,4 @@
-#assembly 
+#assembly #assembly-and-binary
 
 ==x86-64 central processing unit (CPU) contains a set of 16 general-purpose registers storing 64-bit values. These registers are used to store integer data as well as pointers.==
 

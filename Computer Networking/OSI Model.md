@@ -52,3 +52,4 @@ ___
 The OSI model is the guide for developers and inventors to smooth the progress of developing communication products and software programs that will work in cooperation a commonly established model.
 
 Once you understand the model you can then understand which protocol and devices will be compatible with one another.
+

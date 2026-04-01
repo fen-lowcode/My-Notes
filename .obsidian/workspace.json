@@ -109,14 +109,10 @@
             "id": "9ffdd5a6ea53b76d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Networking/Communication in the connected world/Bandwidth and Throughput.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bandwidth and Throughput"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -153,16 +149,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/Wireless and Mobile Networks/Mobile Device Wireless Connectivity.md",
+                "file": "Computer Networking/Build a home network/Wireless Standards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mobile Device Wireless Connectivity"
+              "title": "Wireless Standards"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -194,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Computer-network",
+                "query": "tag:#communication-Principles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,17 +231,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL language.md",
+                "file": "Computer Networking/Communication Principles/Network Communication Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SQL language"
+              "title": "Backlinks for Network Communication Models"
             }
           },
           {
@@ -297,16 +293,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL language.md",
+                "file": "Computer Networking/Communication Principles/Network Communication Models.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL language"
+              "title": "Outline of Network Communication Models"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -324,53 +321,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc09873593b8cac5",
+  "active": "9ffdd5a6ea53b76d",
   "lastOpenFiles": [
-    "Computer Networking/Wireless and Mobile Networks/Mobile Device Wireless Connectivity.md",
-    "Summary.md",
-    "assets/videos/Cisco Networking Academy Course Launch(5).mp4",
-    "Computer Networking/Wireless and Mobile Networks/Wireless Networks.md",
-    "assets/images/Pasted image 20260330151358.png",
-    "assets/videos/Cisco Networking Academy Course Launch(2) 2.mp4",
-    "assets/videos/Cisco Networking Academy Course Launch(3).mp4",
-    "assets/videos/Cisco Networking Academy Course Launch(4).mp4",
-    "assets/videos/Cisco Networking Academy Course Launch(3) 1.mp4",
-    "802.11.md",
-    "().md",
-    "Computer Networking/Wireless and Mobile Networks/Introduction.md",
-    "assets/images/Pasted image 20260330144011.png",
-    "Computer Networking/Communication in the connected world/Bandwidth and Throughput.md",
-    "Computer Networking/Communication in the connected world/Data Transmition.md",
-    "Computer Networking/Communication in the connected world/Network Types.md",
-    "Computer Networking/Network Components, Types, and Connection/Network Components.md",
-    "assets/images/Pasted image 20260330142818.png",
-    "assets/videos/Cisco Networking Academy Course Launch(2) 1.mp4",
-    "Computer Networking/Communication in the connected world/introduction.md",
-    "assets/videos/Cisco Networking Academy Course Launch(2).mp4",
-    "assets/images/Pasted image 20260330141937.png",
-    "Computer Networking/Network Components, Types, and Connection/Introduction.md",
-    "Computer Networking/Protocols/HTTP Protocol.md",
-    "Computer Science/Windows/Windows Internals Overview.md",
-    "assets/images/Pasted image 20260330141305.png",
-    "Computer Networking/Network Components, Types, and Connection/Client And Servers.md",
-    "assets/videos/Cisco Networking Academy Course Launch(1).mp4",
-    "assets/videos/Cisco Networking Academy Course Launch.mp4",
-    "Computer Networking/Wireless and Mobile Networks",
-    "assets/images/Pasted image 20260330135941.png",
-    "Pasted image 20260330135151.png",
-    "assets/images/Pasted image 20260330121129.png",
-    "assets/images/Pasted image 20260330121209.png",
-    "assets/images/Pasted image 20260330135123.png",
-    "Computer Science/Computer Systems/Hardware/Motherboard.md",
+    "Computer Networking/Communication Principles/Network Communication Models.md",
+    "Computer Networking/Communication Principles/Communication Protocols.md",
+    "Computer Networking/TCP-IP Model.md",
+    "Pasted image 20260401144926.png",
+    "Computer Networking/Communication Principles/Communication Standards.md",
+    "Computer Networking/Communication Principles/Introduction.md",
+    "assets/images/tcp-ip-osi-comparison.jpg",
     "Computer Networking/OSI Model.md",
-    "SQL language.md",
-    "Learning Graphics Programming.md",
-    "README.md",
-    "The Process (Linux).md",
-    "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
-    "Cyber Security/Reverse engineering/Reverse Engineering.md",
-    "Cyber Security/Overview and Guidance.md",
-    "Cyber Security/Hacking/Vulnerabilities/Stack-Based Buffer Overflow.md",
-    "Cyber Security/Hacking/Malware/Way of a malware Author.md"
+    "Computer Networking/Build a home network/Wireless Standards.md",
+    "IEEE 802.11.md",
+    "assets/videos/protocol stack.mp4",
+    "assets/videos/Network protocols overview what is?.mp4",
+    "assets/videos/Cisco Networking Academy Course Launch(1) 1.mp4",
+    "assets/images/Pasted image 20260401115300.png",
+    "assets/videos/Devices in a bubble.mp4",
+    "Computer Networking/Communication in the connected world/Bandwidth and Throughput.md",
+    "Computer Networking/Communication in the connected world/Network Types.md",
+    "Computer Networking/Network Components, Types, and Connection/Client And Servers.md",
+    "Computer Networking/Wireless and Mobile Networks/Mobile Device Wireless Connectivity.md",
+    "Computer Networking/Wireless and Mobile Networks/Wireless Networks.md",
+    "Computer Networking/Communication in the connected world/Data Transmition.md",
+    "Computer Networking/Build a home network/Introduction.md",
+    "assets/videos/Cisco Networking Academy Course Launch 1.mp4",
+    "Computer Science/Computer Systems/Assembly and Binary/Byte Ordering and Representation in Memory Overview.md",
+    "Computer Science/Programming/Programming Languages",
+    "Computer Science/Computer Systems/Assembly and Binary/Accessing registers in Assembly guide.md",
+    "Computer Science/Computer Systems/Assembly and Binary/32 bit and 64 bit - what in the world is a bit?.md",
+    "Computer Networking/Build a home network/Network Technology in Homes.md",
+    "Computer Networking/Build a home network/Home Network Basics.md",
+    "Computer Science/Computer Systems/Operating Systems/Linux/Elf Format cheatsheet.md",
+    "Computer Science/Theory/Theory Summary.md",
+    "Computer Science/Theory/Boolean Algebra.md",
+    "assets/images/Pasted image 20260401102524.png",
+    "assets/images/Pasted image 20260401102448.png",
+    "assets/images/Pasted image 20260401102408.png",
+    "Computer Networking/Communication Principles/Communication Protocols",
+    "Computer Networking/Communication Principles",
+    "assets/videos/Cisco Networking Academy Course Launch(6).mp4",
+    "assets/images/Pasted image 20260401092634.png",
+    "assets/images/Pasted image 20260401090533.png",
+    "assets/images/Pasted image 20260401083410.png",
+    "assets/images/Pasted image 20260401082805.png",
+    "assets/videos/Cisco Networking Academy My Learning Dashboard.mp4",
+    "Status Register / Flags Register (SR/FR).md",
+    "Personal/Self Improvement/How To Remember and Study effectively.md"
   ]
 }
