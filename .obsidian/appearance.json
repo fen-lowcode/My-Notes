@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Sandstorm",
+  "cssTheme": "",
   "theme": "moonstone",
   "textFontFamily": "",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "nativeMenus": false
 }

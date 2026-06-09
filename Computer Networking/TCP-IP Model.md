@@ -18,6 +18,7 @@ The **Application layer** provides the interface between the software applicatio
 
 - **Session Management:** Handles the construction, direction, and conclusion of connections between devices. It is responsible for authentication and managing multiple simultaneous "conversations" (dialogues) over the network.
 
+---
 
 ### Layer 3: Transport Layer
 
