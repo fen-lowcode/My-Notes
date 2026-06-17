@@ -23,21 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/Wireless and Mobile Networks/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "5c8b2026bab60a5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Shellcode loader sample.md",
+                "file": "Computer Science/Windows/Windows API Mechanisms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +38,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shellcode loader sample"
+              "title": "Windows API Mechanisms"
+            }
+          },
+          {
+            "id": "2e396bc5f9fca3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Windows/Bypassing the Windows Loader A Low-Level Hello World.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bypassing the Windows Loader A Low-Level Hello World"
+            }
+          },
+          {
+            "id": "5c8b2026bab60a5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -113,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5124969482422
+    "width": 375.5003967285156
   },
   "right": {
     "id": "2c74750d86aae33d",
@@ -217,44 +237,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c8b2026bab60a5a",
+  "active": "2e396bc5f9fca3ff",
   "lastOpenFiles": [
+    "Computer Science/Windows/Understanding Windows Internals The PEB Walk & Export Address Table (EAT) Parsing.md",
+    "Computer Science/Windows/Bypassing the Windows Loader A Low-Level Hello World.md",
+    "Computer Science/Windows/Windows Runtime.md",
+    "Computer Science/Windows/Windows API Mechanisms.md",
+    "Computer Science/Windows/Windows Internals Overview.md",
+    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Shellcode loader sample.md",
     "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Self-Decrypting Shell code.md",
-    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Powershell and Shellcode over Full Malware.md",
+    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Evasion Tactics for Shellcode Execution.md",
     "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
-    "Cyber Security/Hacking/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
-    "Cyber Security/Hacking/Exploiting Procedure/Comprehensive Roadmap for Learning Binary Exploitation and Patching.md",
-    "Cyber Security/Hacking/Malware/Comprehensive Research Notes on Botnets, Distributed Denial-of-Service (DDoS) Attacks, and Cyber Weapons.md",
     "Cyber Security/Hacking/Malware/Maldev Roadmap.md",
     "Cyber Security/Hacking/Malware/Malware and Discord.md",
-    "Cyber Security/Hacking/Malware/Two Stage Malware.md",
     "Cyber Security/Hacking/Malware/Way of a malware Author.md",
     "Cyber Security/Hacking/Malware/Types of Modern Malware.md",
-    "Cyber Security/Reverse engineering/Reverse Engineering.md",
-    "Clippings/Quicksearch - Your engine to search.md",
-    "Clippings",
+    "Cyber Security/Hacking/Malware/Two Stage Malware.md",
+    "Computer Science/Theory/Von-Neumann architecture.md",
+    "Computer Science/Theory/Theory Summary.md",
+    "Computer Networking/Wireless and Mobile Networks/Introduction.md",
+    "Computer Science/Computer Systems/Assembly and Binary/Machine Level Representation.md",
+    "Computer Science/Computer Systems/Assembly and Binary/Visualizing Data Types at the Byte Level.md",
+    "Computer Science/Computer Systems/Assembly and Binary/Byte Ordering and Representation in Memory Overview.md",
+    "Computer Networking/OSI Model.md",
     "Computer Networking/TCP-IP Model.md",
+    "Computer Networking/Build a home network/Wireless Standards.md",
+    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Powershell and Shellcode over Full Malware.md",
+    "Cyber Security/Hacking/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
+    "Cyber Security/Hacking/Exploiting Procedure/Comprehensive Roadmap for Learning Binary Exploitation and Patching.md",
+    "Clippings",
     "Untitled.canvas",
     "Untitled.base",
-    "Computer Networking/Build a home network/Wireless Standards.md",
-    "Computer Networking/Network Components, Types, and Connection/Client And Servers.md",
-    "Computer Networking/Wireless and Mobile Networks/Introduction.md",
-    "Computer Networking/Wireless and Mobile Networks/Wireless Networks.md",
-    "Computer Networking/Communication Principles/Network Communication Models.md",
-    "Computer Networking/Communication Principles/Communication Protocols.md",
     "assets/images/Pasted image 20260401144926.png",
-    "Computer Networking/Communication Principles/Communication Standards.md",
-    "Computer Networking/Communication Principles/Introduction.md",
     "assets/images/tcp-ip-osi-comparison.jpg",
-    "Computer Networking/OSI Model.md",
-    "IEEE 802.11.md",
     "assets/videos/protocol stack.mp4",
     "assets/videos/Network protocols overview what is?.mp4",
     "assets/videos/Cisco Networking Academy Course Launch(1) 1.mp4",
     "assets/images/Pasted image 20260401115300.png",
     "assets/videos/Devices in a bubble.mp4",
-    "Computer Networking/Communication in the connected world/Bandwidth and Throughput.md",
-    "Computer Networking/Communication in the connected world/Network Types.md",
     "assets/videos/Cisco Networking Academy Course Launch 1.mp4",
     "Computer Science/Programming/Programming Languages",
     "assets/images/Pasted image 20260401102524.png",

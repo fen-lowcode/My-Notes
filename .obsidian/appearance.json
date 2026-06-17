@@ -1,7 +1,7 @@
 {
-  "cssTheme": "",
-  "theme": "moonstone",
+  "cssTheme": "Typewriter",
+  "theme": "obsidian",
   "textFontFamily": "",
-  "baseFontSize": 14,
+  "baseFontSize": 11,
   "nativeMenus": false
 }
