@@ -42,7 +42,7 @@
             }
           },
           {
-            "id": "2e396bc5f9fca3ff",
+            "id": "5c8b2026bab60a5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
-                  "extraContext": true,
+                  "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
@@ -63,16 +63,6 @@
               },
               "icon": "lucide-file",
               "title": "Windows COFF"
-            }
-          },
-          {
-            "id": "5c8b2026bab60a5a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ],
@@ -234,17 +224,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "2e396bc5f9fca3ff",
+  "active": "5c8b2026bab60a5a",
   "lastOpenFiles": [
+    "Computer Science/Windows/Windows Runtime.md",
+    "Computer Science/Windows/Windows Internals Overview.md",
+    "Untitled.base",
+    "Computer Science/Windows/Windows COFF.md",
     "Computer Science/Windows/Bypassing the Windows Loader A Low-Level Hello World.md",
     "Computer Science/Windows/Understanding Windows Internals The PEB Walk & Export Address Table (EAT) Parsing.md",
-    "Computer Science/Windows/Windows Internals Overview.md",
-    "Computer Science/Windows/Windows Runtime.md",
     "Computer Science/Windows/Windows API Mechanisms.md",
-    "Computer Science/Windows/Windows COFF.md",
     "Computer Networking/TCP-IP Model.md",
     "Computer Science/Computer Systems/Assembly and Binary/Machine Level Representation.md",
     "Computer Networking/Build a home network/Wireless Standards.md",
@@ -264,10 +256,8 @@
     "Computer Networking/Wireless and Mobile Networks/Introduction.md",
     "Computer Science/Computer Systems/Assembly and Binary/Visualizing Data Types at the Byte Level.md",
     "Computer Science/Computer Systems/Assembly and Binary/Byte Ordering and Representation in Memory Overview.md",
-    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Powershell and Shellcode over Full Malware.md",
     "Clippings",
     "Untitled.canvas",
-    "Untitled.base",
     "assets/images/Pasted image 20260401144926.png",
     "assets/images/tcp-ip-osi-comparison.jpg",
     "assets/videos/protocol stack.mp4",
