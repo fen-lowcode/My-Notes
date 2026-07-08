@@ -5,6 +5,7 @@
 
 #### What is exactly COFF?
 
+
 * Microsoft COFF (Common Object File Format) is ==a file format for compiled code, such as object files and executables==. Derived from Unix, Microsoft adapted COFF for the Windows operating system, where it forms the foundation of the **Portable Executable (PE)** format used for `.exe`, `.dll`, and `.sys` files.
 
 
