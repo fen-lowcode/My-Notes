@@ -1,3 +1,4 @@
+#windows #hacking 
 
 When developing native applications for Windows, the operating system loader automatically parses an executable's **Import Address Table (IAT)** at startup to map required Dynamic Link Libraries (DLLs) into memory. However, advanced systems software, game anti-cheat engines, security tools, and malware frequently bypass this standard loader mechanism entirely.
 

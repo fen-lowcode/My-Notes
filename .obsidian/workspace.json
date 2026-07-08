@@ -47,13 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Windows/Bypassing the Windows Loader A Low-Level Hello World.md",
+                "file": "Computer Science/Windows/Windows COFF.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
-                  "extraContext": false,
+                  "extraContext": true,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bypassing the Windows Loader A Low-Level Hello World"
+              "title": "Windows COFF"
             }
           },
           {
@@ -239,11 +239,17 @@
   },
   "active": "2e396bc5f9fca3ff",
   "lastOpenFiles": [
-    "Computer Science/Windows/Understanding Windows Internals The PEB Walk & Export Address Table (EAT) Parsing.md",
     "Computer Science/Windows/Bypassing the Windows Loader A Low-Level Hello World.md",
+    "Computer Science/Windows/Understanding Windows Internals The PEB Walk & Export Address Table (EAT) Parsing.md",
+    "Computer Science/Windows/Windows Internals Overview.md",
     "Computer Science/Windows/Windows Runtime.md",
     "Computer Science/Windows/Windows API Mechanisms.md",
-    "Computer Science/Windows/Windows Internals Overview.md",
+    "Computer Science/Windows/Windows COFF.md",
+    "Computer Networking/TCP-IP Model.md",
+    "Computer Science/Computer Systems/Assembly and Binary/Machine Level Representation.md",
+    "Computer Networking/Build a home network/Wireless Standards.md",
+    "Computer Networking/Protocols/HTTP Protocol.md",
+    "Computer Networking/OSI Model.md",
     "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Shellcode loader sample.md",
     "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Self-Decrypting Shell code.md",
     "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Evasion Tactics for Shellcode Execution.md",
@@ -256,15 +262,9 @@
     "Computer Science/Theory/Von-Neumann architecture.md",
     "Computer Science/Theory/Theory Summary.md",
     "Computer Networking/Wireless and Mobile Networks/Introduction.md",
-    "Computer Science/Computer Systems/Assembly and Binary/Machine Level Representation.md",
     "Computer Science/Computer Systems/Assembly and Binary/Visualizing Data Types at the Byte Level.md",
     "Computer Science/Computer Systems/Assembly and Binary/Byte Ordering and Representation in Memory Overview.md",
-    "Computer Networking/OSI Model.md",
-    "Computer Networking/TCP-IP Model.md",
-    "Computer Networking/Build a home network/Wireless Standards.md",
     "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Powershell and Shellcode over Full Malware.md",
-    "Cyber Security/Hacking/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
-    "Cyber Security/Hacking/Exploiting Procedure/Comprehensive Roadmap for Learning Binary Exploitation and Patching.md",
     "Clippings",
     "Untitled.canvas",
     "Untitled.base",
