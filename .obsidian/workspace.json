@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Windows/Windows COFF.md",
+                "file": "Computer Science/Windows/Windows Internals Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +62,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Windows COFF"
+              "title": "Windows Internals Overview"
+            }
+          },
+          {
+            "id": "4ed2e3ca2869d8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Diary/2025-12-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-25"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,15 +252,28 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5c8b2026bab60a5a",
+  "active": "4ed2e3ca2869d8e1",
   "lastOpenFiles": [
-    "Computer Science/Windows/Windows Runtime.md",
+    "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
+    "Personal/Diary/2025-12-25.md",
+    "Computer Science/Programming/C++ Reviewer/Abstract Machine.md",
+    "Abstract Machine.md",
+    "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
+    "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
+    "Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
+    "Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
+    "Computer Science/Programming/Programming Languages/SQL language.md",
+    "Web Development/React/The Magic Of React.md",
+    "Computer Science/Programming/C++ Reviewer",
     "Computer Science/Windows/Windows Internals Overview.md",
-    "Untitled.base",
-    "Computer Science/Windows/Windows COFF.md",
+    "Web Development/React",
+    "Web Development",
+    "Computer Science/Windows/Windows Runtime.md",
+    "Computer Science/Windows/Windows API Mechanisms.md",
     "Computer Science/Windows/Bypassing the Windows Loader A Low-Level Hello World.md",
     "Computer Science/Windows/Understanding Windows Internals The PEB Walk & Export Address Table (EAT) Parsing.md",
-    "Computer Science/Windows/Windows API Mechanisms.md",
+    "Computer Science/Windows/Windows COFF.md",
+    "Untitled.base",
     "Computer Networking/TCP-IP Model.md",
     "Computer Science/Computer Systems/Assembly and Binary/Machine Level Representation.md",
     "Computer Networking/Build a home network/Wireless Standards.md",
@@ -247,15 +284,6 @@
     "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Evasion Tactics for Shellcode Execution.md",
     "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
     "Cyber Security/Hacking/Malware/Maldev Roadmap.md",
-    "Cyber Security/Hacking/Malware/Malware and Discord.md",
-    "Cyber Security/Hacking/Malware/Way of a malware Author.md",
-    "Cyber Security/Hacking/Malware/Types of Modern Malware.md",
-    "Cyber Security/Hacking/Malware/Two Stage Malware.md",
-    "Computer Science/Theory/Von-Neumann architecture.md",
-    "Computer Science/Theory/Theory Summary.md",
-    "Computer Networking/Wireless and Mobile Networks/Introduction.md",
-    "Computer Science/Computer Systems/Assembly and Binary/Visualizing Data Types at the Byte Level.md",
-    "Computer Science/Computer Systems/Assembly and Binary/Byte Ordering and Representation in Memory Overview.md",
     "Clippings",
     "Untitled.canvas",
     "assets/images/Pasted image 20260401144926.png",
@@ -266,12 +294,9 @@
     "assets/images/Pasted image 20260401115300.png",
     "assets/videos/Devices in a bubble.mp4",
     "assets/videos/Cisco Networking Academy Course Launch 1.mp4",
-    "Computer Science/Programming/Programming Languages",
     "assets/images/Pasted image 20260401102524.png",
     "assets/images/Pasted image 20260401102448.png",
     "assets/images/Pasted image 20260401102408.png",
-    "Computer Networking/Communication Principles/Communication Protocols",
-    "Computer Networking/Communication Principles",
     "assets/images/Pasted image 20260401092634.png",
     "assets/images/Pasted image 20260401090533.png",
     "assets/images/Pasted image 20260401083410.png",
