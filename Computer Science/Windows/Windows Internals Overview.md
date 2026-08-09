@@ -9,10 +9,12 @@ The .NET Framework consists of two major components:
 ![[Pasted image 20260120021331.png]]
 
 **The Common Language Runtime** (CLR) 
-	This is the run-time engine for .NET and includes a Just In Time (JIT) compiler that translates Common Intermediate Language (CIL) instructions to the underlying hardware CPU machine language, a garbage collector, type verification, code access security, and more. It’s implemented as a COM in-process server (DLL) and uses various facilities provided by the Windows API.
+	
+* This is the run-time engine for .NET and includes a Just In Time (JIT) compiler that translates Common Intermediate Language (CIL) instructions to the underlying hardware CPU machine language, a garbage collector, type verification, code access security, and more. It’s implemented as a COM in-process server (DLL) and uses various facilities provided by the Windows API.
 	
 **The .NET Framework Class Library** (FCL) 
-	This is a large collection of types that implement functionality typically needed by client and server applications, such as user interface services, networking, database access, and much more.
+	
+* This is a large collection of types that implement functionality typically needed by client and server applications, such as user interface services, networking, database access, and much more.
 
 
 [Click here to read more about .NET Framework](https://learn.microsoft.com/en-us/dotnet/framework/get-started/?WT.mc_id=dotnet-35129-website#Introducing)

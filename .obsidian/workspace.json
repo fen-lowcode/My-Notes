@@ -69,10 +69,24 @@
             "id": "4ed2e3ca2869d8e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Linux/The Virtual Memory (ELF).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Virtual Memory (ELF)"
             }
           }
         ],
@@ -96,7 +110,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -108,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#communication-Principles",
+                "query": "kernel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5003967285156
+    "width": 273.1371154785156
   },
   "right": {
     "id": "2c74750d86aae33d",
@@ -238,38 +254,41 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4ed2e3ca2869d8e1",
+  "active": "dc09873593b8cac5",
   "lastOpenFiles": [
-    "Computer Networking/Communication in the connected world/introduction.md",
+    "Computer Science/Linux/Elf Format cheatsheet.md",
+    "Computer Science/Linux/More about Kernel (Linux).md",
+    "Computer Science/Linux/The Virtual Memory (ELF).md",
+    "Computer Science/Linux/Weird way Linux spawns a process.md",
+    "Programming/C++ Reviewer/Abstract Machine.md",
+    "Computer Science/Linux",
+    "Web Development/React/The Magic Of React.md",
+    "Programming/Learning Graphics Programming.md",
+    "Programming/Programs/Patchimm.md",
+    "README.md",
+    "assets/Pasted image 20260803180953.png",
+    "Computer Science/Windows/Windows Internals Overview.md",
+    "Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
+    "Cyber Security/Documentation/Zyphor OS Reports.md",
+    "Computer Science/Windows/Dot-NET FRAMEWORK.md",
+    "Cyber Security/Documentation",
+    "Computer Science/Windows/Windows COFF.md",
+    "Computer Science/Windows/Windows Runtime.md",
+    "Computer Science/Windows/Understanding Windows Internals The PEB Walk & Export Address Table (EAT) Parsing.md",
+    "Computer Science/Windows/Bypassing the Windows Loader A Low-Level Hello World.md",
+    "Computer Science/Windows/Windows API Mechanisms.md",
+    "Computer Networking/OSI Model.md",
     "Personal/Diary/2025-12-25.md",
+    "Computer Networking/Communication in the connected world/introduction.md",
     "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
-    "Computer Science/Programming/C++ Reviewer/Abstract Machine.md",
     "Abstract Machine.md",
     "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
     "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
     "Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
-    "Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
-    "Computer Science/Programming/Programming Languages/SQL language.md",
-    "Web Development/React/The Magic Of React.md",
-    "Computer Science/Programming/C++ Reviewer",
-    "Computer Science/Windows/Windows Internals Overview.md",
+    "Programming/C++ Reviewer",
     "Web Development/React",
     "Web Development",
-    "Computer Science/Windows/Windows Runtime.md",
-    "Computer Science/Windows/Windows API Mechanisms.md",
-    "Computer Science/Windows/Bypassing the Windows Loader A Low-Level Hello World.md",
-    "Computer Science/Windows/Understanding Windows Internals The PEB Walk & Export Address Table (EAT) Parsing.md",
-    "Computer Science/Windows/Windows COFF.md",
     "Untitled.base",
-    "Computer Networking/TCP-IP Model.md",
-    "Computer Science/Computer Systems/Assembly and Binary/Machine Level Representation.md",
-    "Computer Networking/Build a home network/Wireless Standards.md",
-    "Computer Networking/Protocols/HTTP Protocol.md",
-    "Computer Networking/OSI Model.md",
-    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Shellcode loader sample.md",
-    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Self-Decrypting Shell code.md",
-    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Evasion Tactics for Shellcode Execution.md",
-    "Cyber Security/Hacking/Binary Exploitation/Shellcodes/Function Casting in C – Deep Dive and Runtime Execution.md",
     "Clippings",
     "Untitled.canvas",
     "assets/images/Pasted image 20260401144926.png",
@@ -278,14 +297,11 @@
     "assets/videos/Network protocols overview what is?.mp4",
     "assets/videos/Cisco Networking Academy Course Launch(1) 1.mp4",
     "assets/images/Pasted image 20260401115300.png",
-    "assets/videos/Devices in a bubble.mp4",
-    "assets/videos/Cisco Networking Academy Course Launch 1.mp4",
     "assets/images/Pasted image 20260401102524.png",
     "assets/images/Pasted image 20260401102448.png",
     "assets/images/Pasted image 20260401102408.png",
     "assets/images/Pasted image 20260401092634.png",
     "assets/images/Pasted image 20260401090533.png",
-    "assets/images/Pasted image 20260401083410.png",
-    "assets/images/Pasted image 20260401082805.png"
+    "assets/images/Pasted image 20260401083410.png"
   ]
 }

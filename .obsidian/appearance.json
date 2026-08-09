@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Typewriter",
+  "cssTheme": "Primary",
   "theme": "moonstone",
   "textFontFamily": "",
   "baseFontSize": 12,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "accentColor": "#4cdbe6"
 }

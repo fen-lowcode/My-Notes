@@ -1,3 +1,6 @@
+---
+linux:
+---
 
 ==The kernel is the core of an operating system. In a traditional design, it is responsible for memory management, I/O, interrupt handling, and various other things.==
 

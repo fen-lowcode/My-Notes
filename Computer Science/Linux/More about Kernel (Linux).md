@@ -1,6 +1,6 @@
 #operaing-systems #linux 
 
-[[What is a Kernel?]]  [[Process Context]] 
+[[What is a Kernel]]  [[Process Context]] 
 
 ==Whereas the user interface is the outer-most portion of the operating system, the kernel is the innermost.== 
 
