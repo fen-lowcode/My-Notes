@@ -3,7 +3,7 @@
 Back to our [[Hello World Program]] example. ==When the shell loaded and ran the hello program, and when the hello program printed its message, neither the program accessed the keyboard, display, or main memory directly.==
 
 ![](Figure1.10.png)
-![](Figure1.11.png)
+![700](Figure1.11.png)
 
 Rather, ==they relied on the services provided by the **[[Operating system]]**==. We can think 
 We can ==think of the operating system as a layer of software interposed between the application program and the hardware== as **shown in Figure 1.10.**

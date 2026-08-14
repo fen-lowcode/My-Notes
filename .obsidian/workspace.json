@@ -8,46 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ffdd5a6ea53b76d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "fe0edacf1e90b846",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Windows/Windows API Mechanisms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Windows API Mechanisms"
-            }
-          },
-          {
             "id": "5c8b2026bab60a5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Windows/Windows Internals Overview.md",
+                "file": "Cyber Security/OS security meassures/Address Space Layout Randomization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Windows Internals Overview"
+              "title": "Address Space Layout Randomization"
             }
           },
           {
-            "id": "4ed2e3ca2869d8e1",
+            "id": "4eaa3dd2661d756a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Linux/The Virtual Memory (ELF).md",
+                "file": "Cyber Security/OS security meassures/Address Space Layout Randomization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Virtual Memory (ELF)"
+              "title": "Address Space Layout Randomization"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.1371154785156
+    "width": 558.4479675292969
   },
   "right": {
     "id": "2c74750d86aae33d",
@@ -254,38 +220,40 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dc09873593b8cac5",
+  "active": "4eaa3dd2661d756a",
   "lastOpenFiles": [
-    "Computer Science/Linux/Elf Format cheatsheet.md",
-    "Computer Science/Linux/More about Kernel (Linux).md",
-    "Computer Science/Linux/The Virtual Memory (ELF).md",
-    "Computer Science/Linux/Weird way Linux spawns a process.md",
-    "Programming/C++ Reviewer/Abstract Machine.md",
+    "Cyber Security/Documentation/Vulnerability Report.md",
+    "Cyber Security/OS security meassures/Address Space Layout Randomization.md",
+    "format strings vulnerabilities.md",
+    "Cyber Security/Vulnerabilities/Buffer Overflow Overview.md",
+    "Cyber Security/Vulnerabilities/Stack-Based Buffer Overflow.md",
+    "Computer Science/Computer Systems/Operating Systems/How Software runs.md",
+    "Computer Science/Computer Systems/Operating Systems/Address Space.md",
+    "Computer Science/Computer Systems/Operating Systems/Shell.md",
+    "Computer Science/Computer Systems/Operating Systems/Process Context.md",
+    "Programming/Custom Programs/Patchimm.md",
+    "Computer Networking/Network Models",
+    "Cyber Security/Exploiting Procedure/Comprehensive Roadmap for Learning Binary Exploitation and Patching.md",
+    "Cyber Security/Overview and Guidance.md",
+    "Programming/Compiler/What is GCC and G++.md",
+    "Cyber Security/OS security meassures",
+    "Cyber Security/Untitled.md",
+    "Programming/C and C++ Reviewer/Abstract Machine.md",
+    "Programming/Compiler/How GCC works under the hood.md",
+    "Programming/Compiler/Compiler Security Flags.md",
+    "Cyber Security/Documentation/Writing about Binary Exploitation.md",
+    "Data Execution Prevention.md",
+    "Programming/Compiler/How linker works.md",
+    "Programming/Compiler/Hello World Program.md",
+    "Programming/Compiler/GCC Flags.md",
+    "Programming/Compiler/Why it's important to understand the compilation system.md",
+    "Programming/C and C++ Reviewer/C Bitwise operations.md",
+    "Cyber Security/Reverse engineering/Reverse Engineering.md",
+    "Cyber Security/Binary Exploitation/Shellcodes/Shellcode loader sample.md",
     "Computer Science/Linux",
-    "Web Development/React/The Magic Of React.md",
-    "Programming/Learning Graphics Programming.md",
-    "Programming/Programs/Patchimm.md",
-    "README.md",
     "assets/Pasted image 20260803180953.png",
-    "Computer Science/Windows/Windows Internals Overview.md",
-    "Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
-    "Cyber Security/Documentation/Zyphor OS Reports.md",
-    "Computer Science/Windows/Dot-NET FRAMEWORK.md",
     "Cyber Security/Documentation",
-    "Computer Science/Windows/Windows COFF.md",
-    "Computer Science/Windows/Windows Runtime.md",
-    "Computer Science/Windows/Understanding Windows Internals The PEB Walk & Export Address Table (EAT) Parsing.md",
-    "Computer Science/Windows/Bypassing the Windows Loader A Low-Level Hello World.md",
-    "Computer Science/Windows/Windows API Mechanisms.md",
-    "Computer Networking/OSI Model.md",
-    "Personal/Diary/2025-12-25.md",
-    "Computer Networking/Communication in the connected world/introduction.md",
-    "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
-    "Abstract Machine.md",
-    "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
-    "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
-    "Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
-    "Programming/C++ Reviewer",
+    "Programming/C and C++ Reviewer",
     "Web Development/React",
     "Web Development",
     "Untitled.base",
@@ -294,8 +262,6 @@
     "assets/images/Pasted image 20260401144926.png",
     "assets/images/tcp-ip-osi-comparison.jpg",
     "assets/videos/protocol stack.mp4",
-    "assets/videos/Network protocols overview what is?.mp4",
-    "assets/videos/Cisco Networking Academy Course Launch(1) 1.mp4",
     "assets/images/Pasted image 20260401115300.png",
     "assets/images/Pasted image 20260401102524.png",
     "assets/images/Pasted image 20260401102448.png",

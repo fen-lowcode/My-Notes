@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "",
   "theme": "moonstone",
   "textFontFamily": "",
   "baseFontSize": 12,
   "nativeMenus": false,
-  "accentColor": "#4cdbe6"
+  "accentColor": "#000000"
 }
