@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/OS security meassures/Address Space Layout Randomization.md",
+                "file": "Programming/Compiler/Compiler Security Flags.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Address Space Layout Randomization"
+              "title": "Compiler Security Flags"
             }
           }
         ],
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.4479675292969
+    "width": 264.7868766784668
   },
   "right": {
     "id": "2c74750d86aae33d",
@@ -222,7 +222,11 @@
   },
   "active": "4eaa3dd2661d756a",
   "lastOpenFiles": [
+    "Cyber Security/Documentation/Zywin IU vulnerability report on version 1.0.0.md",
+    "Screenshot 2026-08-18 015234.png",
     "Cyber Security/Documentation/Vulnerability Report.md",
+    "Cyber Security/Documentation/Zyphor OS Reports.md",
+    "Cyber Security/Documentation/Writing about Binary Exploitation.md",
     "Cyber Security/OS security meassures/Address Space Layout Randomization.md",
     "format strings vulnerabilities.md",
     "Cyber Security/Vulnerabilities/Buffer Overflow Overview.md",
@@ -241,15 +245,11 @@
     "Programming/C and C++ Reviewer/Abstract Machine.md",
     "Programming/Compiler/How GCC works under the hood.md",
     "Programming/Compiler/Compiler Security Flags.md",
-    "Cyber Security/Documentation/Writing about Binary Exploitation.md",
     "Data Execution Prevention.md",
     "Programming/Compiler/How linker works.md",
     "Programming/Compiler/Hello World Program.md",
     "Programming/Compiler/GCC Flags.md",
     "Programming/Compiler/Why it's important to understand the compilation system.md",
-    "Programming/C and C++ Reviewer/C Bitwise operations.md",
-    "Cyber Security/Reverse engineering/Reverse Engineering.md",
-    "Cyber Security/Binary Exploitation/Shellcodes/Shellcode loader sample.md",
     "Computer Science/Linux",
     "assets/Pasted image 20260803180953.png",
     "Cyber Security/Documentation",
@@ -267,7 +267,6 @@
     "assets/images/Pasted image 20260401102448.png",
     "assets/images/Pasted image 20260401102408.png",
     "assets/images/Pasted image 20260401092634.png",
-    "assets/images/Pasted image 20260401090533.png",
-    "assets/images/Pasted image 20260401083410.png"
+    "assets/images/Pasted image 20260401090533.png"
   ]
 }
