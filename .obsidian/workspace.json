@@ -35,24 +35,17 @@
             "id": "4eaa3dd2661d756a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Programming/Compiler/Compiler Security Flags.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Canvas/How Computer Works.canvas",
+                "viewState": {
+                  "x": 334.1903454944714,
+                  "y": 595.3152770307943,
+                  "zoom": 0.19999999999999996
                 }
               },
-              "icon": "lucide-file",
-              "title": "Compiler Security Flags"
+              "icon": "lucide-layout-dashboard",
+              "title": "How Computer Works"
             }
           }
         ],
@@ -90,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kernel",
+                "query": "file: Kernel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,15 +213,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4eaa3dd2661d756a",
+  "active": "dc09873593b8cac5",
   "lastOpenFiles": [
+    "PDF Books/Operating_Systems_From_0_to_1.pdf",
+    "Canvas/How Computer Works.canvas",
+    "PDF Books/CSAPP_2016.pdf",
+    "PDF Books/Intel Manual.pdf",
+    "PDF Books/3-chipsets-specification-update.pdf",
+    "format strings vulnerabilities.md",
+    "Canvas/canva_assets/Screenshot_20260901_204238.png",
+    "Canvas/canva_assets/Intel 64 Architecture.jpg",
+    "Canvas/canva_assets",
+    "Canvas/Reverse Engineering.canvas",
+    "Canvas/canva_assets/Operating System From 0 to 1.png",
+    "Canvas/canva_assets/Computer System A programmer's perspective.png",
+    "Road Map/Untitled.md",
+    "Untitled.md",
+    "Canvas",
+    "assets/Screenshot 2026-08-18 015234.png",
+    "PDF Books/Kusswurm - Modern X86 Assembly Language Programming, x86 64-bit, AVX, AVX2 _ AVX-512, Apress 2019.pdf",
+    "PDF Books",
     "Cyber Security/Documentation/Zywin IU vulnerability report on version 1.0.0.md",
-    "Screenshot 2026-08-18 015234.png",
-    "Cyber Security/Documentation/Vulnerability Report.md",
     "Cyber Security/Documentation/Zyphor OS Reports.md",
     "Cyber Security/Documentation/Writing about Binary Exploitation.md",
+    "Cyber Security/Documentation/Vulnerability Report.md",
+    "Computer Science/Linux/More about Kernel (Linux).md",
+    "Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
     "Cyber Security/OS security meassures/Address Space Layout Randomization.md",
-    "format strings vulnerabilities.md",
+    "Cyber Security/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
+    "Cyber Security/Exploiting Procedure/Comprehensive Roadmap for Learning Binary Exploitation and Patching.md",
+    "Programming/Compiler/Compiler Security Flags.md",
     "Cyber Security/Vulnerabilities/Buffer Overflow Overview.md",
     "Cyber Security/Vulnerabilities/Stack-Based Buffer Overflow.md",
     "Computer Science/Computer Systems/Operating Systems/How Software runs.md",
@@ -237,36 +251,16 @@
     "Computer Science/Computer Systems/Operating Systems/Process Context.md",
     "Programming/Custom Programs/Patchimm.md",
     "Computer Networking/Network Models",
-    "Cyber Security/Exploiting Procedure/Comprehensive Roadmap for Learning Binary Exploitation and Patching.md",
     "Cyber Security/Overview and Guidance.md",
     "Programming/Compiler/What is GCC and G++.md",
     "Cyber Security/OS security meassures",
     "Cyber Security/Untitled.md",
     "Programming/C and C++ Reviewer/Abstract Machine.md",
     "Programming/Compiler/How GCC works under the hood.md",
-    "Programming/Compiler/Compiler Security Flags.md",
-    "Data Execution Prevention.md",
-    "Programming/Compiler/How linker works.md",
-    "Programming/Compiler/Hello World Program.md",
-    "Programming/Compiler/GCC Flags.md",
-    "Programming/Compiler/Why it's important to understand the compilation system.md",
-    "Computer Science/Linux",
     "assets/Pasted image 20260803180953.png",
-    "Cyber Security/Documentation",
-    "Programming/C and C++ Reviewer",
-    "Web Development/React",
-    "Web Development",
-    "Untitled.base",
-    "Clippings",
-    "Untitled.canvas",
     "assets/images/Pasted image 20260401144926.png",
     "assets/images/tcp-ip-osi-comparison.jpg",
-    "assets/videos/protocol stack.mp4",
     "assets/images/Pasted image 20260401115300.png",
-    "assets/images/Pasted image 20260401102524.png",
-    "assets/images/Pasted image 20260401102448.png",
-    "assets/images/Pasted image 20260401102408.png",
-    "assets/images/Pasted image 20260401092634.png",
-    "assets/images/Pasted image 20260401090533.png"
+    "assets/images/Pasted image 20260401102524.png"
   ]
 }

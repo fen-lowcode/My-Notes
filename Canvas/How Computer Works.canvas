@@ -1,0 +1,88 @@
+{
+	"nodes":[
+		{"id":"1972b0f1980990d4","type":"file","file":"Canvas/canva_assets/Computer System A programmer's perspective.png","x":100,"y":320,"width":175,"height":216},
+		{"id":"95c28e1acbe6adea","type":"file","file":"Canvas/canva_assets/Operating System From 0 to 1.png","x":420,"y":320,"width":167,"height":217},
+		{
+			"id":"070715270e0fafe6",
+			"type":"text",
+			"text":"[[Operating_Systems_From_0_to_1.pdf| Book Here]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":600,
+			"y":320,
+			"width":120,
+			"height":60
+		},
+		{"id":"2f92e75522b74ea0","type":"text","text":"A road map to understand how computer works behind the scenes both in hardware and software,\n\nThis canvas demonstrates a very technical details of how a computer operate, how software talks to hardware, how operating system works, how a kernel talks with the Intel CPU\n","x":-240,"y":180,"width":260,"height":200},
+		{"id":"6501b8cb8b116979","type":"file","file":"Canvas/canva_assets/Screenshot_20260901_204238.png","x":240,"y":680,"width":205,"height":265},
+		{"id":"e6e62353a25f504b","type":"file","file":"Canvas/canva_assets/Intel 64 Architecture.jpg","x":556,"y":680,"width":209,"height":271},
+		{
+			"id":"1bf879cf067d9b75",
+			"type":"text",
+			"text":"[[CSAPP_2016.pdf | Book Here]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-36,
+			"y":476,
+			"width":112,
+			"height":60
+		},
+		{
+			"id":"1baed2561d470f8e",
+			"type":"text",
+			"text":"[[Intel Manual.pdf| Book Here]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":800,
+			"y":783,
+			"width":112,
+			"height":60
+		},
+		{
+			"id":"2aa51d655d7fc87e",
+			"type":"text",
+			"text":"[[3-chipsets-specification-update.pdf| Book Here]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":76,
+			"y":786,
+			"width":112,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"de1b952b908481de",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1972b0f1980990d4",
+			"fromSide":"right",
+			"toNode":"95c28e1acbe6adea",
+			"toSide":"left",
+			"color":"#000000"
+		},
+		{
+			"id":"c22c481c4dc016b9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"95c28e1acbe6adea",
+			"fromSide":"bottom",
+			"toNode":"e6e62353a25f504b",
+			"toSide":"top",
+			"color":"#000000"
+		},
+		{
+			"id":"920e9110f26bb1c1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"95c28e1acbe6adea",
+			"fromSide":"bottom",
+			"toNode":"6501b8cb8b116979",
+			"toSide":"top",
+			"color":"#000000"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
