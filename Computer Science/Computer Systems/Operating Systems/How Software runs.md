@@ -2,7 +2,7 @@
 
 ---
 
-Let's say the [[Hello World Program]] has been translated by the compilation system  ***( refer to [[Why it's important to understand the compilation system]] )*** into a **[[executable object file]]**, this executable file is stored on disk.
+Let's say the [[A Tour of Computer Systems - Chapter 1 CSAPP]] has been translated by the compilation system  ***( refer to [[Why it's important to understand the compilation system]] )*** into a **[[executable object file]]**, this executable file is stored on disk.
 
 Now to execute the executable file on a **[[Unix System]]**, we type it's name to an application program know as a **[[Shell]]**.
 

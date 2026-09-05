@@ -48,8 +48,18 @@ It is distributed as **free software** by the **Free Software Foundation (FSF)**
 > [!Note]
 > So how does GCC compiler work?
 
-The GCC compiler driver reads a source file  and translate it into an executable object file `which a file ends with .o` . The translation is performed in the sequence of four phases. The program performed the four phases **`Preprocessor, Compiler, Assembler and Linker`** are known collectively as the **==compilation system==**.
+#### 1.2 Programs Are Translated by Other Programs into Different Forms
 
+
+The hello program begins life as a high-level C program because it can be read and understood by human beings in that form. 
+
+==However, in order to run hello.c on the system, the individual C statements must be translated by other programs into a sequence of low-level machine-language instructions==. 
+
+These instructions are then packaged in a form called an executable object program and stored as a binary disk file. 
+
+Object programs are also referred to as executable object files. On a Unix system, the translation from source file to object file is performed by a compiler driver:
+
+The GCC compiler driver reads a source file  and translate it into an executable object file `which a file ends with .o` . The translation is performed in the sequence of four phases. The program performed the four phases **`Preprocessor, Compiler, Assembler and Linker`** are known collectively as the **==compilation system==**.
 ![](Figure1.3.png)
 
 `

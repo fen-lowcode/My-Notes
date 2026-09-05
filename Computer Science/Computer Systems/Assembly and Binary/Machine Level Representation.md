@@ -25,7 +25,7 @@ We will therefore use -Og optimization as a learning tool and then see what happ
 In practice, **higher levels of optimization (e.g., specified with the option -O1 or -O2) are considered a better choice in terms of the resulting program performance.**
 
 ---
-##### The gcc command invokes an entire sequence of programs to turn the source code into executable code. `Reference`:  [[What is GCC and G++]],  [[How GCC works under the hood]] 
+##### The gcc command invokes an entire sequence of programs to turn the source code into executable code. `Reference`:  [[What is GCC and G++]],  [[How GCC works under the hood -  CSAPP Chapter 1]] 
 
 * First, the C preprocessor expands the source code to include any files specified with `#include` commands and to expand any macros, specified with `#define` declarations. 
 

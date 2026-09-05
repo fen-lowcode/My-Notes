@@ -36,4 +36,10 @@ There are only few of these simple operations, and they revolve around the ***[[
 
 We say that a processor appears to be a simple implementation of its instruction set architecture that is capable of [[Running a simple Hello World Program]], but in fact modern processors use far more complex mechanisms to speed up program execution. 
 
-Thus, we can distinguish the processor’s instruction set architecture, describing the effect of each machine-code instruction, from its microarchitecture, describing how the processor is actually implemented.
+Thus, we can distinguish the processor’s instruction set architecture, describing the effect of each machine-code instruction, from its micro architecture, describing how the processor is actually implemented.
+
+When we study machine code in Chapter 3, we will consider the abstraction provided by the machine’s instruction set architecture.
+
+Chapter 4 has more to say about how processors are actually implemented. 
+
+Chapter 5 describes a model of how modern processors work that enables predicting and optimizing the performance of machine-language programs.

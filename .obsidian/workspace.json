@@ -11,9 +11,26 @@
             "id": "5c8b2026bab60a5a",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Computer System Master Map.canvas",
+                "viewState": {
+                  "x": 1031.5479423834402,
+                  "y": 1534.7305282642646,
+                  "zoom": -0.7100227873278281
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Computer System Master Map"
+            }
+          },
+          {
+            "id": "39de37c0ad2de5f8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/OS security meassures/Address Space Layout Randomization.md",
+                "file": "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,28 +45,51 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Address Space Layout Randomization"
+              "title": "Hardware Organization of a Typical System"
             }
           },
           {
-            "id": "4eaa3dd2661d756a",
+            "id": "a2fe3f1b90742040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Running a simple Hello World Program"
+            }
+          },
+          {
+            "id": "ba660e522b15e9be",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/How Computer Works.canvas",
+                "file": "Canvas/CSAPP Reviewer.canvas",
                 "viewState": {
-                  "x": 334.1903454944714,
-                  "y": 595.3152770307943,
-                  "zoom": 0.19999999999999996
+                  "x": 85.02132517741279,
+                  "y": 382.52455709099627,
+                  "zoom": -2.4701106194099545
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "How Computer Works"
+              "title": "CSAPP Reviewer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Kernel",
+                "query": "file: hello",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.7868766784668
+    "width": 300.0390625
   },
   "right": {
     "id": "2c74750d86aae33d",
@@ -213,54 +253,56 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dc09873593b8cac5",
+  "active": "5c8b2026bab60a5a",
   "lastOpenFiles": [
-    "PDF Books/Operating_Systems_From_0_to_1.pdf",
-    "Canvas/How Computer Works.canvas",
-    "PDF Books/CSAPP_2016.pdf",
-    "PDF Books/Intel Manual.pdf",
+    "Canvas/CSAPP Reviewer.canvas",
+    "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
+    "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
+    "Canvas/Computer System Master Map.canvas",
+    "Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
     "PDF Books/3-chipsets-specification-update.pdf",
-    "format strings vulnerabilities.md",
-    "Canvas/canva_assets/Screenshot_20260901_204238.png",
+    "PDF Books/Kusswurm - Modern X86 Assembly Language Programming, x86 64-bit, AVX, AVX2 _ AVX-512, Apress 2019.pdf",
+    "Computer Science/Computer Systems/Hardware/Central Processing Unit (CPU).md",
+    "Canvas/canva_assets/Untitled.canvas",
+    "Computer Science/Computer Systems/Operating Systems/Shell.md",
+    "Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md",
+    "Computer Science/Computer Systems/Computer Architecture/Clock Cycle.md",
+    "Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
+    "Computer Science/Computer Systems/Computer Architecture/What is concurrency.md",
+    "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
+    "Computer Science/Computer Systems/Hardware/Motherboard.md",
+    "Computer Science/Computer Systems/Hardware/Main Memory.md",
+    "Computer Science/Computer Systems/Hardware/Memory Management Unit (MMU).md",
+    "Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
+    "Computer Science/Computer Systems/Computer Architecture/Register.md",
+    "Computer Science/Computer Systems/Operating Systems/Address Space.md",
+    "Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
+    "Computer Science/Computer Systems/Operating Systems/Process Context.md",
+    "Computer Science/Computer Systems/Operating Systems/How Software runs.md",
+    "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
+    "Canvas/Reverse Engineering.canvas",
+    "Programming/Compiler/Why it's important to understand the compilation system.md",
+    "Programming/Compiler/Compiler Security Flags.md",
+    "Programming/Compiler/GCC Flags.md",
+    "A Tour of Computer Systems - Chapter 1 CSAPP.md",
+    "Programming/Compiler/What is GCC and G++.md",
+    "PDF Books/CSAPP_2016.pdf",
+    "assets/Pasted image 20260904180956.png",
+    "PDF Books/Intel Manual.pdf",
+    "Canvas/canva_assets/Computer System A programmer's perspective.png",
+    "PDF Books/Operating_Systems_From_0_to_1.pdf",
+    "Canvas/canva_assets/Intel 3 series.png",
     "Canvas/canva_assets/Intel 64 Architecture.jpg",
     "Canvas/canva_assets",
-    "Canvas/Reverse Engineering.canvas",
     "Canvas/canva_assets/Operating System From 0 to 1.png",
-    "Canvas/canva_assets/Computer System A programmer's perspective.png",
-    "Road Map/Untitled.md",
-    "Untitled.md",
     "Canvas",
     "assets/Screenshot 2026-08-18 015234.png",
-    "PDF Books/Kusswurm - Modern X86 Assembly Language Programming, x86 64-bit, AVX, AVX2 _ AVX-512, Apress 2019.pdf",
     "PDF Books",
-    "Cyber Security/Documentation/Zywin IU vulnerability report on version 1.0.0.md",
-    "Cyber Security/Documentation/Zyphor OS Reports.md",
-    "Cyber Security/Documentation/Writing about Binary Exploitation.md",
-    "Cyber Security/Documentation/Vulnerability Report.md",
-    "Computer Science/Linux/More about Kernel (Linux).md",
-    "Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
-    "Cyber Security/OS security meassures/Address Space Layout Randomization.md",
-    "Cyber Security/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
-    "Cyber Security/Exploiting Procedure/Comprehensive Roadmap for Learning Binary Exploitation and Patching.md",
-    "Programming/Compiler/Compiler Security Flags.md",
-    "Cyber Security/Vulnerabilities/Buffer Overflow Overview.md",
-    "Cyber Security/Vulnerabilities/Stack-Based Buffer Overflow.md",
-    "Computer Science/Computer Systems/Operating Systems/How Software runs.md",
-    "Computer Science/Computer Systems/Operating Systems/Address Space.md",
-    "Computer Science/Computer Systems/Operating Systems/Shell.md",
-    "Computer Science/Computer Systems/Operating Systems/Process Context.md",
-    "Programming/Custom Programs/Patchimm.md",
     "Computer Networking/Network Models",
-    "Cyber Security/Overview and Guidance.md",
-    "Programming/Compiler/What is GCC and G++.md",
     "Cyber Security/OS security meassures",
-    "Cyber Security/Untitled.md",
-    "Programming/C and C++ Reviewer/Abstract Machine.md",
-    "Programming/Compiler/How GCC works under the hood.md",
     "assets/Pasted image 20260803180953.png",
     "assets/images/Pasted image 20260401144926.png",
     "assets/images/tcp-ip-osi-comparison.jpg",
-    "assets/images/Pasted image 20260401115300.png",
-    "assets/images/Pasted image 20260401102524.png"
+    "assets/images/Pasted image 20260401115300.png"
   ]
 }

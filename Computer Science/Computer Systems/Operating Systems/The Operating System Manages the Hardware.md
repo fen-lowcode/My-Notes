@@ -1,6 +1,6 @@
 #computer-system #programming 
 
-Back to our [[Hello World Program]] example. ==When the shell loaded and ran the hello program, and when the hello program printed its message, neither the program accessed the keyboard, display, or main memory directly.==
+Back to our [[A Tour of Computer Systems - Chapter 1 CSAPP]] example. ==When the shell loaded and ran the hello program, and when the hello program printed its message, neither the program accessed the keyboard, display, or main memory directly.==
 
 ![](Figure1.10.png)
 ![700](Figure1.11.png)
@@ -24,7 +24,7 @@ The ==operating system achieves both goals via the fundamental abstractions== **
 
 ### Processes
 
-When a program such a [[Hello World Program]] runs on a modern system, **==The operating system provides the illusion that the program is the only one running on the system.==**  
+When a program such a [[A Tour of Computer Systems - Chapter 1 CSAPP]] runs on a modern system, **==The operating system provides the illusion that the program is the only one running on the system.==**  
 
 ==The program appears to have exclusive use of both the Processor, Main memory and IO Devices==
 
