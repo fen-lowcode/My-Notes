@@ -1,17 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"1bf879cf067d9b75",
-			"type":"text",
-			"text":"[[CSAPP_2016.pdf | Book Here]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":990,
-			"y":898,
-			"width":112,
-			"height":60
-		},
-		{"id":"1972b0f1980990d4","type":"file","file":"Canvas/canva_assets/Computer System A programmer's perspective.png","x":959,"y":1007,"width":175,"height":216},
-		{
 			"id":"65062e4a0f329cdc",
 			"type":"text",
 			"text":"The **Computer Systems: A Programmer's Perspective (CS:APP 3rd Edition, 2016)** by Randal E. Bryant and David R. O'Hallaron is a foundational computer science text that explains **how a computer application interacts with hardware through the operating system**. Instead of focusing purely on hardware design or high-level coding, it teaches programmers how to write faster, more reliable, and secure software by understanding the underlying system execution.",
@@ -33,37 +22,38 @@
 			"width":120,
 			"height":60
 		},
+		{"id":"e6e62353a25f504b","type":"file","file":"Canvas/canva_assets/Intel 64 Architecture.jpg","x":1130,"y":1764,"width":209,"height":271},
+		{"id":"6501b8cb8b116979","type":"file","file":"Canvas/canva_assets/Intel 3 series.png","x":815,"y":1764,"width":205,"height":265},
 		{
-			"id":"8855b9cceb998950",
+			"id":"2aa51d655d7fc87e",
 			"type":"text",
-			"text":"Conversely, the **Operating System 0 to 1 curriculum** ==completely strips away these high-level programming safety nets, forcing you into the role of the system architect operating in Kernel Mode (Ring 0)==. \n\n**The journey begins on bare-metal silicon,** requiring assembly stubs and custom linker scripts just to initialize the CPU and safely hand execution over to a rudimentary C or Rust kernel. Without an existing operating system, you are tasked with building everything from scratch: writing a physical memory manager to map raw RAM frames, coding hierarchical page tables to isolate process memory, and writing device drivers that flash data to hardcoded hardware I/O ports to read keyboard inputs or print text to a monitor. The climax of this curriculum is implementing a preemptive round-robin scheduler and an assembly-based context switcher that manually saves and restores CPU registers, creating the literal illusion of multitasking out of raw, ticking hardware.",
-			"styleAttributes":{},
-			"x":205,
-			"y":1764,
-			"width":376,
-			"height":384
+			"text":"[[3-chipsets-specification-update.pdf| Book Here]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":862,
+			"y":2088,
+			"width":112,
+			"height":60
 		},
 		{
 			"id":"1baed2561d470f8e",
 			"type":"text",
 			"text":"[[Intel Manual.pdf| Book Here]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":1130,
-			"y":2250,
+			"x":1187,
+			"y":2088,
 			"width":112,
 			"height":60
 		},
-		{"id":"e6e62353a25f504b","type":"file","file":"Canvas/canva_assets/Intel 64 Architecture.jpg","x":1081,"y":1956,"width":209,"height":271},
-		{"id":"6501b8cb8b116979","type":"file","file":"Canvas/canva_assets/Intel 3 series.png","x":758,"y":1962,"width":205,"height":265},
+		{"id":"bd2fe0a31eb3dc0c","type":"file","file":"Canvas/CSAPP Reviewer.canvas","x":1400,"y":586,"width":420,"height":342},
 		{
-			"id":"2aa51d655d7fc87e",
+			"id":"1bf879cf067d9b75",
 			"type":"text",
-			"text":"[[3-chipsets-specification-update.pdf| Book Here]]",
+			"text":"[[CSAPP_2016.pdf | Book Here]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":805,
-			"y":2285,
+			"x":908,
+			"y":991,
 			"width":112,
-			"height":60
+			"height":62
 		},
 		{
 			"id":"d915e1d47d740cd2",
@@ -71,11 +61,21 @@
 			"text":"**CS:APP (2016)** serves as the ==definitive manual for the application programmer==, **focusing intensely on how user-space software interacts with the underlying system architecture**. \n\nIt establishes a \"top-down\" philosophy where students learn to write high-performance, secure, and exploit-resistant code by demystifying how compilers translate modern C into x86-64 assembly, how the memory hierarchy leverages cache locality, and how virtual memory functions. Instead of treating the operating system as a black box, CS:APP explicitly teaches you how to control it from User Mode (Ring 3) using standard POSIX system abstractions—such as orchestrating processes via fork(), handling software signals, and manipulating network sockets. The ultimate goal of this text is to leverage system details to eliminate mysterious software bugs and maximize high-level application performance.",
 			"styleAttributes":{},
 			"x":200,
-			"y":1324,
+			"y":1280,
 			"width":386,
 			"height":364
 		},
-		{"id":"bd2fe0a31eb3dc0c","type":"file","file":"Canvas/CSAPP Reviewer.canvas","x":1480,"y":789,"width":420,"height":342}
+		{
+			"id":"8855b9cceb998950",
+			"type":"text",
+			"text":"Conversely, the **Operating System 0 to 1 curriculum** ==completely strips away these high-level programming safety nets, forcing you into the role of the system architect operating in Kernel Mode (Ring 0)==. \n\n**The journey begins on bare-metal silicon,** requiring assembly stubs and custom linker scripts just to initialize the CPU and safely hand execution over to a rudimentary C or Rust kernel. Without an existing operating system, you are tasked with building everything from scratch: writing a physical memory manager to map raw RAM frames, coding hierarchical page tables to isolate process memory, and writing device drivers that flash data to hardcoded hardware I/O ports to read keyboard inputs or print text to a monitor. The climax of this curriculum is implementing a preemptive round-robin scheduler and an assembly-based context switcher that manually saves and restores CPU registers, creating the literal illusion of multitasking out of raw, ticking hardware.",
+			"styleAttributes":{},
+			"x":205,
+			"y":1680,
+			"width":376,
+			"height":384
+		},
+		{"id":"1972b0f1980990d4","type":"file","file":"Canvas/canva_assets/Computer System A programmer's perspective.png","x":872,"y":1080,"width":175,"height":216}
 	],
 	"edges":[
 		{

@@ -27,7 +27,7 @@ Consider a 32-bit integer `0x01234567`. The high-order byte is `0x01`, and the l
 
 - **Big Endian:**
 
-    ```
+  ```
     Address:  0x100  0x101  0x102  0x103
     Bytes:    0x01   0x23   0x45   0x67
     ```

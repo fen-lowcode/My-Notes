@@ -1,79 +1,95 @@
 {
 	"nodes":[
-		{"id":"5c46e8e5eb7d1653","type":"group","x":-1380,"y":-733,"width":2860,"height":933,"label":"CSAPP CHAPTER 1 MAPPER"},
+		{"id":"5c46e8e5eb7d1653","type":"group","x":-1380,"y":-733,"width":2860,"height":1013,"label":"CSAPP CHAPTER 1 MAPPER"},
 		{"id":"bf4e6c6cecbbcc00","type":"file","file":"Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md","x":-1280,"y":-322,"width":400,"height":400},
 		{"id":"106535dd2e88c362","type":"file","file":"Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md","x":-720,"y":-322,"width":400,"height":400},
 		{"id":"536d2ba8bc85c715","type":"file","file":"Programming/Compiler/Why it's important to understand the compilation system.md","x":-160,"y":-322,"width":400,"height":400},
 		{"id":"f7e73d156df128ba","type":"file","file":"Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md","x":360,"y":-322,"width":400,"height":400},
 		{
-			"id":"ff2997379ad2d71c",
-			"type":"text",
-			"text":"Explores about the introduction on CSAPP books and highlights the skills that can  be earned by reading it",
-			"styleAttributes":{},
-			"x":-920,
-			"y":-630,
-			"width":260,
-			"height":80
-		},
-		{
 			"id":"972facccc7e4a7e3",
 			"type":"text",
 			"text":"Introduces you to GCC compiler and peeks into transforming source code to executable and compilation phase",
 			"styleAttributes":{},
-			"x":-450,
-			"y":-620,
+			"x":-480,
+			"y":-614,
 			"width":260,
-			"height":60
+			"height":85
 		},
 		{
 			"id":"1fd64717a5b2c7a6",
 			"type":"text",
 			"text":"Explains the importance of grasping the compilation phase of the compiler and how we would benefit it from  ",
 			"styleAttributes":{},
-			"x":-20,
-			"y":-649,
+			"x":-90,
+			"y":-643,
 			"width":260,
 			"height":118
 		},
 		{
 			"id":"dd3b71ebf98aef5f",
 			"type":"text",
-			"text":"A brief explanation how the computer hardware work together to execute an executable or object file under the hood",
+			"text":"A brief explanation how the computer hardware work together to execute executable or object file of the hello world program  under the hood",
 			"styleAttributes":{},
-			"x":460,
+			"x":360,
 			"y":-630,
-			"width":300,
+			"width":290,
+			"height":101
+		},
+		{
+			"id":"ff2997379ad2d71c",
+			"type":"text",
+			"text":"Explores about the introduction on CSAPP books and highlights the skills that can  be earned by reading it",
+			"styleAttributes":{},
+			"x":-1010,
+			"y":-619,
+			"width":260,
 			"height":80
 		},
-		{"id":"bea2f721d157abf4","x":980,"y":-322,"width":400,"height":400,"type":"file","file":"Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md"}
+		{"id":"bea2f721d157abf4","type":"file","file":"Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md","x":920,"y":-322,"width":400,"height":400},
+		{
+			"id":"90ed2a535cd8175f",
+			"type":"text",
+			"text":"Ann overview of how CPU, RAM and DISK and Shell work together to run the hello world program in bare metal",
+			"styleAttributes":{},
+			"x":920,
+			"y":-630,
+			"width":260,
+			"height":110
+		}
 	],
 	"edges":[
 		{
 			"id":"6db530da0bea3445",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"bf4e6c6cecbbcc00",
 			"fromSide":"right",
 			"toNode":"106535dd2e88c362",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"4"
 		},
 		{
 			"id":"12342ca6f1e483e0",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"106535dd2e88c362",
 			"fromSide":"right",
 			"toNode":"536d2ba8bc85c715",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"4"
 		},
 		{
 			"id":"4c844fcf4d1c3d3b",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"536d2ba8bc85c715",
 			"fromSide":"right",
 			"toNode":"f7e73d156df128ba",
-			"toSide":"left"
+			"toSide":"left",
+			"color":"4"
 		},
 		{
 			"id":"4c4d437c9995a751",
@@ -138,7 +154,25 @@
 			"toNode":"dd3b71ebf98aef5f",
 			"toSide":"left"
 		},
-		{"id":"5e2a94f71c9b2003","fromNode":"f7e73d156df128ba","fromSide":"right","toNode":"bea2f721d157abf4","toSide":"left"}
+		{"id":"5e2a94f71c9b2003","fromFloating":false,"fromNode":"f7e73d156df128ba","fromSide":"right","toNode":"bea2f721d157abf4","toSide":"left","color":"4"},
+		{
+			"id":"fb83326ab74edee0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"dd3b71ebf98aef5f",
+			"fromSide":"right",
+			"toNode":"90ed2a535cd8175f",
+			"toSide":"left"
+		},
+		{
+			"id":"15e2bf7a972ed94b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"90ed2a535cd8175f",
+			"fromSide":"bottom",
+			"toNode":"bea2f721d157abf4",
+			"toSide":"top"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

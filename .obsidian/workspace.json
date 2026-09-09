@@ -8,48 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c8b2026bab60a5a",
+            "id": "e4962a2ad828a483",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/Computer System Master Map.canvas",
+                "file": "Canvas/CSAPP Reviewer.canvas",
                 "viewState": {
-                  "x": 1031.5479423834402,
-                  "y": 1534.7305282642646,
-                  "zoom": -0.7100227873278281
+                  "x": 1232.021490511661,
+                  "y": -78.02706666244528,
+                  "zoom": 0.049475322569725644
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Computer System Master Map"
+              "title": "CSAPP Reviewer"
             }
           },
           {
-            "id": "39de37c0ad2de5f8",
+            "id": "97c2e7c199a36979",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Canvas/CSAPP Reviewer.canvas",
+                "viewState": {
+                  "x": 1120,
+                  "y": -122,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "Hardware Organization of a Typical System"
+              "icon": "lucide-layout-dashboard",
+              "title": "CSAPP Reviewer"
             }
           },
           {
-            "id": "a2fe3f1b90742040",
+            "id": "a1bf58decdae9a9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,23 +66,41 @@
             }
           },
           {
-            "id": "ba660e522b15e9be",
+            "id": "6070794fca98d7d9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5303fc71d373222d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Canvas/CSAPP Reviewer.canvas",
-                "viewState": {
-                  "x": 85.02132517741279,
-                  "y": 382.52455709099627,
-                  "zoom": -2.4701106194099545
+                "file": "Computer Networking/Protocols/HTTP Protocol.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CSAPP Reviewer"
+              "icon": "lucide-file",
+              "title": "HTTP Protocol"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: hello",
+                "query": "file: http",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.0390625
+    "width": 487.32421875
   },
   "right": {
     "id": "2c74750d86aae33d",
@@ -253,12 +264,30 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5c8b2026bab60a5a",
+  "active": "6070794fca98d7d9",
   "lastOpenFiles": [
-    "Canvas/CSAPP Reviewer.canvas",
+    "Protection Rings.md",
+    "HTTP server overview.md",
+    "Direct Memory Access.md",
+    "Global Offset Table.md",
+    "Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
+    "Computer Networking/Protocols/HTTP Protocol.md",
+    "assets/images/http-client-server-model.png",
+    "learn/step/25834.md",
+    "learn/step",
+    "learn",
+    "page-2026-09-08-13-44-58.md",
+    "Computer Science/Computer Systems/Assembly and Binary/Byte Ordering and Representation in Memory Overview.md",
+    "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
     "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
-    "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
+    "Canvas/CSAPP Reviewer.canvas",
+    "Computer Science/Computer Systems/Assembly and Binary/32 bit and 64 bit - what in the world is a bit.md",
+    "Computer Science/Computer Systems/Assembly and Binary/Machine Level Representation.md",
+    "Cyber Security/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
     "Canvas/Computer System Master Map.canvas",
+    "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
+    "Computer Science/Computer Systems/Operating Systems/How Software runs.md",
+    "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
     "Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
     "PDF Books/3-chipsets-specification-update.pdf",
     "PDF Books/Kusswurm - Modern X86 Assembly Language Programming, x86 64-bit, AVX, AVX2 _ AVX-512, Apress 2019.pdf",
@@ -269,23 +298,9 @@
     "Computer Science/Computer Systems/Computer Architecture/Clock Cycle.md",
     "Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
     "Computer Science/Computer Systems/Computer Architecture/What is concurrency.md",
-    "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
     "Computer Science/Computer Systems/Hardware/Motherboard.md",
     "Computer Science/Computer Systems/Hardware/Main Memory.md",
-    "Computer Science/Computer Systems/Hardware/Memory Management Unit (MMU).md",
-    "Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
-    "Computer Science/Computer Systems/Computer Architecture/Register.md",
-    "Computer Science/Computer Systems/Operating Systems/Address Space.md",
-    "Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
-    "Computer Science/Computer Systems/Operating Systems/Process Context.md",
-    "Computer Science/Computer Systems/Operating Systems/How Software runs.md",
-    "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
     "Canvas/Reverse Engineering.canvas",
-    "Programming/Compiler/Why it's important to understand the compilation system.md",
-    "Programming/Compiler/Compiler Security Flags.md",
-    "Programming/Compiler/GCC Flags.md",
-    "A Tour of Computer Systems - Chapter 1 CSAPP.md",
-    "Programming/Compiler/What is GCC and G++.md",
     "PDF Books/CSAPP_2016.pdf",
     "assets/Pasted image 20260904180956.png",
     "PDF Books/Intel Manual.pdf",
@@ -298,11 +313,8 @@
     "Canvas",
     "assets/Screenshot 2026-08-18 015234.png",
     "PDF Books",
-    "Computer Networking/Network Models",
-    "Cyber Security/OS security meassures",
     "assets/Pasted image 20260803180953.png",
     "assets/images/Pasted image 20260401144926.png",
-    "assets/images/tcp-ip-osi-comparison.jpg",
-    "assets/images/Pasted image 20260401115300.png"
+    "assets/images/tcp-ip-osi-comparison.jpg"
   ]
 }

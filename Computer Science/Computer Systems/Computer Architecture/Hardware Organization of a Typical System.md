@@ -14,9 +14,9 @@ linux>
 ```
 
 
+
 ==The shell is a command-line interpreter that prints a prompt,== waits for you to type a command line, and then performs the command. If the first word of the command line does not correspond to a built-in shell command, then the shell assumes that it is the name of an executable file that it should load and run. 
 
-So in this case, the shell loads and runs the hello program and then waits for it to terminate. The hello program prints its message to the screen and then terminates. The shell then prints a prompt and waits for the next input command line.
 
 
 ##### *`figure 1.4`* 
@@ -24,11 +24,19 @@ So in this case, the shell loads and runs the hello program and then waits for i
 ![](Figure1.4.png)
 
 
+So in this case, the shell loads and runs the hello program and then waits for it to terminate. The hello program prints its message to the screen and then terminates. The shell then prints a prompt and waits for the next input command line.
+
+
+#### 1.4.1 Hardware Organization of a System 
+
+To understand what happens to our hello program when we run it, we need to understand the hardware organization of a typical system, which is shown in Figure 1.4. This particular picture is modeled after the family of recent Intel systems, but all systems have a similar look and feel. Don’t worry about the complexity of this figure just now. We will get to its various details in stages throughout the course of the book.
 
 
 ---
 
 This architecture follows the principles of **[[Von-Neumann architecture]]**
+
+
 
 * **Buses**
 
