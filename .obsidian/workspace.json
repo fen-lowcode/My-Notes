@@ -4,168 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a2341d90ce49f8a6",
+        "id": "7188d7db73b56de4",
         "type": "tabs",
         "children": [
           {
-            "id": "56db1aa311f54a94",
+            "id": "ec12abc74f8ae1d5",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/CSAPP Reviewer.canvas",
+                "file": "Canvas/Computer System Master Map.canvas",
                 "viewState": {
-                  "x": 50,
-                  "y": 180,
-                  "zoom": -1.8027541116366974
+                  "x": 1124.7687633815908,
+                  "y": 1524.2768036198884,
+                  "zoom": -1.0792174131601322
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "CSAPP Reviewer"
-            }
-          },
-          {
-            "id": "369fca4ec5e3dd3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Running a simple Hello World Program"
-            }
-          },
-          {
-            "id": "f3825107434eb9c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hardware Organization of a Typical System"
-            }
-          },
-          {
-            "id": "f1760b78c4209fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Compiler/Why it's important to understand the compilation system.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Why it's important to understand the compilation system"
-            }
-          },
-          {
-            "id": "76fa9b29a7aa8eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How GCC works under the hood -  CSAPP Chapter 1"
-            }
-          },
-          {
-            "id": "f13adebb1f82507e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A Tour of Computer Systems - Chapter 1 CSAPP"
-            }
-          },
-          {
-            "id": "f78e01c48bab206f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cache Memory"
+              "title": "Computer System Master Map"
             }
           }
         ]
@@ -332,17 +188,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "56db1aa311f54a94",
+  "active": "ec12abc74f8ae1d5",
   "lastOpenFiles": [
-    "Canvas/Computer System Master Map.canvas",
+    "Canvas/canva_assets/Screenshot_20260910_191130.png",
     "Canvas/CSAPP Reviewer.canvas",
+    "Computer Science/Computer Systems/Computer Architecture/Register.md",
     "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
-    "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
     "Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
     "Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md",
     "Programming/Compiler/Why it's important to understand the compilation system.md",
     "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
     "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
+    "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
+    "PDF Books/operating-system-concepts-10th_edition_dinasaur_rawr_rawr.pdf",
+    "Canvas/Computer System Master Map.canvas",
     "Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
     "README.md",
     "Personal/Self Improvement/Topics/Obstacles.md",
@@ -360,7 +219,6 @@
     "Personal/Diary/2025-12-25.md",
     "Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
     "HTTP server overview.md",
-    "Protection Rings.md",
     "Personal/Self Improvement/images/spacingeffect.avif",
     "assets/images/http-client-server-model.png",
     "learn/step",
@@ -380,7 +238,6 @@
     "Canvas/canva_assets/Operating System From 0 to 1.png",
     "Canvas",
     "assets/Screenshot 2026-08-18 015234.png",
-    "PDF Books",
     "assets/Pasted image 20260803180953.png",
     "assets/images/Pasted image 20260401144926.png"
   ]
