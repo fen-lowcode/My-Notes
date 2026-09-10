@@ -1,4 +1,4 @@
-#computer-system
+#CSAPP
 
 #### 1.5 Cache Matter
 
@@ -45,7 +45,9 @@ Newer and more powerful systems even have three levels of cache: L1, L2, and L3.
 
 By setting up caches to hold data that are likely to be accessed often, we can perform most memory operations using the fast caches.
 
-One of the most important lessons in this book is that application programmers who are aware of cache memories can exploit them to improve the performance of their programs by an order of magnitude.
+One of the most important lessons in this book is that application programmers who are aware of cache memories can exploit them to improve the performance of their programs by an order of magnitude. 
+
+You will learn more about these important devices and how to exploit them in Chapter 6.
 
 > [!Note]
 > A Cache Memory is also one of the important parts of the [[Storage Devices Hierarchy]] 

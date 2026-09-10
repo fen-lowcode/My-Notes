@@ -1,27 +1,15 @@
 {
 	"nodes":[
-		{"id":"5c46e8e5eb7d1653","type":"group","x":-1380,"y":-733,"width":2860,"height":1013,"label":"CSAPP CHAPTER 1 MAPPER"},
-		{"id":"bf4e6c6cecbbcc00","type":"file","file":"Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md","x":-1280,"y":-322,"width":400,"height":400},
-		{"id":"106535dd2e88c362","type":"file","file":"Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md","x":-720,"y":-322,"width":400,"height":400},
+		{"id":"5c46e8e5eb7d1653","type":"group","x":-1380,"y":-640,"width":2860,"height":1640,"color":"#653e3e","label":"CSAPP CHAPTER 1 MAPPER "},
 		{"id":"536d2ba8bc85c715","type":"file","file":"Programming/Compiler/Why it's important to understand the compilation system.md","x":-160,"y":-322,"width":400,"height":400},
-		{"id":"f7e73d156df128ba","type":"file","file":"Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md","x":360,"y":-322,"width":400,"height":400},
-		{
-			"id":"972facccc7e4a7e3",
-			"type":"text",
-			"text":"Introduces you to GCC compiler and peeks into transforming source code to executable and compilation phase",
-			"styleAttributes":{},
-			"x":-480,
-			"y":-614,
-			"width":260,
-			"height":85
-		},
+		{"id":"bea2f721d157abf4","type":"file","file":"Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md","x":920,"y":-322,"width":400,"height":400},
 		{
 			"id":"1fd64717a5b2c7a6",
 			"type":"text",
 			"text":"Explains the importance of grasping the compilation phase of the compiler and how we would benefit it from  ",
 			"styleAttributes":{},
 			"x":-90,
-			"y":-643,
+			"y":-600,
 			"width":260,
 			"height":118
 		},
@@ -31,30 +19,64 @@
 			"text":"A brief explanation how the computer hardware work together to execute executable or object file of the hello world program  under the hood",
 			"styleAttributes":{},
 			"x":360,
-			"y":-630,
+			"y":-587,
 			"width":290,
 			"height":101
 		},
-		{
-			"id":"ff2997379ad2d71c",
-			"type":"text",
-			"text":"Explores about the introduction on CSAPP books and highlights the skills that can  be earned by reading it",
-			"styleAttributes":{},
-			"x":-1010,
-			"y":-619,
-			"width":260,
-			"height":80
-		},
-		{"id":"bea2f721d157abf4","type":"file","file":"Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md","x":920,"y":-322,"width":400,"height":400},
 		{
 			"id":"90ed2a535cd8175f",
 			"type":"text",
 			"text":"Ann overview of how CPU, RAM and DISK and Shell work together to run the hello world program in bare metal",
 			"styleAttributes":{},
 			"x":920,
-			"y":-630,
+			"y":-587,
 			"width":260,
 			"height":110
+		},
+		{
+			"id":"972facccc7e4a7e3",
+			"type":"text",
+			"text":"Introduces you to GCC compiler and peeks into transforming source code to executable and compilation phase",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-583,
+			"width":260,
+			"height":85
+		},
+		{"id":"bf4e6c6cecbbcc00","type":"file","file":"Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md","x":-1280,"y":-322,"width":400,"height":400},
+		{"id":"106535dd2e88c362","type":"file","file":"Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md","x":-720,"y":-322,"width":400,"height":400},
+		{
+			"id":"ff2997379ad2d71c",
+			"type":"text",
+			"text":"Explores about the introduction on CSAPP books and highlights the skills that can  be earned by reading it",
+			"styleAttributes":{},
+			"x":-1010,
+			"y":-576,
+			"width":260,
+			"height":80
+		},
+		{"id":"8de1d7feb5e59536","type":"file","file":"Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md","x":-660,"y":440,"width":400,"height":400},
+		{"id":"4e87c2d25aefb413","type":"file","file":"Computer Science/Computer Systems/Computer Architecture/Cache Memory.md","x":-1280,"y":440,"width":400,"height":400},
+		{
+			"id":"07d11e80aa9c570e",
+			"type":"text",
+			"text":"Explains what a cache memory is and a brief glimpse to memory hierarchy",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":240,
+			"width":260,
+			"height":60
+		},
+		{"id":"f7e73d156df128ba","type":"file","file":"Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md","x":360,"y":-322,"width":400,"height":400},
+		{
+			"id":"f2236add06689a7c",
+			"type":"text",
+			"text":"Shows the memory hierarchy pyramid that shows each relations of memory storages to each other",
+			"styleAttributes":{},
+			"x":-560,
+			"y":230,
+			"width":300,
+			"height":80
 		}
 	],
 	"edges":[
@@ -172,6 +194,44 @@
 			"fromSide":"bottom",
 			"toNode":"bea2f721d157abf4",
 			"toSide":"top"
+		},
+		{
+			"id":"75283f664e0ba34c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"07d11e80aa9c570e",
+			"fromSide":"bottom",
+			"toNode":"4e87c2d25aefb413",
+			"toSide":"top"
+		},
+		{
+			"id":"63ab28ee818f54b3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f2236add06689a7c",
+			"fromSide":"bottom",
+			"toNode":"8de1d7feb5e59536",
+			"toSide":"top"
+		},
+		{
+			"id":"e89b54aba9fbeb4f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4e87c2d25aefb413",
+			"fromSide":"right",
+			"toNode":"8de1d7feb5e59536",
+			"toSide":"left",
+			"color":"4"
+		},
+		{
+			"id":"b269fe8329699e4e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"07d11e80aa9c570e",
+			"fromSide":"right",
+			"toNode":"f2236add06689a7c",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

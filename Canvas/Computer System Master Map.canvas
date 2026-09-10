@@ -1,67 +1,15 @@
 {
 	"nodes":[
-		{
-			"id":"65062e4a0f329cdc",
-			"type":"text",
-			"text":"The **Computer Systems: A Programmer's Perspective (CS:APP 3rd Edition, 2016)** by Randal E. Bryant and David R. O'Hallaron is a foundational computer science text that explains **how a computer application interacts with hardware through the operating system**. Instead of focusing purely on hardware design or high-level coding, it teaches programmers how to write faster, more reliable, and secure software by understanding the underlying system execution.",
-			"styleAttributes":{},
-			"x":213,
-			"y":1022,
-			"width":360,
-			"height":217
-		},
-		{"id":"2f92e75522b74ea0","type":"text","text":"**A road map to understand how computer works behind the scenes both in hardware and software.**\n\nThis canvas demonstrates a very technical details of how a computer operate, how software talks to hardware, how operating system works, how a kernel talks with the Intel CPU\n","x":497,"y":708,"width":260,"height":220},
-		{"id":"95c28e1acbe6adea","type":"file","file":"Canvas/canva_assets/Operating System From 0 to 1.png","x":963,"y":1427,"width":167,"height":217},
-		{
-			"id":"070715270e0fafe6",
-			"type":"text",
-			"text":"[[Operating_Systems_From_0_to_1.pdf| Book Here]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1179,
-			"y":1506,
-			"width":120,
-			"height":60
-		},
-		{"id":"e6e62353a25f504b","type":"file","file":"Canvas/canva_assets/Intel 64 Architecture.jpg","x":1130,"y":1764,"width":209,"height":271},
-		{"id":"6501b8cb8b116979","type":"file","file":"Canvas/canva_assets/Intel 3 series.png","x":815,"y":1764,"width":205,"height":265},
-		{
-			"id":"2aa51d655d7fc87e",
-			"type":"text",
-			"text":"[[3-chipsets-specification-update.pdf| Book Here]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":862,
-			"y":2088,
-			"width":112,
-			"height":60
-		},
-		{
-			"id":"1baed2561d470f8e",
-			"type":"text",
-			"text":"[[Intel Manual.pdf| Book Here]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1187,
-			"y":2088,
-			"width":112,
-			"height":60
-		},
-		{"id":"bd2fe0a31eb3dc0c","type":"file","file":"Canvas/CSAPP Reviewer.canvas","x":1400,"y":586,"width":420,"height":342},
-		{
-			"id":"1bf879cf067d9b75",
-			"type":"text",
-			"text":"[[CSAPP_2016.pdf | Book Here]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":908,
-			"y":991,
-			"width":112,
-			"height":62
-		},
+		{"id":"fd2c8bdf98af64ce","type":"group","x":-80,"y":920,"width":606,"height":1293,"color":"5","label":"PDF Description"},
+		{"id":"b1c2cbc2a5fd448a","type":"group","x":720,"y":1137,"width":680,"height":860,"label":"PDF Co-Relation"},
+		{"id":"b543be9a33f528f8","type":"group","x":1600,"y":1000,"width":600,"height":480,"color":"4","label":"PDF content review"},
 		{
 			"id":"d915e1d47d740cd2",
 			"type":"text",
 			"text":"**CS:APP (2016)** serves as the ==definitive manual for the application programmer==, **focusing intensely on how user-space software interacts with the underlying system architecture**. \n\nIt establishes a \"top-down\" philosophy where students learn to write high-performance, secure, and exploit-resistant code by demystifying how compilers translate modern C into x86-64 assembly, how the memory hierarchy leverages cache locality, and how virtual memory functions. Instead of treating the operating system as a black box, CS:APP explicitly teaches you how to control it from User Mode (Ring 3) using standard POSIX system abstractions—such as orchestrating processes via fork(), handling software signals, and manipulating network sockets. The ultimate goal of this text is to leverage system details to eliminate mysterious software bugs and maximize high-level application performance.",
 			"styleAttributes":{},
-			"x":200,
-			"y":1280,
+			"x":0,
+			"y":1321,
 			"width":386,
 			"height":364
 		},
@@ -70,12 +18,45 @@
 			"type":"text",
 			"text":"Conversely, the **Operating System 0 to 1 curriculum** ==completely strips away these high-level programming safety nets, forcing you into the role of the system architect operating in Kernel Mode (Ring 0)==. \n\n**The journey begins on bare-metal silicon,** requiring assembly stubs and custom linker scripts just to initialize the CPU and safely hand execution over to a rudimentary C or Rust kernel. Without an existing operating system, you are tasked with building everything from scratch: writing a physical memory manager to map raw RAM frames, coding hierarchical page tables to isolate process memory, and writing device drivers that flash data to hardcoded hardware I/O ports to read keyboard inputs or print text to a monitor. The climax of this curriculum is implementing a preemptive round-robin scheduler and an assembly-based context switcher that manually saves and restores CPU registers, creating the literal illusion of multitasking out of raw, ticking hardware.",
 			"styleAttributes":{},
-			"x":205,
-			"y":1680,
+			"x":5,
+			"y":1721,
 			"width":376,
 			"height":384
 		},
-		{"id":"1972b0f1980990d4","type":"file","file":"Canvas/canva_assets/Computer System A programmer's perspective.png","x":872,"y":1080,"width":175,"height":216}
+		{
+			"id":"65062e4a0f329cdc",
+			"type":"text",
+			"text":"The **Computer Systems: A Programmer's Perspective (CS:APP 3rd Edition, 2016)** by Randal E. Bryant and David R. O'Hallaron is a foundational computer science text that explains **how a computer application interacts with hardware through the operating system**. Instead of focusing purely on hardware design or high-level coding, it teaches programmers how to write faster, more reliable, and secure software by understanding the underlying system execution.",
+			"styleAttributes":{},
+			"x":0,
+			"y":1063,
+			"width":386,
+			"height":217
+		},
+		{
+			"id":"1bf879cf067d9b75",
+			"type":"text",
+			"text":"[[CSAPP_2016.pdf | Book Here]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":991,
+			"y":1206,
+			"width":112,
+			"height":62
+		},
+		{"id":"95c28e1acbe6adea","type":"file","file":"Canvas/canva_assets/Operating System From 0 to 1.png","x":963,"y":1704,"width":167,"height":217},
+		{
+			"id":"070715270e0fafe6",
+			"type":"text",
+			"text":"[[Operating_Systems_From_0_to_1.pdf| Book Here]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1179,
+			"y":1783,
+			"width":120,
+			"height":60
+		},
+		{"id":"2f92e75522b74ea0","type":"text","text":"**A road map to understand how computer works behind the scenes both in hardware and software.**\n\nThis canvas demonstrates a very technical details of how a computer operate, how software talks to hardware, how operating system works, how a kernel talks with the Intel CPU\n","x":360,"y":640,"width":459,"height":160},
+		{"id":"bd2fe0a31eb3dc0c","type":"file","file":"Canvas/CSAPP Reviewer.canvas","x":1680,"y":1081,"width":420,"height":342},
+		{"id":"1972b0f1980990d4","type":"file","file":"Canvas/canva_assets/Computer System A programmer's perspective.png","x":959,"y":1341,"width":175,"height":216}
 	],
 	"edges":[
 		{
@@ -86,28 +67,6 @@
 			"fromNode":"1972b0f1980990d4",
 			"fromSide":"bottom",
 			"toNode":"95c28e1acbe6adea",
-			"toSide":"top",
-			"color":"#000000"
-		},
-		{
-			"id":"c22c481c4dc016b9",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"95c28e1acbe6adea",
-			"fromSide":"bottom",
-			"toNode":"e6e62353a25f504b",
-			"toSide":"top",
-			"color":"#000000"
-		},
-		{
-			"id":"920e9110f26bb1c1",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"95c28e1acbe6adea",
-			"fromSide":"bottom",
-			"toNode":"6501b8cb8b116979",
 			"toSide":"top",
 			"color":"#000000"
 		},

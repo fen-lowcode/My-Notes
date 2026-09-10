@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4962a2ad828a483",
+            "id": "56db1aa311f54a94",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Canvas/CSAPP Reviewer.canvas",
                 "viewState": {
-                  "x": 1232.021490511661,
-                  "y": -78.02706666244528,
-                  "zoom": 0.049475322569725644
+                  "x": 50,
+                  "y": 180,
+                  "zoom": -1.8027541116366974
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,24 +25,7 @@
             }
           },
           {
-            "id": "97c2e7c199a36979",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/CSAPP Reviewer.canvas",
-                "viewState": {
-                  "x": 1120,
-                  "y": -122,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "CSAPP Reviewer"
-            }
-          },
-          {
-            "id": "a1bf58decdae9a9c",
+            "id": "369fca4ec5e3dd3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,22 +49,12 @@
             }
           },
           {
-            "id": "6070794fca98d7d9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5303fc71d373222d",
+            "id": "f3825107434eb9c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking/Protocols/HTTP Protocol.md",
+                "file": "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,11 +69,106 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HTTP Protocol"
+              "title": "Hardware Organization of a Typical System"
+            }
+          },
+          {
+            "id": "f1760b78c4209fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Compiler/Why it's important to understand the compilation system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Why it's important to understand the compilation system"
+            }
+          },
+          {
+            "id": "76fa9b29a7aa8eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How GCC works under the hood -  CSAPP Chapter 1"
+            }
+          },
+          {
+            "id": "f13adebb1f82507e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A Tour of Computer Systems - Chapter 1 CSAPP"
+            }
+          },
+          {
+            "id": "f78e01c48bab206f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cache Memory"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: http",
+                "query": "tag:#CSAPP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.32421875
+    "width": 305.703125
   },
   "right": {
     "id": "2c74750d86aae33d",
@@ -264,42 +332,42 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6070794fca98d7d9",
+  "active": "56db1aa311f54a94",
   "lastOpenFiles": [
-    "Protection Rings.md",
-    "HTTP server overview.md",
-    "Direct Memory Access.md",
-    "Global Offset Table.md",
-    "Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
-    "Computer Networking/Protocols/HTTP Protocol.md",
-    "assets/images/http-client-server-model.png",
-    "learn/step/25834.md",
-    "learn/step",
-    "learn",
-    "page-2026-09-08-13-44-58.md",
-    "Computer Science/Computer Systems/Assembly and Binary/Byte Ordering and Representation in Memory Overview.md",
-    "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
-    "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
-    "Canvas/CSAPP Reviewer.canvas",
-    "Computer Science/Computer Systems/Assembly and Binary/32 bit and 64 bit - what in the world is a bit.md",
-    "Computer Science/Computer Systems/Assembly and Binary/Machine Level Representation.md",
-    "Cyber Security/Exploiting Procedure/How Remote Shellcode Exploitation Combines Computer Systems, Reverse Engineering, and Networking.md",
     "Canvas/Computer System Master Map.canvas",
-    "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
-    "Computer Science/Computer Systems/Operating Systems/How Software runs.md",
+    "Canvas/CSAPP Reviewer.canvas",
+    "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
     "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
     "Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
+    "Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md",
+    "Programming/Compiler/Why it's important to understand the compilation system.md",
+    "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
+    "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
+    "Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
+    "README.md",
+    "Personal/Self Improvement/Topics/Obstacles.md",
+    "Personal/Self Improvement/Topics/Learning Types.md",
+    "Personal/Self Improvement/Topics/Learning Efficiency.md",
+    "Personal/Self Improvement/Topics/Decision making.md",
+    "Personal/Self Improvement/Topics/Comfort Zone.md",
+    "Personal/Self Improvement/Topics/Attention.md",
+    "Personal/Self Improvement/Self/Topics.md",
+    "Personal/Self Improvement/Self/Things that i know so far.md",
+    "Personal/Self Improvement/Self/The Self.md",
+    "Personal/Self Improvement/Procastination/The Lazy Ambitious Man.md",
+    "Personal/Self Improvement/Procastination/Solution to face the shadow.md",
+    "Personal/Self Improvement/Procastination/Procrastination by Carl Jung.md",
+    "Personal/Diary/2025-12-25.md",
+    "Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
+    "HTTP server overview.md",
+    "Protection Rings.md",
+    "Personal/Self Improvement/images/spacingeffect.avif",
+    "assets/images/http-client-server-model.png",
+    "learn/step",
+    "learn",
     "PDF Books/3-chipsets-specification-update.pdf",
     "PDF Books/Kusswurm - Modern X86 Assembly Language Programming, x86 64-bit, AVX, AVX2 _ AVX-512, Apress 2019.pdf",
-    "Computer Science/Computer Systems/Hardware/Central Processing Unit (CPU).md",
     "Canvas/canva_assets/Untitled.canvas",
-    "Computer Science/Computer Systems/Operating Systems/Shell.md",
-    "Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md",
-    "Computer Science/Computer Systems/Computer Architecture/Clock Cycle.md",
-    "Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
-    "Computer Science/Computer Systems/Computer Architecture/What is concurrency.md",
-    "Computer Science/Computer Systems/Hardware/Motherboard.md",
-    "Computer Science/Computer Systems/Hardware/Main Memory.md",
     "Canvas/Reverse Engineering.canvas",
     "PDF Books/CSAPP_2016.pdf",
     "assets/Pasted image 20260904180956.png",
@@ -314,7 +382,6 @@
     "assets/Screenshot 2026-08-18 015234.png",
     "PDF Books",
     "assets/Pasted image 20260803180953.png",
-    "assets/images/Pasted image 20260401144926.png",
-    "assets/images/tcp-ip-osi-comparison.jpg"
+    "assets/images/Pasted image 20260401144926.png"
   ]
 }
