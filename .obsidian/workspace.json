@@ -15,9 +15,9 @@
               "state": {
                 "file": "Canvas/Computer System Master Map.canvas",
                 "viewState": {
-                  "x": 1124.7687633815908,
-                  "y": 1524.2768036198884,
-                  "zoom": -1.0792174131601322
+                  "x": 1284.0598919426589,
+                  "y": 1502.466234297968,
+                  "zoom": -1.479217413160132
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -190,8 +190,9 @@
   },
   "active": "ec12abc74f8ae1d5",
   "lastOpenFiles": [
-    "Canvas/canva_assets/Screenshot_20260910_191130.png",
     "Canvas/CSAPP Reviewer.canvas",
+    "Canvas/Computer System Master Map.canvas",
+    "Canvas/canva_assets/Screenshot_20260910_191130.png",
     "Computer Science/Computer Systems/Computer Architecture/Register.md",
     "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
     "Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
@@ -201,7 +202,6 @@
     "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
     "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
     "PDF Books/operating-system-concepts-10th_edition_dinasaur_rawr_rawr.pdf",
-    "Canvas/Computer System Master Map.canvas",
     "Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
     "README.md",
     "Personal/Self Improvement/Topics/Obstacles.md",
@@ -238,7 +238,6 @@
     "Canvas/canva_assets/Operating System From 0 to 1.png",
     "Canvas",
     "assets/Screenshot 2026-08-18 015234.png",
-    "assets/Pasted image 20260803180953.png",
-    "assets/images/Pasted image 20260401144926.png"
+    "assets/Pasted image 20260803180953.png"
   ]
 }
