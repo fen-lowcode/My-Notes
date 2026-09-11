@@ -21,7 +21,7 @@ linux>
 
 ##### *`figure 1.4`* 
 
-![](Figure1.4.png)
+![normal](Figure1.4.png)
 
 
 So in this case, the shell loads and runs the hello program and then waits for it to terminate. The hello program prints its message to the screen and then terminates. The shell then prints a prompt and waits for the next input command line.
@@ -62,7 +62,7 @@ This architecture follows the principles of **[[Von-Neumann architecture]]**
 	Chapter 6 has more to say about how I/O devices such as disks work.  In Chapter 10, you will learn how to use the Unix I/O interface to access devices from your application programs. We focus on the especially interesting class of devices known as networks, but the techniques generalize to other kinds of devices as well.
 
 ---
- * ***[[Main Memory]]**
+ * **[[Main Memory]]**
 
 	* The **main memory** is a ==temporary storage device that holds both a program and the data it manipulates while the processor is executing the program==. 
 	
@@ -76,7 +76,7 @@ Chapter 6 has more to say about how memory technologies such as DRAM chips work,
 
 ---
 
-> **[[Central Processing Unit (CPU)]]**
+* **[[Central Processing Unit (CPU) | Processor]]**
 
 ==The **central processing unit** (***CPU*** ), or simply processor, is the engine that interprets (or executes) instructions stored in main memory==
 

@@ -4,35 +4,12 @@
 		{"id":"b1c2cbc2a5fd448a","type":"group","x":720,"y":1137,"width":680,"height":1103,"label":"PDF Co-Relation"},
 		{"id":"b543be9a33f528f8","type":"group","x":1600,"y":920,"width":600,"height":516,"color":"4","label":"PDF content review"},
 		{
-			"id":"65062e4a0f329cdc",
-			"type":"text",
-			"text":"The **Computer Systems: A Programmer's Perspective (CS:APP 3rd Edition, 2016)** by Randal E. Bryant and David R. O'Hallaron is a foundational computer science text that explains **how a computer application interacts with hardware through the operating system**. Instead of focusing purely on hardware design or high-level coding, it teaches programmers how to write faster, more reliable, and secure software by understanding the underlying system execution.",
-			"styleAttributes":{},
-			"x":20,
-			"y":1035,
-			"width":386,
-			"height":217
-		},
-		{"id":"95c28e1acbe6adea","type":"file","file":"Canvas/canva_assets/Operating System From 0 to 1.png","x":820,"y":1705,"width":167,"height":217},
-		{
-			"id":"070715270e0fafe6",
-			"type":"text",
-			"text":"[[Operating_Systems_From_0_to_1.pdf| Book Here]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":760,
-			"y":1600,
-			"width":120,
-			"height":60
-		},
-		{"id":"1972b0f1980990d4","type":"file","file":"Canvas/canva_assets/Computer System A programmer's perspective.png","x":987,"y":1300,"width":175,"height":216},
-		{"id":"2f92e75522b74ea0","type":"text","text":"**A road map to understand how computer works behind the scenes both in hardware and software.**\n\nThis canvas demonstrates a very technical details of how a computer operate, how software talks to hardware, how operating system works, how a kernel talks with the Intel CPU\n","x":360,"y":640,"width":459,"height":160},
-		{
 			"id":"d915e1d47d740cd2",
 			"type":"text",
 			"text":"**CS:APP (2016)** serves as the ==definitive manual for the application programmer==, **focusing intensely on how user-space software interacts with the underlying system architecture**. \n\nIt establishes a \"top-down\" philosophy where students learn to write high-performance, secure, and exploit-resistant code by demystifying how compilers translate modern C into x86-64 assembly, how the memory hierarchy leverages cache locality, and how virtual memory functions. Instead of treating the operating system as a black box, CS:APP explicitly teaches you how to control it from User Mode (Ring 3) using standard POSIX system abstractions—such as orchestrating processes via fork(), handling software signals, and manipulating network sockets. The ultimate goal of this text is to leverage system details to eliminate mysterious software bugs and maximize high-level application performance.",
 			"styleAttributes":{},
 			"x":20,
-			"y":1293,
+			"y":1080,
 			"width":386,
 			"height":364
 		},
@@ -42,7 +19,7 @@
 			"text":"Conversely, the **Operating System 0 to 1 curriculum** completely strips away these high-level programming safety nets, forcing you into the role of the system architect operating in Kernel Mode (Ring 0). \n\n==It guides you to build a fast  operating system prototype all from scratch **but doesn't cover everything about all parts of the operating system**==",
 			"styleAttributes":{},
 			"x":25,
-			"y":1693,
+			"y":1560,
 			"width":376,
 			"height":196
 		},
@@ -52,12 +29,32 @@
 			"text":"**Operating System Concepts**, widely known as the \"dinosaur book\".\n\n**A foundational computer science textbook about operating systems** written by Abraham Silberschatz, Peter Baer Galvin, and Greg Gagne. It ==provides a comprehensive, vendor-neutral introduction to how modern operating systems function, covering critical architecture topics such as **process management, memory allocation, storage systems, security, and distributed computing**==\n\nBy balancing theoretical engineering principles with practical examples from real-world operating systems like **Linux, Windows, and macOS**, the book serves as the definitive academic standard for university-level computer science curricula globally\n\nGO FOR THIS TO LEARN HOW MODERN OPERATING SYSTEM WORKS FROM WITHIN",
 			"styleAttributes":{},
 			"x":25,
-			"y":1940,
+			"y":1900,
 			"width":376,
-			"height":380,
-			"color":"1"
+			"height":380
 		},
-		{"id":"be152d47a5491801","type":"file","file":"Canvas/canva_assets/Screenshot_20260910_191130.png","x":1103,"y":1922,"width":161,"height":229},
+		{"id":"2f92e75522b74ea0","type":"text","text":"**A road map to understand how computer works behind the scenes both in hardware and software.**\n\nThis canvas demonstrates a very technical details of how a computer operate, how software talks to hardware, how operating system works, how a kernel talks with the Intel CPU\n","x":360,"y":640,"width":459,"height":160},
+		{"id":"bd2fe0a31eb3dc0c","type":"file","file":"Mind Maps/CSAPP Reviewer.canvas","x":1680,"y":1001,"width":420,"height":342},
+		{
+			"id":"070715270e0fafe6",
+			"type":"text",
+			"text":"[[Operating_Systems_From_0_to_1.pdf| Book Here]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":844,
+			"y":1940,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"2b3ff80fefe82a1a",
+			"type":"text",
+			"text":"[[operating-system-concepts-10th_edition_dinasaur_rawr_rawr.pdf | Book Here]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":964,
+			"y":2091,
+			"width":120,
+			"height":60
+		},
 		{
 			"id":"1bf879cf067d9b75",
 			"type":"text",
@@ -68,20 +65,11 @@
 			"width":112,
 			"height":62
 		},
-		{"id":"bd2fe0a31eb3dc0c","type":"file","file":"Canvas/CSAPP Reviewer.canvas","x":1680,"y":1001,"width":420,"height":342}
+		{"id":"1972b0f1980990d4","type":"file","file":"Mind Maps/assets/Computer System A programmer's perspective.png","x":960,"y":1343,"width":175,"height":216},
+		{"id":"95c28e1acbe6adea","type":"file","file":"Mind Maps/assets/Operating System From 0 to 1.png","x":820,"y":1683,"width":167,"height":217},
+		{"id":"be152d47a5491801","type":"file","file":"Mind Maps/assets/Screenshot_20260910_191130.png","x":1103,"y":1922,"width":161,"height":229}
 	],
 	"edges":[
-		{
-			"id":"c030b5e05b010c91",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"65062e4a0f329cdc",
-			"fromSide":"bottom",
-			"toNode":"d915e1d47d740cd2",
-			"toSide":"top",
-			"color":"3"
-		},
 		{
 			"id":"74a5a73e8c04fbba",
 			"styleAttributes":{},
@@ -123,6 +111,7 @@
 			"fromSide":"right",
 			"toNode":"bd2fe0a31eb3dc0c",
 			"toSide":"left",
+			"color":"5",
 			"label":"REVIEWER"
 		},
 		{
@@ -130,11 +119,11 @@
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromFloating":false,
-			"fromNode":"65062e4a0f329cdc",
+			"fromNode":"d915e1d47d740cd2",
 			"fromSide":"right",
 			"toNode":"1972b0f1980990d4",
 			"toSide":"left",
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"1789399c61f68487",
@@ -145,7 +134,7 @@
 			"fromSide":"right",
 			"toNode":"95c28e1acbe6adea",
 			"toSide":"left",
-			"color":"3"
+			"color":"4"
 		},
 		{
 			"id":"aac031ecff5d50d1",
@@ -156,6 +145,17 @@
 			"fromSide":"right",
 			"toNode":"be152d47a5491801",
 			"toSide":"left",
+			"color":"4"
+		},
+		{
+			"id":"5bff4f927befad4f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"8855b9cceb998950",
+			"fromSide":"bottom",
+			"toNode":"bcd4d30e90088ee4",
+			"toSide":"top",
 			"color":"3"
 		}
 	],

@@ -13,15 +13,39 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/Computer System Master Map.canvas",
+                "file": "Mind Maps/CSAPP Reviewer.canvas",
                 "viewState": {
-                  "x": 1284.0598919426589,
-                  "y": 1502.466234297968,
-                  "zoom": -1.479217413160132
+                  "x": -8.368791024004508,
+                  "y": 216.12925035354027,
+                  "zoom": -1.624949518556829
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Computer System Master Map"
+              "title": "CSAPP Reviewer"
+            }
+          },
+          {
+            "id": "fdde90d69aa95fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Knowledge Base/Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Storage Devices Hierarchy"
             }
           }
         ]
@@ -58,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CSAPP",
+                "query": "file: Opera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.703125
+    "width": 381.77734375
   },
   "right": {
     "id": "2c74750d86aae33d",
@@ -185,59 +209,62 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "ec12abc74f8ae1d5",
+  "active": "dc09873593b8cac5",
   "lastOpenFiles": [
-    "Canvas/CSAPP Reviewer.canvas",
-    "Canvas/Computer System Master Map.canvas",
-    "Canvas/canva_assets/Screenshot_20260910_191130.png",
-    "Computer Science/Computer Systems/Computer Architecture/Register.md",
-    "Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
-    "Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
-    "Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md",
-    "Programming/Compiler/Why it's important to understand the compilation system.md",
-    "Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
-    "Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
-    "Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
-    "PDF Books/operating-system-concepts-10th_edition_dinasaur_rawr_rawr.pdf",
-    "Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
-    "README.md",
-    "Personal/Self Improvement/Topics/Obstacles.md",
-    "Personal/Self Improvement/Topics/Learning Types.md",
-    "Personal/Self Improvement/Topics/Learning Efficiency.md",
-    "Personal/Self Improvement/Topics/Decision making.md",
-    "Personal/Self Improvement/Topics/Comfort Zone.md",
-    "Personal/Self Improvement/Topics/Attention.md",
-    "Personal/Self Improvement/Self/Topics.md",
-    "Personal/Self Improvement/Self/Things that i know so far.md",
-    "Personal/Self Improvement/Self/The Self.md",
-    "Personal/Self Improvement/Procastination/The Lazy Ambitious Man.md",
-    "Personal/Self Improvement/Procastination/Solution to face the shadow.md",
-    "Personal/Self Improvement/Procastination/Procrastination by Carl Jung.md",
-    "Personal/Diary/2025-12-25.md",
-    "Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
-    "HTTP server overview.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
+    "Mind Maps/CSAPP Reviewer.canvas",
+    "Mind Maps/1789158247760.canvas",
+    "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
+    "My Knowledge Base/Programming/Compiler/Why it's important to understand the compilation system.md",
+    "My Knowledge Base/Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md",
+    "Mind Maps/Computer Systems Master Map.canvas",
+    "Table of Contents.base",
+    "My Knowledge Base/Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/Address Space.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/Shell.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/Process Context.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/How Software runs.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
+    "Protection Rings.md",
+    "Obsidian Utility/Wikipedia Theme Refference.md",
+    "test.md",
+    "learn/step/25834.md",
+    "My Knowledge Base",
+    "Obsidian Utility",
+    "\"Pasted.md",
+    "My Knowledge Base/Computer Science/Linux/Weird way Linux spawns a process.md",
+    "Relevant Learning Materials/operating-system-concepts-10th_edition_dinasaur_rawr_rawr.pdf",
+    "Canvas/1789158170176.canvas",
+    "Virtual memory.md",
+    "My Knowledge Base/Computer Science/Linux/commands/strace.md",
+    "My Knowledge Base/Computer Networking/HTTP server overview.md",
+    "Relevant Learning Materials/3-chipsets-specification-update.pdf",
+    "My Knowledge Base/assets/videos/Cisco Networking Academy Course Launch(3).mp4",
+    "My Knowledge Base/assets/videos/assembly-phase.mp4",
+    "My Knowledge Base/assets/videos/Cisco Networking Academy My Learning Dashboard.mp4",
+    "My Knowledge Base/assets/images/Pasted image 20260911032038.png",
+    "Untitled.base",
+    "page-2026-09-10-19-22-18.md",
+    "My Knowledge Base/Computer Science/Linux/The Virtual Memory (ELF).md",
+    "My Knowledge Base/Computer Science/Linux/More about Kernel (Linux).md",
+    "My Knowledge Base/Computer Science/Linux/commands",
+    "Mind Maps/assets/Screenshot_20260910_191130.png",
+    "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Register.md",
     "Personal/Self Improvement/images/spacingeffect.avif",
-    "assets/images/http-client-server-model.png",
-    "learn/step",
-    "learn",
-    "PDF Books/3-chipsets-specification-update.pdf",
-    "PDF Books/Kusswurm - Modern X86 Assembly Language Programming, x86 64-bit, AVX, AVX2 _ AVX-512, Apress 2019.pdf",
+    "My Knowledge Base/assets/images/http-client-server-model.png",
     "Canvas/canva_assets/Untitled.canvas",
     "Canvas/Reverse Engineering.canvas",
-    "PDF Books/CSAPP_2016.pdf",
-    "assets/Pasted image 20260904180956.png",
-    "PDF Books/Intel Manual.pdf",
-    "Canvas/canva_assets/Computer System A programmer's perspective.png",
-    "PDF Books/Operating_Systems_From_0_to_1.pdf",
-    "Canvas/canva_assets/Intel 3 series.png",
-    "Canvas/canva_assets/Intel 64 Architecture.jpg",
-    "Canvas/canva_assets",
-    "Canvas/canva_assets/Operating System From 0 to 1.png",
-    "Canvas",
-    "assets/Screenshot 2026-08-18 015234.png",
-    "assets/Pasted image 20260803180953.png"
+    "My Knowledge Base/assets/images/Pasted image 20260904180956.png",
+    "Mind Maps/assets/Computer System A programmer's perspective.png",
+    "Mind Maps/assets/Intel 3 series.png",
+    "Mind Maps/assets/Intel 64 Architecture.jpg",
+    "Mind Maps/assets/Operating System From 0 to 1.png",
+    "My Knowledge Base/assets/images/Screenshot 2026-08-18 015234.png"
   ]
 }

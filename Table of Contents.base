@@ -1,0 +1,11 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.tags
+      - file.name
+      - formula.Untitled
+    columnSize:
+      file.tags: 390

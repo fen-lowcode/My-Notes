@@ -14,11 +14,14 @@ From a programmer's perspective, much of this copying is overhead that slows dow
 
 
 ###### *figure1.6*
-![](Figure1.6.png)
 
 
-###### *figure1.7*
+![normal](Figure1.6.png)
+
+
+###### *figure 1.7 *
 ![](Figure1.7.png)
+
 
 Because of physical laws, larger storage devices are slower than smaller storage devices. And faster devices are more expensive to build than their slower counter parts.
 
