@@ -1,0 +1,13 @@
+#CSAPP 
+
+#### 1.7.4 Files
+
+A file is a sequence of bytes, nothing more and nothing less. Every I/O device,
+including disks, keyboards, displays, and even networks, is modeled as a file. 
+
+All input and output in the system is performed by reading and writing files, using a
+small set of system calls known as Unix I/O.
+
+This simple and elegant notion of a file is nonetheless very powerful because it provides applications with a uniform view of all the varied I/O devices that might be contained in the system. 
+
+For example, application programmers who manipulate the contents of a disk file are blissfully unaware of the specific disk technology. Further, the same program will run on different systems that use different disk technologies. You will learn about Unix I/O in Chapter 10.

@@ -13,7 +13,7 @@
 ---
 #### What is an Abstract Machines? 
 
-==*"Abstract machines are machines because they permit step-by-step execution of programs; they are abstract because they omit the many details of real (hardware) machines=="* **[[Hardware Organization of a Typical System|Refer to this]]**
+==*"Abstract machines are machines because they permit step-by-step execution of programs; they are abstract because they omit the many details of real (hardware) machines=="* **[[Processors Read and Interpret Instructions Stored in Memory|Refer to this]]**
 
 ***Abstract machines provide an intermediate language stage for compilation, They bridge the gap between the high level of programming  language and the low level of a real machine.***
 

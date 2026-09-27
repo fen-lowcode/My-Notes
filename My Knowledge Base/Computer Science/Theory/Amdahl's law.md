@@ -1,10 +1,12 @@
 #theory 
 
+#### 1.9.1 Amdahl's law
+
 ==Gene Amdahl, one of the early pioneers in computing, made a simple but insightful observation== about the ==effectiveness of improving the performance of one part of a system.== 
 
 ==This observation has come to be known as Amdahl’s law.== 
 
-The main ==idea is that when we speed up one part of a system, the effect on the overall system performance depends on both how significant this part was and how much it sped up.== 
+The main **==idea is that when we speed up one part of a system, the effect on the overall system performance depends on both how significant this part was and how much it sped up.==** 
 
 Consider a system in which executing some application requires time $(T)old$. Suppose some part of the system requires a fraction **==$α$==** of this time, and that we improve its performance by a factor of ==**$k$**==. That is, the component originally required time αTold , and it now requires time ==**$( α (T)old)/k$**==. The overall execution time would thus be
 

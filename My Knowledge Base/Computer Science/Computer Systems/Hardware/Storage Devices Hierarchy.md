@@ -3,6 +3,8 @@
 ---
 #computer-system #hardware  #CSAPP 
 
+
+##### 1.6 Storage Device Hierarchy
 ---
 
 ![](Figure1.9.png)

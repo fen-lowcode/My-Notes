@@ -33,7 +33,7 @@ To understand how it technically works, we need to be familiar with how:
 
 ---
 
-![[The Virtual Memory (ELF)]] 
+![[The Virtual Memory (ELF) Overview]] 
 
 ---
 #### The Stack

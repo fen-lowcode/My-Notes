@@ -1,32 +1,5 @@
 #CSAPP 
 
-
-#### 1.4 Processors Read and Interpret Instructions Stored in Memory
-
-==At this point, our hello.c source program has been translated by the compilation system into an executable object file called hello that is stored on disk.== To run the executable file on a Unix system, we type its name to an application program known as a shell:
-
-``` bash
-
-linux> ./hello 
-hello, world 
-linux>
-
-```
-
-
-
-==The shell is a command-line interpreter that prints a prompt,== waits for you to type a command line, and then performs the command. If the first word of the command line does not correspond to a built-in shell command, then the shell assumes that it is the name of an executable file that it should load and run. 
-
-
-
-##### *`figure 1.4`* 
-
-![normal](Figure1.4.png)
-
-
-So in this case, the shell loads and runs the hello program and then waits for it to terminate. The hello program prints its message to the screen and then terminates. The shell then prints a prompt and waits for the next input command line.
-
-
 #### 1.4.1 Hardware Organization of a System 
 
 To understand what happens to our hello program when we run it, we need to understand the hardware organization of a typical system, which is shown in Figure 1.4. This particular picture is modeled after the family of recent Intel systems, but all systems have a similar look and feel. Don’t worry about the complexity of this figure just now. We will get to its various details in stages throughout the course of the book.
@@ -85,7 +58,3 @@ At its core is a word-size storage device (or ***[[Register]]*** ) called the **
 From the time that power is applied to the system until the time that the power is shut off, a **processor repeatedly executes the instruction pointed at by the program counter and updates the program counter to point to the next instruction.**
 
 ==A processor appears to operate according to a very simple instruction execution model, defined by its ***instruction set architecture***==.
-
----
-
-In general all of this works all together just for [[Running a simple Hello World Program]] or any other program in the computer.

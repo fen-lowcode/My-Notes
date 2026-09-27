@@ -10,7 +10,7 @@ When hardware and software needs to interact with each other then the kernel wil
 
 You can break most [operating systems](https://www.codecademy.com/resources/blog/operating-system/) into these three layers:
 
-- **[[Hardware Organization of a Typical System | Hardware]]** This comprises the physical parts of a computer, including its **RAM**, **[[Central Processing Unit (CPU) | CPU ]]** and input/output devices like hard drives, network devices, and graphic cards. The CPU performs the computations for the computer and reads and writes memory.
+- **[[Processors Read and Interpret Instructions Stored in Memory| Hardware]]** This comprises the physical parts of a computer, including its **RAM**, **[[Central Processing Unit (CPU) | CPU ]]** and input/output devices like hard drives, network devices, and graphic cards. The CPU performs the computations for the computer and reads and writes memory.
 
 - **Kernel**. The kernel is the core of the operating system. It is software that stays in memory and it sends instructions to the CPU and other hardware.
 

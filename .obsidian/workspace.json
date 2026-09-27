@@ -4,33 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7188d7db73b56de4",
+        "id": "bd42bb48554b76a5",
         "type": "tabs",
         "children": [
           {
-            "id": "ec12abc74f8ae1d5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mind Maps/CSAPP Reviewer.canvas",
-                "viewState": {
-                  "x": -8.368791024004508,
-                  "y": 216.12925035354027,
-                  "zoom": -1.624949518556829
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "CSAPP Reviewer"
-            }
-          },
-          {
-            "id": "fdde90d69aa95fc3",
+            "id": "5d4090d0fefde32c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Knowledge Base/Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
+                "file": "My Knowledge Base/Systems Communicate with Other Systems Using Networks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Systems Communicate with Other Systems Using Networks"
+            }
+          },
+          {
+            "id": "777537810746a345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Self Improvement/Ugly Nature of  Power.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -45,10 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Storage Devices Hierarchy"
+              "title": "Ugly Nature of  Power"
+            }
+          },
+          {
+            "id": "ac19a98d50ed46fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Concurrency and Parallelism"
+            }
+          },
+          {
+            "id": "fe6188454bb0c15f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Knowledge Base/Computer Science/Theory/Amdahl's law.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Amdahl's law"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Opera",
+                "query": "perverts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,11 +159,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 381.77734375
+    "width": 331.15625
   },
   "right": {
     "id": "2c74750d86aae33d",
@@ -212,59 +269,58 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "dc09873593b8cac5",
+  "active": "777537810746a345",
   "lastOpenFiles": [
-    "My Knowledge Base/Computer Science/Computer Systems/Hardware/Storage Devices Hierarchy.md",
     "Mind Maps/CSAPP Reviewer.canvas",
-    "Mind Maps/1789158247760.canvas",
-    "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
-    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/Running a simple Hello World Program.md",
-    "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Hardware Organization of a Typical System.md",
-    "My Knowledge Base/Programming/Compiler/Why it's important to understand the compilation system.md",
-    "My Knowledge Base/Programming/Compiler/How GCC works under the hood -  CSAPP Chapter 1.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
+    "My Knowledge Base/Computer Science/Theory/Amdahl's law.md",
     "Mind Maps/Computer Systems Master Map.canvas",
-    "Table of Contents.base",
-    "My Knowledge Base/Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
-    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/What is a Kernel.md",
+    "My Knowledge Base/Systems Communicate with Other Systems Using Networks.md",
+    "Important Themes.md",
+    "My Knowledge Base/Computer Science/Linux/The Virtual Memory (ELF) Overview.md",
     "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/Address Space.md",
-    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/Shell.md",
-    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/Process Context.md",
-    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/How Software runs.md",
-    "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/The Operating System Manages the Hardware.md",
-    "Protection Rings.md",
-    "Obsidian Utility/Wikipedia Theme Refference.md",
-    "test.md",
-    "learn/step/25834.md",
+    "My Knowledge Base/assets/Pasted image 20260914060325.png",
+    "My Knowledge Base/assets/Pasted image 20260914060305.png",
+    "Pasted image 20260914060229.png",
+    "Pasted image 20260914060104.png",
+    "My Knowledge Base/Computer Networking/Communication in the connected world/Network Types.md",
+    "My Knowledge Base/Computer Networking/Communication in the connected world/introduction.md",
+    "My Knowledge Base/Computer Networking/Communication in the connected world/Data Transmition.md",
+    "My Knowledge Base/Computer Networking/Communication in the connected world/Bandwidth and Throughput.md",
+    "My Knowledge Base/Computer Networking/Build a home network/Home Network Basics.md",
+    "My Knowledge Base/Computer Networking/Network Components, Types, and Connection/Network Components.md",
+    "My Knowledge Base/Computer Networking/Network Components, Types, and Connection/Introduction.md",
+    "My Knowledge Base/Computer Networking/Network Components, Types, and Connection/Client And Servers.md",
+    "Curiosity Zone.md",
+    "Mind Maps/1789158247760.canvas",
+    "My Knowledge Base/Protection Rings.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
+    "README.md",
+    "My Knowledge Base/Threads.md",
+    "My Knowledge Base/Processess.md",
+    "My Knowledge Base/Hello World CSAPP.md",
+    "My Knowledge Base/Files.md",
+    "My Knowledge Base/Hardware Organization of a System.md",
+    "My Knowledge Base/Direct Memory Access.md",
+    "My Knowledge Base/Virtual Memory.md",
+    "Table of Contents.base",
     "My Knowledge Base",
     "Obsidian Utility",
-    "\"Pasted.md",
-    "My Knowledge Base/Computer Science/Linux/Weird way Linux spawns a process.md",
     "Relevant Learning Materials/operating-system-concepts-10th_edition_dinasaur_rawr_rawr.pdf",
     "Canvas/1789158170176.canvas",
-    "Virtual memory.md",
-    "My Knowledge Base/Computer Science/Linux/commands/strace.md",
-    "My Knowledge Base/Computer Networking/HTTP server overview.md",
     "Relevant Learning Materials/3-chipsets-specification-update.pdf",
     "My Knowledge Base/assets/videos/Cisco Networking Academy Course Launch(3).mp4",
     "My Knowledge Base/assets/videos/assembly-phase.mp4",
     "My Knowledge Base/assets/videos/Cisco Networking Academy My Learning Dashboard.mp4",
     "My Knowledge Base/assets/images/Pasted image 20260911032038.png",
     "Untitled.base",
-    "page-2026-09-10-19-22-18.md",
-    "My Knowledge Base/Computer Science/Linux/The Virtual Memory (ELF).md",
-    "My Knowledge Base/Computer Science/Linux/More about Kernel (Linux).md",
     "My Knowledge Base/Computer Science/Linux/commands",
     "Mind Maps/assets/Screenshot_20260910_191130.png",
-    "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Register.md",
     "Personal/Self Improvement/images/spacingeffect.avif",
     "My Knowledge Base/assets/images/http-client-server-model.png",
     "Canvas/canva_assets/Untitled.canvas",
     "Canvas/Reverse Engineering.canvas",
     "My Knowledge Base/assets/images/Pasted image 20260904180956.png",
-    "Mind Maps/assets/Computer System A programmer's perspective.png",
-    "Mind Maps/assets/Intel 3 series.png",
-    "Mind Maps/assets/Intel 64 Architecture.jpg",
-    "Mind Maps/assets/Operating System From 0 to 1.png",
-    "My Knowledge Base/assets/images/Screenshot 2026-08-18 015234.png"
+    "Mind Maps/assets/Computer System A programmer's perspective.png"
   ]
 }

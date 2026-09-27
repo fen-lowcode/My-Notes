@@ -74,13 +74,10 @@ The GCC compiler driver reads a source file  and translate it into an executable
 
 	![[compilation-phase.mp4]]
 
-*  ==Assembly phase== - Next the assembler (as) translate the file assembly file `that ends with .s`
-   into a machine-language instruction, packages them in a form know as a `relocatable object program` and stores the result in a object file `usually that ends with .o`. This file is a binary file to encode some instructions for the program.
-	   ![[assembly-phase.mp4]]
+*  ==Assembly phase== - Next the assembler (as) translate the file assembly file that ends with .s  into a machine-language instruction, packages them in a form know as a relocatable object program  and stores the result in a object file `usually that ends with .o`. This file is a binary file to encode some instructions for the program.
+	
+	![[assembly-phase.mp4]]
 
-*  ==Linking phase== - Is the final step in the compilation process. For example, when a program calls external functions like `printf`, which is part of the standard C library, those functions aren't defined in the user's source code. Instead, they reside in precompiled object files, such as `printf.o`. During linking, a tool called the **linker** (typically `ld`) takes the object file generated from your source code (e.g., `hello.o`) and combines it with other necessary object files and libraries. The result is a complete **executable file** (e.g., `hello`) that contains all the code and data needed to run the program. This file is then ready to be loaded into memory and executed by the operating system.  
+*  ==Linking phase== - Is the final step in the compilation process. For example, when a program calls external functions like `printf`, which is part of the standard C library, those functions aren't defined in the user's source code. Instead, they reside in precompiled object files, such as `printf.o`. During linking, a tool called the **linker** (typically `ld`) takes the object file generated from your source code (e.g., `hello.o`) and combines it with other necessary object files and libraries. The result is a complete **executable file** (e.g., `hello`) that contains all the code and data needed to run the program. This file is then ready to be loaded into memory and executed by the operating system.  - Sub topic If confused refer to **[[How linker works]]**
 
 	![[linking.mp4]]
-
-   >[!Sub-Topic]
-   >If confused refer to [[How linker works]]

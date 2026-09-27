@@ -12,7 +12,7 @@ int main() {
 }
 ```
 
-Given this simple view of a [[Hardware Organization of a Typical System| system's hardware orgnization]] and operation, we can begin to understand **what happens when we run our [[A Tour of Computer Systems - Chapter 1 CSAPP#*figure 1.1* | Hello World Program]]**. We must omit a lot of details here that will be filled in later, but for now we will be content with **the big picture**.
+Given this simple view of a [[Processors Read and Interpret Instructions Stored in Memory| system's hardware orgnization]] and operation, we can begin to understand **what happens when we run our [[A Tour of Computer Systems - Chapter 1 CSAPP#*figure 1.1* | Hello World Program]]**. We must omit a lot of details here that will be filled in later, but for now we will be content with **the big picture**.
 
 Initially, the **shell program** is executing its instructions, waiting for us to type a command. As we type the characters `./hello` at the **keyboard**, the shell program **reads each one into a register and then stores it in memory,** as shown in [[Running a simple Hello World Program#*figure1.5* | figure 1.5]]. When we hit the **enter key** on the keyboard, the shell knows that we have finished typing the command.
 
