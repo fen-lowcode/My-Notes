@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Self Improvement/Ugly Nature of  Power.md",
-                "mode": "preview",
+                "file": "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ugly Nature of  Power"
+              "title": "Concurrency and Parallelism"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Knowledge Base/Computer Science/Theory/Amdahl's law.md",
+                "file": "The Importance of Abstractions in Computer Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Amdahl's law"
+              "title": "The Importance of Abstractions in Computer Systems"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perverts",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,13 +268,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "777537810746a345",
+  "active": "fe6188454bb0c15f",
   "lastOpenFiles": [
     "Mind Maps/CSAPP Reviewer.canvas",
+    "The Importance of Abstractions in Computer Systems.md",
     "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
-    "My Knowledge Base/Computer Science/Theory/Amdahl's law.md",
     "Mind Maps/Computer Systems Master Map.canvas",
+    "My Knowledge Base/Computer Science/Theory/Amdahl's law.md",
     "My Knowledge Base/Systems Communicate with Other Systems Using Networks.md",
+    "Personal/Self Improvement/Ugly Nature of  Power.md",
     "Important Themes.md",
     "My Knowledge Base/Computer Science/Linux/The Virtual Memory (ELF) Overview.md",
     "My Knowledge Base/Computer Science/Computer Systems/Operating Systems/Address Space.md",
@@ -301,8 +302,6 @@
     "My Knowledge Base/Hello World CSAPP.md",
     "My Knowledge Base/Files.md",
     "My Knowledge Base/Hardware Organization of a System.md",
-    "My Knowledge Base/Direct Memory Access.md",
-    "My Knowledge Base/Virtual Memory.md",
     "Table of Contents.base",
     "My Knowledge Base",
     "Obsidian Utility",

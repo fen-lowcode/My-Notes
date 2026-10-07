@@ -1,5 +1,7 @@
 #computer-system #programming 
 
+#### 1.9.2 Concurrency and Parallelism
+
 >[!important]
 >Concurrency and Parallelism are important and powerful concept that have been existing since the early history of computer evolution.
 
