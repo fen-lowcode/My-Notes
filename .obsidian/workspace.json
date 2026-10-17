@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d4090d0fefde32c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Knowledge Base/Systems Communicate with Other Systems Using Networks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Systems Communicate with Other Systems Using Networks"
-            }
-          },
-          {
             "id": "777537810746a345",
             "type": "leaf",
             "state": {
@@ -109,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web LLM attacks.md",
-                "mode": "source",
+                "file": "Link-Time Optimization (LTO).md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -124,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Web LLM attacks"
+              "title": "Link-Time Optimization (LTO)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "power ",
+                "query": "rax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -294,17 +270,26 @@
   },
   "active": "6714d5e951b0c71e",
   "lastOpenFiles": [
-    "Pasted image 20261012193307.png",
-    "The Importance of Abstractions in Computer Systems.md",
-    "README.md",
-    "Table of Contents.base",
-    "Curiosity Zone.md",
+    "ELF Stripping for freestanding programs.md",
+    "Link-Time Optimization (LTO).md",
+    "Mind Maps/CSAPP Reviewer.canvas",
+    "Mind Maps/Computer Systems Master Map.canvas",
+    "My Knowledge Base/Computer Science/Computer Systems/Assembly and Binary/Accessing registers in Assembly guide.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Assembly and Binary/Byte Ordering and Representation in Memory Overview.md",
+    "My Knowledge Base/Cyber Security/OS security meassures/Address Space Layout Randomization.md",
+    "My Knowledge Base/Computer Science/Computer Systems/Assembly and Binary/32 bit and 64 bit - what in the world is a bit.md",
+    "My Knowledge Base/Cyber Security/Binary Exploitation/Binary Patching/What is Binary Pathing.md",
     "Web LLM attacks.md",
+    "My Knowledge Base/The Importance of Abstractions in Computer Systems.md",
+    "My Knowledge Base/Computer Networking/Build a home network/Introduction.md",
+    "My Knowledge Base/Computer Networking/Build a home network/Home Network Basics.md",
+    "Table of Contents.base",
+    "Pasted image 20261012193307.png",
+    "README.md",
+    "Curiosity Zone.md",
     "Personal/Self Improvement/Ugly Nature of  Power.md",
     "My Knowledge Base/Programming/Compiler/A Tour of Computer Systems - Chapter 1 CSAPP.md",
-    "Mind Maps/CSAPP Reviewer.canvas",
     "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Concurrency and Parallelism.md",
-    "Mind Maps/Computer Systems Master Map.canvas",
     "My Knowledge Base/Computer Science/Theory/Amdahl's law.md",
     "My Knowledge Base/Systems Communicate with Other Systems Using Networks.md",
     "Important Themes.md",
@@ -318,16 +303,8 @@
     "My Knowledge Base/Computer Networking/Communication in the connected world/introduction.md",
     "My Knowledge Base/Computer Networking/Communication in the connected world/Data Transmition.md",
     "My Knowledge Base/Computer Networking/Communication in the connected world/Bandwidth and Throughput.md",
-    "My Knowledge Base/Computer Networking/Build a home network/Home Network Basics.md",
     "My Knowledge Base/Computer Networking/Network Components, Types, and Connection/Network Components.md",
-    "My Knowledge Base/Computer Networking/Network Components, Types, and Connection/Introduction.md",
-    "My Knowledge Base/Computer Networking/Network Components, Types, and Connection/Client And Servers.md",
     "Mind Maps/1789158247760.canvas",
-    "My Knowledge Base/Protection Rings.md",
-    "My Knowledge Base/Computer Science/Computer Systems/Computer Architecture/Cache Memory.md",
-    "My Knowledge Base/Threads.md",
-    "My Knowledge Base/Processess.md",
-    "My Knowledge Base/Hello World CSAPP.md",
     "My Knowledge Base",
     "Obsidian Utility",
     "Relevant Learning Materials/operating-system-concepts-10th_edition_dinasaur_rawr_rawr.pdf",
@@ -344,7 +321,6 @@
     "My Knowledge Base/assets/images/http-client-server-model.png",
     "Canvas/canva_assets/Untitled.canvas",
     "Canvas/Reverse Engineering.canvas",
-    "My Knowledge Base/assets/images/Pasted image 20260904180956.png",
-    "Mind Maps/assets/Computer System A programmer's perspective.png"
+    "My Knowledge Base/assets/images/Pasted image 20260904180956.png"
   ]
 }
